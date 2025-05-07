@@ -1,18 +1,18 @@
 export const url = process.env.URL || 'http://localhost:8080';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
-export const siteName = 'Eleventy Excellent';
-export const siteDescription = 'Eleventy starter for building modern, resilient websites';
+export const siteName = 'Alex Tran';
+export const siteDescription =
+  "I write about a wide range of things including what God's teaching me, product reviews, or deep dives on random topics of interest.";
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
-  avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
-  email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-  website: 'https://www.lenesaile.com', // i.e. https.://www.lenesaile.com - the personal site of the author
-  fediverse: '@lene@front-end.social' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
+  name: 'Alex Tran', // i.e. Lene Saile - page / blog author's name. Must be set.
+  avatar: 'https://gravatar.com/avatar/84b79ef500240c8f122a3beaa76995a99b32bf8e0395534922e12f5bb038c33d', // path to the author's avatar. In this case just using a favicon.
+  email: '', // i.e. hola@lenesaile.com - email of the author
+  website: 'https://www.alextran.org' // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 export const creator = {
   name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
@@ -88,7 +88,7 @@ export const greenweb = {
 };
 export const viewRepo = {
   // this is for the view/edit on github link. The value in the package.json will be pulled in.
-  allow: true,
+  allow: false,
   infoText: 'View this page on GitHub'
 };
 export const easteregg = true;
