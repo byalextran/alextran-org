@@ -1,6 +1,7 @@
 ---
 title: Initiating Growth Environment, Phase 1
 date: 2008-04-22T01:18:14.000Z
+permalink: /initiating-growth-environment-phase-1/
 ---
 This is a follow-up to my [last post](https://www.alextran.org/2008/04/14/creating-an-atmosphere-of-growth/) talking about ways to ensure continual spiritual growth. In the post, I talked about some big bucket areas that I wanted to check on monthly to ensure I was growing in them.
 

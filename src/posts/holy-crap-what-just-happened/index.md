@@ -1,6 +1,7 @@
 ---
 title: Holy Crap, What Just Happened?
 date: 2011-12-15T12:41:55.000Z
+permalink: /holy-crap-what-just-happened/
 ---
 I would not describe myself as a visionary. One of those people able to rally people around a greater purpose or goal.
 

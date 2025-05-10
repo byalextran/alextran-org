@@ -1,6 +1,7 @@
 ---
 title: Would Jesus Divorce You?
 date: 2011-07-23T08:42:49.000Z
+permalink: /would-jesus-divorce-you/
 ---
 I’ve been irked at myself lately.
 

@@ -1,6 +1,7 @@
 ---
 title: Why I Started Reverse Fasting to Grow Closer to God
 date: 2013-01-02T09:55:50.000Z
+permalink: /why-im-reverse-fasting-this-year/
 ---
 What’s the purpose of fasting? To me, there’s two components of a fast.
 

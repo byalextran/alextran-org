@@ -1,6 +1,7 @@
 ---
 title: Is 2 hours and 10 years worth infinite influence for Jesus?
 date: 2008-05-13T02:39:52.000Z
+permalink: /is-2-hours-and-10-years-worth-infinite-influence-for-jesus/
 ---
 Ponder with me . . . pick something you’d like to be good at and think of the results you could have if for the next ten years you spent two hours a day _everyday_ deliberately practicing that “craft.”
 

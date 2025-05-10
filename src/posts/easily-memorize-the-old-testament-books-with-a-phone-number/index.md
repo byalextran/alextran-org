@@ -1,6 +1,7 @@
 ---
 title: Easily memorize the Old Testament books with a phone number
 date: 2007-08-27T04:06:23.000Z
+permalink: /easily-memorize-the-old-testament-books-with-a-phone-number/
 ---
 Anyone familiar with the number 555-1212? That’s the winning phone number for today’s post.
 

@@ -1,6 +1,7 @@
 ---
 title: Like Mother, Like Son (Poems by Alex Tran)
 date: 2010-01-01T04:59:25.000Z
+permalink: /like-mother-like-son-poems-by-alex-tran/
 ---
 I was flipping through some of my old documents and ran across this collection of poems. I wrote them for my mom last year as a Christmas present.
 

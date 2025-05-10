@@ -1,6 +1,7 @@
 ---
 title: How to upgrade WordPress in less than a minute
 date: 2008-07-26T03:34:00.000Z
+permalink: /how-to-upgrade-wordpress-in-less-than-a-minute/
 ---
 If you can satisfy two reasonable requirements, upgrading [WordPress](http://wordpress.org/) can be ridiculously easy using [Subversion](http://subversion.tigris.org/).  If you’ve ever attempted to manually upgrade WordPress using the “[Three Step Upgrade](http://codex.wordpress.org/Upgrading_WordPress),” you know how much of a pain it can be.  Three steps is false advertisement.  It’s more like a gazillion.  ;)
 

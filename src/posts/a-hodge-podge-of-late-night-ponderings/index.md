@@ -1,6 +1,7 @@
 ---
 title: A hodge-podge of late night ponderings
 date: 2008-04-30T09:58:20.000Z
+permalink: /a-hodge-podge-of-late-night-ponderings/
 ---
 You ever have one of those nights where you can’t sleep because you feel like God is on the prowl?
 

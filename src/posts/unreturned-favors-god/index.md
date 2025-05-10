@@ -1,6 +1,7 @@
 ---
 title: Unreturned Favors From God
 date: 2014-03-15T03:01:11.000Z
+permalink: /unreturned-favors-god/
 ---
 ![calculator](calculator-300x185-e8iXws6WEYJS.jpg)
 

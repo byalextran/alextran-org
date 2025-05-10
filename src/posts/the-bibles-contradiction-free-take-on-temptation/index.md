@@ -1,6 +1,7 @@
 ---
 title: The Bible&#8217;s Contradiction-Free Take on Temptation
 date: 2008-02-10T00:06:04.000Z
+permalink: /the-bibles-contradiction-free-take-on-temptation/
 ---
 Is there a contradiction in the Bible when it comes to temptation?
 

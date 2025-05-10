@@ -1,6 +1,7 @@
 ---
 title: Accountability and Staying Connected to the Vine
 date: 2011-05-23T06:02:08.000Z
+permalink: /accountability-and-staying-connected-to-the-vine/
 ---
 I’ve always had a bad taste in my mouth when it comes to accountability relationships. I cringe and sigh anytime I’ve been in groups which require an accountability partner.
 

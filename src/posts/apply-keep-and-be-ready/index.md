@@ -1,6 +1,7 @@
 ---
 title: Apply, Keep and Be Ready
 date: 2008-10-07T06:21:46.000Z
+permalink: /apply-keep-and-be-ready/
 ---
 > **Proverbs 22:17-19 (NIV)**  
 > 17 Pay attention and listen to the sayings of the wise;  

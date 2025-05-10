@@ -1,6 +1,7 @@
 ---
 title: Thank You Giovanni
 date: 2008-03-28T22:38:35.000Z
+permalink: /thank-you-giovanni/
 ---
 ### Angela
 

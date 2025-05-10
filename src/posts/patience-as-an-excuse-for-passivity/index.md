@@ -1,6 +1,7 @@
 ---
 title: Patience as an excuse for passivity
 date: 2008-08-22T07:58:53.000Z
+permalink: /patience-as-an-excuse-for-passivity/
 ---
 There are plenty of stories in the Bible about people being patient. There’s no shortage of sermon’s illustrating the need to keep running the race and being faithful to the call of God. You have Noah, Samuel, Joseph, David, etc.
 

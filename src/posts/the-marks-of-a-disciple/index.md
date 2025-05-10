@@ -1,6 +1,7 @@
 ---
 title: The Marks of a Disciple
 date: 2011-06-11T22:17:46.000Z
+permalink: /the-marks-of-a-disciple/
 ---
 As with most things, it’s easy to say “[I want to make disciples](https://www.alextran.org/2011/02/11/it-only-took-30-years-but-i-have-one/),” but much harder to do.
 

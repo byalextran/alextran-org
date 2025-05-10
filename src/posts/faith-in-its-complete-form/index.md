@@ -1,6 +1,7 @@
 ---
 title: Faith in its complete form
 date: 2008-02-26T09:46:02.000Z
+permalink: /faith-in-its-complete-form/
 ---
 I find it “coincidental” that my last two posts have unknowingly followed a progression that will be completed with this post.
 

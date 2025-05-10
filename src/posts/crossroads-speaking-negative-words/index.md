@@ -1,6 +1,7 @@
 ---
 title: The Crossroads of Speaking Negative Words
 date: 2013-12-27T12:46:35.000Z
+permalink: /crossroads-speaking-negative-words/
 ---
 I couldn’t fall asleep last Thursday.
 

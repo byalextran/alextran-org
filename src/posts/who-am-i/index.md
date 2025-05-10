@@ -1,6 +1,7 @@
 ---
 title: Who Am I?
 date: 2009-12-26T12:26:48.000Z
+permalink: /who-am-i/
 ---
 I’ve been banging my head against the same wall for awhile now. It happens to be the wall that is [Celebration Church Online](http://online.celebration.org).
 

@@ -1,6 +1,7 @@
 ---
 title: How I&#8217;ve Learned to Let Go of Money
 date: 2011-08-08T07:02:52.000Z
+permalink: /how-ive-learned-to-let-go-of-money/
 ---
 As I pondered what I was going to write about this week . . . I decided to document the various money-related God testimonies I’ve experienced personally.
 

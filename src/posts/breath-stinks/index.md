@@ -1,6 +1,7 @@
 ---
 title: Your Breath Stinks
 date: 2014-09-07T03:20:02.000Z
+permalink: /breath-stinks/
 ---
 ![Bad Breath Isn't Sexy](bad-breath-300x81-tS7wX0vOejMw.jpg)
 

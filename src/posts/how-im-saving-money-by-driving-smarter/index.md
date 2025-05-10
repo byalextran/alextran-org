@@ -1,6 +1,7 @@
 ---
 title: How I&#8217;m Saving Money By Driving Smarter
 date: 2011-05-29T09:59:52.000Z
+permalink: /how-im-saving-money-by-driving-smarter/
 ---
 Today, I’m talking about [hypermiling](http://en.wikipedia.org/wiki/Hypermiling); the art of changing the way you drive to increase miles per gallon and save money.
 

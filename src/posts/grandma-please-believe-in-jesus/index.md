@@ -1,6 +1,7 @@
 ---
 title: Grandma, please believe in Jesus
 date: 2008-03-16T09:31:18.000Z
+permalink: /grandma-please-believe-in-jesus/
 ---
 A few years ago I found out my unsaved grandma was about to die. Unfortunately, my Chinese was not up to par, so I couldn’t say what I wanted to say to her. Instead, I wrote a letter and had my aunt read/translate it to my grandma.
 

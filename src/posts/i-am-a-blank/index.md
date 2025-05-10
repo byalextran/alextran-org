@@ -1,6 +1,7 @@
 ---
 title: I am a &lt;blank&gt;
 date: 2010-03-08T10:18:56.000Z
+permalink: /i-am-a-blank/
 ---
 > For two years I have met for hundreds of hours on committees. I have never written a poem about it. It is deadening to my soul. I am a thinker. A writer. A preacher. A poet and songwriter. At least these are the avenues of love and service where my heart flourishes. . . .  
 > ~[John Piper](http://www.desiringgod.org/Blog/2249_how_i_almost_quit/)

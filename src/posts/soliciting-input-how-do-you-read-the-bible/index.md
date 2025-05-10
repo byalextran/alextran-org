@@ -1,6 +1,7 @@
 ---
 title: Soliciting input. How do you read the Bible?
 date: 2010-01-02T12:20:47.000Z
+permalink: /soliciting-input-how-do-you-read-the-bible/
 ---
 I’m curious to know how you approach reading your Bible? Particularly, how do you ensure you’re maximizing what you read?
 

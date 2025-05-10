@@ -1,6 +1,7 @@
 ---
 title: It Only Took 30 Years, But I Have One!
 date: 2011-02-11T14:33:14.000Z
+permalink: /it-only-took-30-years-but-i-have-one/
 ---
 And no, [it’s not a wife](https://www.alextran.org/2011/01/08/why-im-30-and-still-single/). ;)
 

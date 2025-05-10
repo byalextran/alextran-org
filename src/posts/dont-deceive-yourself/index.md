@@ -1,6 +1,7 @@
 ---
 title: Don&#8217;t deceive yourself
 date: 2008-06-17T07:49:44.000Z
+permalink: /dont-deceive-yourself/
 ---
 I can encourage people. I can challenge people. I spend time with God daily. I’m comfortable praying out loud. I can give advice and guidance.
 

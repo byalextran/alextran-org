@@ -1,6 +1,7 @@
 ---
 title: Reminder to update your digital camera&#8217;s clock
 date: 2009-01-19T11:22:05.000Z
+permalink: /reminder-to-update-your-digital-cameras-clock/
 ---
 When taking pictures in foreign countries (or differing time zones), remember to adjust your digital camera’s clock to reflect the new time zone.  That will save you \_lots\_ of time when you go to organize them later.
 

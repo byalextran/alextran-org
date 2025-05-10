@@ -1,6 +1,7 @@
 ---
 title: 8 Insights from Andy Stanley on Stating Vision Simply
 date: 2009-11-03T04:04:15.000Z
+permalink: /8-insights-from-andy-stanley-on-stating-vision-simply/
 ---
 Last night I listened to the latest episode of Andy Stanley’s Leadership Podcast ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=290055666), [RSS](http://feeds.feedburner.com/AndyStanleyLeadershipPodcast)) titled _Stating Vision Simply_. It fit well with another article I read from Joel on Software called [_Figuring out what your company is all about_](http://www.joelonsoftware.com/items/2009/11/01.html).
 

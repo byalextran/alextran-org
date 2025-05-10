@@ -1,6 +1,7 @@
 ---
 title: WP-Hive versus Virtual Multiblog
 date: 2009-02-12T09:35:27.000Z
+permalink: /wp-hive-versus-virtual-multiblog/
 ---
 As of WordPress 3.0, this functionality is built-in without the use of plugins. These plugins are no longer necessary.
 

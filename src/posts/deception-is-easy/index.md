@@ -1,6 +1,7 @@
 ---
 title: Deception is Easy
 date: 2011-10-23T07:50:02.000Z
+permalink: /deception-is-easy/
 ---
 This past week (on the 18th), I celebrated my 11 year spiritual birthday.
 

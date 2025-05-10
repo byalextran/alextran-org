@@ -1,6 +1,7 @@
 ---
 title: Being Comfortable with the Uncomfortable
 date: 2013-02-14T13:42:38.000Z
+permalink: /being-comfortable-with-the-uncomfortable/
 ---
 ![Girl Suffocating](suffocating-300x122-vT5yvj4lSVgH.jpg)
 

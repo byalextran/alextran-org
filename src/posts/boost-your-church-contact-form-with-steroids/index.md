@@ -1,6 +1,7 @@
 ---
 title: Boost your church contact form with steroids
 date: 2008-07-04T00:01:20.000Z
+permalink: /boost-your-church-contact-form-with-steroids/
 ---
 I just wanted to throw this out there.  Churches should have ridiculously good customer service.
 

@@ -1,6 +1,7 @@
 ---
 title: How to Dig Yourself out of a Bible-Reading Rut
 date: 2017-07-05T02:14:17.000Z
+permalink: /bible-rut/
 ---
 In college, I remember a piece of surprising advice. I remember thinking, “Is that something a Christian is allowed to say?”
 

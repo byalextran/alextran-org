@@ -1,6 +1,7 @@
 ---
 title: Become familiar and become the fool
 date: 2008-06-20T09:01:40.000Z
+permalink: /become-familiar-and-become-the-fool/
 ---
 **Pastor**: Turn your bibles to 2 Kings, Chapter 2.  
 **you**: \*thinking to yourself\* That’s the story of Elijah and Elisha. I am a Bible scholar!

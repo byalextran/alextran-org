@@ -1,6 +1,7 @@
 ---
 title: Spiritual Maturity Requires Action
 date: 2009-02-17T01:22:31.000Z
+permalink: /spiritual-maturity-requires-action/
 ---
 Here’s some more quote lovin’ from Andy Stanley in [_Communicating for a Change_](http://www.amazon.com/gp/product/1590525140?ie=UTF8&tag=shr-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590525140).
 

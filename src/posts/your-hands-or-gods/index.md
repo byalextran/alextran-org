@@ -1,6 +1,7 @@
 ---
 title: Your Hands or God&#8217;s?
 date: 2008-10-08T08:11:16.000Z
+permalink: /your-hands-or-gods/
 ---
 I read in Ecclesiastes 4 this morning.  Up until this point in the book, King Solomon has gone through a list of things that are “meaningless” to him.  It’s a pretty interesting list including: everything (yes, he says everything), wisdom, pleasures, folly, toil, oppression and even friendliness.
 

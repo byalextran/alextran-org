@@ -1,6 +1,7 @@
 ---
 title: 3 Reasons to Love the Book of James
 date: 2008-08-30T08:05:53.000Z
+permalink: /3-reasons-to-love-the-book-of-james/
 ---
 This post is part of a series on a commentary I am reading on the book of James.  For a brief introduction, please read the [first post](https://www.alextran.org/2008/08/28/busting-up-a-james-commentary/) in the series.
 

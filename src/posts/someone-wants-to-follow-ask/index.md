@@ -1,6 +1,7 @@
 ---
 title: Someone Wants to Follow. Ask.
 date: 2011-06-20T06:58:01.000Z
+permalink: /someone-wants-to-follow-ask/
 ---
 Who can you ask? Who can you bring along? What can you do together?
 

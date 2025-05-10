@@ -1,6 +1,7 @@
 ---
 title: Two Simple and Free Ways to Eliminate Porn Temptation
 date: 2015-08-09T06:40:00.000Z
+permalink: /porn-temptation/
 ---
 ![Temptation - Apple](apple-temptation-0lGRjZsWIDSt.jpg)
 

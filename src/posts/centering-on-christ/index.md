@@ -1,6 +1,7 @@
 ---
 title: Centering on Christ
 date: 2011-12-05T09:31:22.000Z
+permalink: /centering-on-christ/
 ---
 > **Jeremiah 29:13 (NIV)**  
 > You will seek me and find me when you seek me with all your heart.

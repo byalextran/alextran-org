@@ -1,6 +1,7 @@
 ---
 title: 'An Encouragement Folder: You Need One'
 date: 2011-11-07T14:09:07.000Z
+permalink: /an-encouragement-folder-you-need-one/
 ---
 > **1 Samuel 30:6 (ESV)**  
 > And David was greatly distressed, for the people spoke of stoning him, because all the people were bitter in soul, each for his sons and daughters. But _David strengthened himself in the LORD_ his God.

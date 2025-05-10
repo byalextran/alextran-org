@@ -1,6 +1,7 @@
 ---
 title: How to Grow Spiritually and Save Time with Grace Letter
 date: 2012-02-18T06:43:59.000Z
+permalink: /how-to-grow-spiritually-and-save-time-with-grace-letter/
 ---
 Here’s a little snippet I got in an email last week.
 

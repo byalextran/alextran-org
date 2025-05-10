@@ -1,6 +1,7 @@
 ---
 title: Too Much Cheese Makes You Selfish
 date: 2013-11-10T03:42:02.000Z
+permalink: /too-much-cheese-makes-you-selfish/
 ---
 ![Cheese Wedges](5383384526_19ae18883b_b-e13840-zgBsZwojJDhw.jpg)
 

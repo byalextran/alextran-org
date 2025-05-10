@@ -1,6 +1,7 @@
 ---
 title: Unveiling of the Son
 date: 2009-02-01T11:03:09.000Z
+permalink: /unveiling-of-the-son/
 ---
 > **2 Corinthians 3:14-16 (NIV)**  
 > 14 But their minds were made dull, for to this day the same veil remains when the old covenant is read. It has not been removed, because only in Christ is it taken away. 15 Even to this day when Moses is read, a veil covers their hearts. 16 But whenever anyone turns to the Lord, the veil is taken away.

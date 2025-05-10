@@ -1,6 +1,7 @@
 ---
 title: The Unintentional Influence of a Parked Car
 date: 2014-09-27T13:09:17.000Z
+permalink: /unintentional-influence-parked-car/
 ---
 ![Parked Cars](parked-cars-300x116-oONNLX8MOCZ4.jpg)
 

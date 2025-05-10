@@ -1,6 +1,7 @@
 ---
 title: God Never Disqualifies You
 date: 2013-06-22T01:22:20.000Z
+permalink: /god-never-disqualifies-you/
 ---
 > Your past actions never disqualify you from being used by God. ([click to tweet this](http://clicktotweet.com/fO79f).)
 

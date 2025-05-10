@@ -1,6 +1,7 @@
 ---
 title: Buy One Step, Get One Free!
 date: 2009-02-16T01:50:53.000Z
+permalink: /buy-one-step-get-one-free/
 ---
 > Acts of obedience allow our faith to intersect with God’s faithfulness. It is at that intersection that we see God work. And when we see Him work our faith gets bigger.  
 > ~ _Andy Stanley_ in [_Communicating for a Change_](http://www.amazon.com/gp/product/1590525140?ie=UTF8&tag=shr-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590525140)

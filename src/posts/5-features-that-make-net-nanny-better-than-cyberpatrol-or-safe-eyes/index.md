@@ -1,6 +1,7 @@
 ---
 title: 5 Features that Make Net Nanny Better than CyberPatrol or Safe Eyes
 date: 2010-04-12T01:12:44.000Z
+permalink: /5-features-that-make-net-nanny-better-than-cyberpatrol-or-safe-eyes/
 ---
 Christian guys look at porn. We search for pictures of naked chicks. We lust after attractive women.
 

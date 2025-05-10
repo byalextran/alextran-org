@@ -1,6 +1,7 @@
 ---
 title: Flourishing with Roots
 date: 2009-05-20T00:21:58.000Z
+permalink: /flourishing-with-roots/
 ---
 > **1 Samuel 14:7 (NIV)**  
 > 7 “Do all that you have in mind,” his armor-bearer said. “Go ahead; _I am with you heart and soul_.” (emphasis added)

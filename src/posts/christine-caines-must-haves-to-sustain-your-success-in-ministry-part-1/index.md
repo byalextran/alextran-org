@@ -1,6 +1,7 @@
 ---
 title: Christine Caine’s “Must Haves” to Sustain Your Success in Ministry (Part 1)
 date: 2009-11-10T04:10:51.000Z
+permalink: /christine-caines-must-haves-to-sustain-your-success-in-ministry-part-1/
 ---
 This past weekend at Celebration Church we had the privilege of having [Christine Caine](http://www.equipandempower.org/) ([Twitter](http://twitter.com/christinecaine), [Facebook](http://www.facebook.com/pages/Christine-Caine/143678730088)) guest speak. Not only did she speak at our weekend services, but she took some time out to speak to the staff.
 

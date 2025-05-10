@@ -1,6 +1,7 @@
 ---
 title: The Reason We Sacrifice
 date: 2011-10-31T09:33:11.000Z
+permalink: /the-reason-we-sacrifice/
 ---
 > We give up things we love for things we love even more.
 

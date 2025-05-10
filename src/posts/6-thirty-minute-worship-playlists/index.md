@@ -1,6 +1,7 @@
 ---
 title: 6 Thirty Minute Worship Playlists
 date: 2011-11-21T04:24:16.000Z
+permalink: /6-thirty-minute-worship-playlists/
 ---
 So despite my inability to sing well, I love times of worship. Particularly times of personal worship during the week when it can be just me and Jesus.
 

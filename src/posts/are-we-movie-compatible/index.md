@@ -1,6 +1,7 @@
 ---
 title: Are we movie compatible?
 date: 2011-07-04T03:07:09.000Z
+permalink: /are-we-movie-compatible/
 ---
 Let’s compare lists and find out!
 

@@ -1,6 +1,7 @@
 ---
 title: But as for me, I trust in you
 date: 2011-06-28T04:52:06.000Z
+permalink: /but-as-for-me-i-trust-in-you/
 ---
 As I’ve been reading through the Psalms lately, there’s been a major theme I’ve noticed.
 

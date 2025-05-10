@@ -1,6 +1,7 @@
 ---
 title: Pandora, Rdio, Spotify or MOG?
 date: 2011-07-15T08:44:46.000Z
+permalink: /pandora-rdio-spotify-or-mog/
 ---
 Over the past couple of months I’ve been on the hunt for a music subscription service worthy of my $5/month.
 

@@ -1,6 +1,7 @@
 ---
 title: How to Keep Updated on New Posts
 date: 2009-12-06T11:05:11.000Z
+permalink: /how-to-keep-updated-on-new-posts/
 ---
 I did some minor housekeeping with the email and RSS links used to subscribe to this blog.
 

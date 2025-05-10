@@ -1,6 +1,7 @@
 ---
 title: 24 Bible Reading Plans That Will Satisfy Anyone
 date: 2007-11-26T05:40:02.000Z
+permalink: /23-bible-reading-plans-that-will-satisfy-anyone/
 ---
 Here is a diverse and pretty comprehensive collection of Bible reading plans. All of them are easy to follow and most include a printable copy you can keep in your Bible.
 

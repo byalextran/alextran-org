@@ -1,6 +1,7 @@
 ---
 title: Use Evernote to Maintain a Digital Encouragement Folder
 date: 2011-11-14T11:25:22.000Z
+permalink: /use-evernote-to-maintain-a-digital-encouragement-folder/
 ---
 [![](logo_evernote-Edt70XJkY1ID.png)](https://www.alextran.org/wp-content/uploads/2011/11/logo_evernote.png)In my [previous post](https://www.alextran.org/2011/11/07/an-encouragement-folder-you-need-one/), I talked about maintaining an encouragement folder; a folder storing encouraging notes, emails, etc. reminding you of what you’re doing well and the impact you’re having.
 

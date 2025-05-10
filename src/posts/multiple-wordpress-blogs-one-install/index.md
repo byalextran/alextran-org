@@ -1,6 +1,7 @@
 ---
 title: Multiple WordPress blogs. One install.
 date: 2008-05-25T00:02:52.000Z
+permalink: /multiple-wordpress-blogs-one-install/
 ---
 Awhile back I took a look at the different options for maintaining multiple [WordPress](http://wordpress.org) blogs with a single install in order to streamline WordPress and plugin updates. I looked at pretty much all the options on [this Codex page](http://codex.wordpress.org/Installing_Multiple_Blogs) and only one stood out.
 

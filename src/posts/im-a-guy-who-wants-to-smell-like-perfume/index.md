@@ -1,6 +1,7 @@
 ---
 title: I&#8217;m a Guy Who Wants to Smell Like Perfume
 date: 2011-07-12T10:36:56.000Z
+permalink: /im-a-guy-who-wants-to-smell-like-perfume/
 ---
 > **John 12:3-8 (NIV)**  
 > 3 Then Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus’ feet and wiped his feet with her hair. \[…\]

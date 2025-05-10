@@ -1,6 +1,7 @@
 ---
 title: The Most Comprehensive List of Bible Reading Plans
 date: 2014-01-01T15:07:56.000Z
+permalink: /comprehensive-list-bible-reading-plans/
 ---
 ![Reading Plan Screenshot](the-gospels-300x198-wwJnhlf0WLYt.png)
 

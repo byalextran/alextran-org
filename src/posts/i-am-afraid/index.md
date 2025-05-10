@@ -1,6 +1,7 @@
 ---
 title: I am afraid
 date: 2009-06-30T04:26:41.000Z
+permalink: /i-am-afraid/
 ---
 I don’t know why, but I’m afraid.
 

@@ -1,6 +1,7 @@
 ---
 title: The Terrible Opportunity
 date: 2010-09-21T09:56:36.000Z
+permalink: /a-terrible-opportunity/
 ---
 ![dusty-london](dusty-london-300x200-C1WjoWUMgl2x.jpg)With permission, I am re-posting a blog post written by a friend.
 

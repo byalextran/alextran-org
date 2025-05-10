@@ -1,6 +1,7 @@
 ---
 title: Why I Hate Fasting
 date: 2012-01-15T04:16:59.000Z
+permalink: /why-i-hate-fasting/
 ---
 **Update**: While I can’t say I love fasting now, I have found a few things that have helped me get the most out of my fasts. I jotted those down in [another post](https://www.alextran.org/6-uber-practical-steps-spiritually-significant-fast/) you may find interesting.
 

@@ -1,6 +1,7 @@
 ---
 title: How Big is Your Noah&#8217;s Ark?
 date: 2011-01-18T13:55:31.000Z
+permalink: /how-big-is-your-noahs-ark/
 ---
 Learning from your past experiences is a great thing to do. But using your past experiences as a gauge for what God can do in the future is a horrible idea.
 

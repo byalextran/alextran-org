@@ -1,6 +1,7 @@
 ---
 title: Why I Stopped Praying Before Eating
 date: 2011-05-09T10:27:32.000Z
+permalink: /why-i-stopped-praying-before-eating/
 ---
 [I tweeted a question](https://twitter.com/#!/a1extran/status/65821397036965888) last week asking people if they prayed before they ate and why.
 

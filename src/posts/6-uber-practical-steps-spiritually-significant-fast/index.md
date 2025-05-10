@@ -1,6 +1,7 @@
 ---
 title: 6 Uber-Practical Steps to a Spiritually Significant Fast
 date: 2014-12-29T14:37:42.000Z
+permalink: /6-uber-practical-steps-spiritually-significant-fast/
 ---
 Honestly, I never look forward to whenever my church does a 21-day fast to kick off the year.
 

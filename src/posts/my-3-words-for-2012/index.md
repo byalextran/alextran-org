@@ -1,6 +1,7 @@
 ---
 title: My 3 Words for 2012
 date: 2012-01-02T06:33:04.000Z
+permalink: /my-3-words-for-2012/
 ---
 Following the [footsteps of Chris Brogan](http://www.chrisbrogan.com/3words2012/), I’ve come up with 3 words instead of resolutions for the new year.
 

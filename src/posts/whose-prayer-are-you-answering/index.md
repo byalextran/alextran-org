@@ -1,6 +1,7 @@
 ---
 title: Whose Prayer Are You Answering?
 date: 2009-02-07T04:17:32.000Z
+permalink: /whose-prayer-are-you-answering/
 ---
 Sometimes it’s weird thinking we are God’s answer to someone’s prayer. The person receiving the answered prayer knows it’s from God without hesitation.  But often times we’re standing there scratching our head.  There was nothing spiritual about giving a friend in tough financial times $40.  Or calling a friend you hadn’t talked with in awhile just to see how they were doing.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Faith: You&#8217;re Hot and You&#8217;re Cold'
 date: 2011-01-12T18:54:07.000Z
+permalink: /faith-youre-hot-and-youre-cold/
 ---
 Wow. It’s only the third day of the fast and I am S-T-ruggling.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Asking for Wisdom: Remedial Edition'
 date: 2008-10-26T08:55:42.000Z
+permalink: /asking-for-wisdom-remedial-edition/
 ---
 Dear Alex,
 

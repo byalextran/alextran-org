@@ -1,6 +1,7 @@
 ---
 title: Guys are <em>definitely</em> not girls
 date: 2008-12-01T10:07:39.000Z
+permalink: /guys-are-definitely-not-girls/
 ---
 Let’s talk about relationships . . . of the dating variety.
 

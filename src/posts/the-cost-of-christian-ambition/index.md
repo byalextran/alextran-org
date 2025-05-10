@@ -1,6 +1,7 @@
 ---
 title: The Cost of Christian Ambition
 date: 2010-08-16T11:07:03.000Z
+permalink: /the-cost-of-christian-ambition/
 ---
 I read an article a few weeks ago. It asks the question: [Can you be a “great man” or “great woman” without being a butt-hole?](http://www.scottberkun.com/blog/2010/can-you-be-a-great-man/) Or is being a jerk a necessary quality to achieve greatness?
 

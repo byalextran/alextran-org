@@ -1,6 +1,7 @@
 ---
 title: Suffer Well My Friends, Suffer Well
 date: 2010-04-25T09:13:42.000Z
+permalink: /suffer-well-my-friends-suffer-well/
 ---
 I write this for those that find them in a tough season of life. Particular my friends from Church Online who are going through various trials in life; having to (or learning to) suffer well.
 

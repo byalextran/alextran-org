@@ -1,6 +1,7 @@
 ---
 title: The Courage to Rebuild Ruins
 date: 2014-09-20T09:34:08.000Z
+permalink: /courage-rebuild-ruins/
 ---
 ![Ruins of Sukhothai](ruins-300x168-m8NXQvNnvXaS.jpg)
 

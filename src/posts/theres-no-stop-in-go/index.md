@@ -1,6 +1,7 @@
 ---
 title: There&#8217;s No &#8220;Stop&#8221; in &#8220;Go&#8221;
 date: 2009-10-05T09:48:17.000Z
+permalink: /theres-no-stop-in-go/
 ---
 Who has been approached by a homeless guy asking for money?
 

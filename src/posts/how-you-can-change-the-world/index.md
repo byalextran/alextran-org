@@ -1,6 +1,7 @@
 ---
 title: How You Can Change the World
 date: 2011-09-18T02:07:35.000Z
+permalink: /how-you-can-change-the-world/
 ---
 Do you truly believe you can change the world? What is your definition of changing the world?
 

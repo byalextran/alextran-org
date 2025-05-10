@@ -1,6 +1,7 @@
 ---
 title: 5 Lessons from 15 Years as a Christian
 date: 2015-10-18T10:00:54.000Z
+permalink: /fifteen-years/
 ---
 Today (October 18, 2015) is a significant milestone in my faith journey.
 

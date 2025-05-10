@@ -1,6 +1,7 @@
 ---
 title: Should Ordained Pastors Opt Out of Social Security?
 date: 2010-03-26T09:33:29.000Z
+permalink: /pastors-opt-out/
 ---
 Should ordained pastors/ministers opt out of self employment taxes (i.e. Social Security and Medicare taxes)?
 

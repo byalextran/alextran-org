@@ -1,6 +1,7 @@
 ---
 title: I would like to thank . . . (not the Academy)
 date: 2008-08-02T10:00:06.000Z
+permalink: /i-would-like-to-thank-not-the-academy/
 ---
 Regardless if you get your recommended daily amount of sleep, you can still wake up refreshed, but feel tired and overwhelmed.
 

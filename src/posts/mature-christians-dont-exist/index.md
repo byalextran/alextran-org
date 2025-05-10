@@ -1,6 +1,7 @@
 ---
 title: Mature Christians Don&#8217;t Exist
 date: 2011-07-31T10:53:28.000Z
+permalink: /mature-christians-dont-exist/
 ---
 I often hear myself comparing the behavior of Christians with that of “mature” Christians.
 

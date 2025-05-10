@@ -1,6 +1,7 @@
 ---
 title: You and I Are Both in Full-Time Ministry
 date: 2015-03-29T02:40:22.000Z
+permalink: /you-and-i-are-both-in-full-time-ministry/
 ---
 Let’s play a word association game. What’s the first thing that comes to mind when I say the following words/phrases.
 

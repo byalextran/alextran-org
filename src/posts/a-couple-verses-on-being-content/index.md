@@ -1,6 +1,7 @@
 ---
 title: A Couple Verses on Being Content
 date: 2011-08-29T09:48:50.000Z
+permalink: /a-couple-verses-on-being-content/
 ---
 > **Isaiah 49:4 (NIV)**  
 > But I said, “I have labored in vain;  

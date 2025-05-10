@@ -1,6 +1,7 @@
 ---
 title: How to Fail Asking for Wisdom 101
 date: 2008-10-26T08:32:10.000Z
+permalink: /how-to-fail-asking-for-wisdom-101/
 ---
 I got my report card today.  I flunked.  Pretty badly.
 

@@ -1,6 +1,7 @@
 ---
 title: Illustrated Guides to Fixing Canon E18 Lens Errors
 date: 2009-02-28T05:33:22.000Z
+permalink: /illustrated-guides-to-fixing-canon-e18-lens-errors/
 ---
 Ask me what I did on my day off?  Spent about six total hours dismantling my sister’s Canon SD400 to troubleshoot why the lens wouldn’t retract.
 

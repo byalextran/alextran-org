@@ -1,6 +1,7 @@
 ---
 title: Afraid to Pray
 date: 2011-08-22T01:14:36.000Z
+permalink: /afraid-to-pray/
 ---
 Delayed obedience is disobedience. Partial obedience is disobedience.
 

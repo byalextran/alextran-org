@@ -1,6 +1,7 @@
 ---
 title: I got convicted
 date: 2016-10-15T08:49:00.000Z
+permalink: /convicted/
 ---
 ![Frog Stealing Money](stealing-frog-xZA8as6eMcoz.png)Conviction come’s in the weirdest ways sometimes.
 

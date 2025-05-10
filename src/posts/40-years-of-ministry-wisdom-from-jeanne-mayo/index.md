@@ -1,6 +1,7 @@
 ---
 title: 4 Lessons from 40 Years of Ministry Experience
 date: 2011-10-02T06:32:53.000Z
+permalink: /40-years-of-ministry-wisdom-from-jeanne-mayo/
 ---
 I had never heard of [Jeanne Mayo](http://jeannemayo.com/) until I heard her speak recently.
 

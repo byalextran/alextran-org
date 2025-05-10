@@ -1,6 +1,7 @@
 ---
 title: Do You Have These Four Characteristics of a Disciple?
 date: 2012-08-17T10:23:56.000Z
+permalink: /do-you-have-these-four-characteristics-of-a-disciple/
 ---
 Have you ever wondered what it means to be a disciple of Christ?
 

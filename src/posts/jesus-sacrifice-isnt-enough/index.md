@@ -1,6 +1,7 @@
 ---
 title: Jesus&#8217; sacrifice isn&#8217;t enough
 date: 2008-05-28T07:39:51.000Z
+permalink: /jesus-sacrifice-isnt-enough/
 ---
 Today’s song of the day is [Undignified](http://tinysong.com/nVH5) by The David Crowder Band.
 

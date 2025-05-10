@@ -1,6 +1,7 @@
 ---
 title: Race Planning Using the SuperPower Calculator
 date: 2019-11-13T22:49:05.000Z
+permalink: /race-planning/
 ---
 It all comes down to this: race day.
 
