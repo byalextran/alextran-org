@@ -1,6 +1,7 @@
 ---
 title: "DIY Sports Drink Tonicity Calculator"
 date: 2020-07-07
+permalink: /tonicity-calculator/
 ---
 
 If you haven't read [How to Minimize GI Distress When Running (By Mixing Your Own Sports Drink)](/diy-sports-drink/), do that first. It provides the context you'll need to get the most out of this calculator.

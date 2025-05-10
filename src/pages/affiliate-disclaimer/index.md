@@ -1,6 +1,7 @@
 ---
 title: "Affiliate Disclaimer"
 date: 2020-07-07
+permalink: /affiliate-disclaimer/
 ---
 
 My goal with this site is to share as much valuable content as possible. I do it because I love running, learning, teaching, and writing. PowerPacing.Run gives me an outlet to do all four of those things.

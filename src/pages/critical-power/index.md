@@ -1,6 +1,7 @@
 ---
 title: "What is Critical Power (CP)?"
 date: 2019-10-27
+permalink: /key-concepts/critical-power/
 ---
 
 In simple terms, it represents your current fitness and is measured in watts (W) or watts per kilogram (W/kg).

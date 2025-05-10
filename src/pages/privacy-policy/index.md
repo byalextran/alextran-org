@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2022-04-09
+permalink: /privacy-policy/
 ---
 
 ## What personal data we collect and why we collect it

@@ -1,6 +1,7 @@
 ---
 title: "What is Running Effectiveness (RE)?"
 date: 2019-10-28
+permalink: /key-concepts/running-effectiveness/
 ---
 
 Not to be confused with running economy or running efficiency, running _effectiveness_ measures how effective a runner is at converting power to speed.
@@ -10,7 +11,7 @@ Not to be confused with running economy or running efficiency, running _effectiv
 RE can be calculated in various analytics platforms like [WKO](https://www.trainingpeaks.com/wko5/), [Golden Cheetah](https://www.goldencheetah.org/), [Today's Plan](https://www.todaysplan.com.au/), or the [SuperPower Calculator](/spc/).
 
 > The second most important metric in running with power: Running Effectiveness.
-> 
+>
 > Steve Palladino ([The Palladino Power Project](https://www.facebook.com/groups/PalladinoPowerProject/))
 
 RE's utility is primarily found in race planning and post-run analysis.
@@ -22,41 +23,41 @@ Below are some example races I've done across different distances.
 Notice how just using average power, distance, and RE predicted finish times within seconds of the actual finish times.
 
 - <figure>
-    
+
     [![](images/spc-predicted-hm.png)](https://www.alextran.org/wp-content/uploads/2019/10/spc-predicted-hm.png)
-    
+
     <figcaption>
-    
+
     Half Marathon (4 seconds off)
-    
+
     </figcaption>
-    
+
     </figure>
-    
+
 - <figure>
-    
+
     [![](images/spc-predicted-10k.png)](https://www.alextran.org/wp-content/uploads/2019/10/spc-predicted-10k.png)
-    
+
     <figcaption>
-    
+
     10k (3 seconds off)
-    
+
     </figcaption>
-    
+
     </figure>
-    
+
 - <figure>
-    
+
     [![](images/spc-predicted-5k.png)](https://www.alextran.org/wp-content/uploads/2019/10/spc-predicted-5k.png)
-    
+
     <figcaption>
-    
+
     5k (1 second off)
-    
+
     </figcaption>
-    
+
     </figure>
-    
+
 
 To understand RE's utility in post-run analysis, it's beneficial to understand things that impact RE:
 

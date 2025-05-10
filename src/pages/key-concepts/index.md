@@ -1,6 +1,7 @@
 ---
 title: "Key Concepts"
 date: 2019-10-27
+permalink: /key-concepts/
 ---
 
 I'm slowly working on adding more to this page. In the meantime, this page is brought to you by the letter C, D, F, R, and S. ?

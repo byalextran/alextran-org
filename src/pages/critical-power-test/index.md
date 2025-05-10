@@ -1,6 +1,7 @@
 ---
 title: "What is a Critical Power (CP) Test?"
 date: 2019-10-30
+permalink: /key-concepts/critical-power-test/
 ---
 
 A CP test is designed to test and measure your current fitness and should be performed regularly (every 4-6 weeks) as part of any training block.
@@ -19,7 +20,7 @@ Common options include: 3/10 minute or 9/3 minute. The two parts include a short
 [9/3 minute and 6/3 lap are recommended by Stryd](https://support.stryd.com/hc/en-us/articles/115003989074) while [3/10 is recommended by Steve Palladino](https://docs.google.com/document/d/e/2PACX-1vSz0ryPMD4vVJLi2HGjkqoUKRzRPhN78TUNlCmuYcrLTjeLPx-ZaiROk9NG96iatJ4zYKAQcbjEEot0/pub). The latter from research showing a 10 minute or greater duration is less prone to error/overestimating CP.
 
 > CP was considerably overestimated when only trials lasting less than 10 min were included, independent of the mathematical model used.
-> 
+>
 > [Critical power: How different protocols and models affect its determination](https://www.jsams.org/article/S1440-2440\(17\)31817-0/abstract)
 
 For that reason, I defer to Steve's recommendation of a 3/10 protocol for most runners and 3/12 or 3/15 for more experienced runners. For the best result, test the shorter duration first and then the longer duration (i.e. 3/10 versus 10/3).

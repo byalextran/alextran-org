@@ -2,6 +2,7 @@
 title: "Mix Your Own Sports Drink and Minimize GI Distress"
 date: 2020-07-07
 coverImage: "facebook-diy-sports-drink-ingredients-scaled.jpg"
+permalink: /diy-sports-drink/
 ---
 
 As it turns out, it's _really_ easy to mix your own sports drink with readily available ingredients.

@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2007-04-17
+permalink: /about/
 ---
 
 I am

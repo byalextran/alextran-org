@@ -1,6 +1,7 @@
 ---
 title: "What is a Fatigue Factor (i.e. Riegel Exponent)?"
 date: 2019-10-28
+permalink: /key-concepts/fatigue-factor/
 ---
 
 Developed by Peter Riegel, a runner's fatigue factor can help predict finish times based on a known race time or [critical power](https://www.alextran.org/key-concepts/critical-power/). It measures how much a runner fatigues over increased distances and is a key part of good race power planning.

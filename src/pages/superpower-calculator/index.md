@@ -2,6 +2,7 @@
 title: "SuperPower Calculator for Sheets (SPCs)"
 date: 2019-11-06
 coverImage: "numbers-on-a-track.jpg"
+permalink: /superpower-calculator/
 ---
 
 The SuperPower Calculator (SPC) contains a comprehensive suite of calculators and converters useful to anyone training, racing, and running with power.

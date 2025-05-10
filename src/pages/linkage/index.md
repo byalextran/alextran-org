@@ -1,6 +1,7 @@
 ---
 title: "Instagram Links"
 date: 2020-03-20
+permalink: /linkage/
 ---
 
 Click on an image below to visit the link associated with that post.
