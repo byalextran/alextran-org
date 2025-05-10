@@ -1,15 +1,6 @@
 ---
 title: Spiritual Maturity Requires Action
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-02-17T01:22:31.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=400
-  type: wordpress
-  url: https://www.alextran.org/spiritual-maturity-requires-action/
 ---
 Here’s some more quote lovin’ from Andy Stanley in [_Communicating for a Change_](http://www.amazon.com/gp/product/1590525140?ie=UTF8&tag=shr-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590525140).
 

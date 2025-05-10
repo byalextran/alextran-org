@@ -1,15 +1,6 @@
 ---
 title: Why I Hate Fasting
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2012-01-15T04:16:59.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1783
-  type: wordpress
-  url: https://www.alextran.org/why-i-hate-fasting/
 ---
 **Update**: While I can’t say I love fasting now, I have found a few things that have helped me get the most out of my fasts. I jotted those down in [another post](https://www.alextran.org/6-uber-practical-steps-spiritually-significant-fast/) you may find interesting.
 

@@ -1,15 +1,6 @@
 ---
 title: Tidbits of Wisdom from Pastor Steven Furtick
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-10-09T09:04:19.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1087
-  type: wordpress
-  url: https://www.alextran.org/tidbits-of-wisdom-from-pastor-steven-furtick/
 ---
 ![furtick-family](furtick-family1-300x132-aSZHOVtpArm7.jpg)My church had the privilege of having [Pastor Steven Furtick](http://www.stevenfurtick.com) of [Elevation Church](http://www.elevationchurch.org) speak at one of our leadership events this past week. As an added bonus, he spoke to just the staff.
 

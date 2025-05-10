@@ -1,15 +1,6 @@
 ---
 title: Like Mother, Like Son (Poems by Alex Tran)
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-01-01T04:59:25.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=855
-  type: wordpress
-  url: https://www.alextran.org/like-mother-like-son-poems-by-alex-tran/
 ---
 I was flipping through some of my old documents and ran across this collection of poems. I wrote them for my mom last year as a Christmas present.
 

@@ -1,15 +1,6 @@
 ---
 title: I am a &lt;blank&gt;
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-03-08T10:18:56.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=904
-  type: wordpress
-  url: https://www.alextran.org/i-am-a-blank/
 ---
 > For two years I have met for hundreds of hours on committees. I have never written a poem about it. It is deadening to my soul. I am a thinker. A writer. A preacher. A poet and songwriter. At least these are the avenues of love and service where my heart flourishes. . . .  
 > ~[John Piper](http://www.desiringgod.org/Blog/2249_how_i_almost_quit/)

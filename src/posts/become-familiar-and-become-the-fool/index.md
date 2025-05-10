@@ -1,15 +1,6 @@
 ---
 title: Become familiar and become the fool
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-06-20T09:01:40.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=87
-  type: wordpress
-  url: https://www.alextran.org/become-familiar-and-become-the-fool/
 ---
 **Pastor**: Turn your bibles to 2 Kings, Chapter 2.  
 **you**: \*thinking to yourself\* That’s the story of Elijah and Elisha. I am a Bible scholar!

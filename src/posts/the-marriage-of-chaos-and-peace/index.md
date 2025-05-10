@@ -1,15 +1,6 @@
 ---
 title: The marriage of chaos and peace
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-11-24T08:08:46.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=267
-  type: wordpress
-  url: https://www.alextran.org/the-marriage-of-chaos-and-peace/
 ---
 I dropped the F-bomb last week.  While spending time with God no less.
 

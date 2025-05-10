@@ -1,15 +1,6 @@
 ---
 title: The Most Comprehensive List of Bible Reading Plans
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2014-01-01T15:07:56.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2166
-  type: wordpress
-  url: https://www.alextran.org/comprehensive-list-bible-reading-plans/
 ---
 ![Reading Plan Screenshot](the-gospels-300x198-wwJnhlf0WLYt.png)
 

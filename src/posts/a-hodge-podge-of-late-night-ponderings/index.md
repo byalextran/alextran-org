@@ -1,15 +1,6 @@
 ---
 title: A hodge-podge of late night ponderings
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-04-30T09:58:20.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=82
-  type: wordpress
-  url: https://www.alextran.org/a-hodge-podge-of-late-night-ponderings/
 ---
 You ever have one of those nights where you can’t sleep because you feel like God is on the prowl?
 

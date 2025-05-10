@@ -1,15 +1,6 @@
 ---
 title: Why I&#8217;m 30 and Still Single
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-01-08T13:52:07.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1193
-  type: wordpress
-  url: https://www.alextran.org/why-im-30-and-still-single/
 ---
 So, in March I’m turning 30.
 

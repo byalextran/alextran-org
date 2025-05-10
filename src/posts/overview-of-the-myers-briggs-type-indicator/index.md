@@ -1,15 +1,6 @@
 ---
 title: Overview of the Myers-Briggs Type Indicator
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-09-12T06:48:50.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1518
-  type: wordpress
-  url: https://www.alextran.org/overview-of-the-myers-briggs-type-indicator/
 ---
 I  have a new-found appreciation for the [Myers-Briggs Type Indicator](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) (MBTI). It’s those four letters (e.g., ENFP) often associated with a person’s personality type.
 

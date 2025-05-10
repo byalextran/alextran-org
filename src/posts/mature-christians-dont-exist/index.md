@@ -1,15 +1,6 @@
 ---
 title: Mature Christians Don&#8217;t Exist
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-07-31T10:53:28.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1448
-  type: wordpress
-  url: https://www.alextran.org/mature-christians-dont-exist/
 ---
 I often hear myself comparing the behavior of Christians with that of “mature” Christians.
 

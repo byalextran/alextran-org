@@ -1,16 +1,6 @@
 ---
 title: Is 2 hours and 10 years worth infinite influence for Jesus?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-05-13T02:39:52.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=83
-  type: wordpress
-  url: >-
-    https://www.alextran.org/is-2-hours-and-10-years-worth-infinite-influence-for-jesus/
 ---
 Ponder with me . . . pick something you’d like to be good at and think of the results you could have if for the next ten years you spent two hours a day _everyday_ deliberately practicing that “craft.”
 

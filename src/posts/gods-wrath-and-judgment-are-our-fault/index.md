@@ -1,15 +1,6 @@
 ---
 title: God&#8217;s wrath and judgment are our fault
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-11-08T18:43:18.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=259
-  type: wordpress
-  url: https://www.alextran.org/gods-wrath-and-judgment-are-our-fault/
 ---
 > **Ezekiel 24:13-14 (NIV)**  
 > 13 \[…\] I tried to cleanse you but you would not be cleansed from your impurity, \[…\].

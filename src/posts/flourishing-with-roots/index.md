@@ -1,15 +1,6 @@
 ---
 title: Flourishing with Roots
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-05-20T00:21:58.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=654
-  type: wordpress
-  url: https://www.alextran.org/flourishing-with-roots/
 ---
 > **1 Samuel 14:7 (NIV)**  
 > 7 “Do all that you have in mind,” his armor-bearer said. “Go ahead; _I am with you heart and soul_.” (emphasis added)

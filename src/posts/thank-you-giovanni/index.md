@@ -1,15 +1,6 @@
 ---
 title: Thank You Giovanni
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-03-28T22:38:35.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/2008/03/28/thank-you-giovanni/
-  type: wordpress
-  url: https://www.alextran.org/thank-you-giovanni/
 ---
 ### Angela
 

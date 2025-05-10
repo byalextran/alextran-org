@@ -1,15 +1,6 @@
 ---
 title: Deception is Easy
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-10-23T07:50:02.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1617
-  type: wordpress
-  url: https://www.alextran.org/deception-is-easy/
 ---
 This past week (on the 18th), I celebrated my 11 year spiritual birthday.
 

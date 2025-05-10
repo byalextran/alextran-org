@@ -1,16 +1,6 @@
 ---
 title: Easily memorize the Old Testament books with a phone number
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2007-08-27T04:06:23.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=42
-  type: wordpress
-  url: >-
-    https://www.alextran.org/easily-memorize-the-old-testament-books-with-a-phone-number/
 ---
 Anyone familiar with the number 555-1212? That’s the winning phone number for today’s post.
 

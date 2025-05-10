@@ -1,15 +1,6 @@
 ---
 title: Since I Have My Life Before Me
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-04-13T02:10:21.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=554
-  type: wordpress
-  url: https://www.alextran.org/since-i-have-my-life-before-me/
 ---
 Below is an essay written by Brooke Bronkowski, a girl I read about in _[Crazy Love](http://www.amazon.com/gp/product/1434768511?ie=UTF8&tag=shr-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1434768511)_ by [Francis Chan](http://www.cornerstonesimi.com/).
 

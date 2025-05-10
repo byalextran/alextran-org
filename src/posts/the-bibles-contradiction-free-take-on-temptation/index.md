@@ -1,16 +1,6 @@
 ---
 title: The Bible&#8217;s Contradiction-Free Take on Temptation
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-02-10T00:06:04.000Z
-metadata:
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2008/02/09/the-bibles-contradiction-free-take-on-temptation/
-  type: wordpress
-  url: https://www.alextran.org/the-bibles-contradiction-free-take-on-temptation/
 ---
 Is there a contradiction in the Bible when it comes to temptation?
 

@@ -1,15 +1,6 @@
 ---
 title: Accountability and Staying Connected to the Vine
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-05-23T06:02:08.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1313
-  type: wordpress
-  url: https://www.alextran.org/accountability-and-staying-connected-to-the-vine/
 ---
 I’ve always had a bad taste in my mouth when it comes to accountability relationships. I cringe and sigh anytime I’ve been in groups which require an accountability partner.
 

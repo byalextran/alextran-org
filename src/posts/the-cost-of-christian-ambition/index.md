@@ -1,15 +1,6 @@
 ---
 title: The Cost of Christian Ambition
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-08-16T11:07:03.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1038
-  type: wordpress
-  url: https://www.alextran.org/the-cost-of-christian-ambition/
 ---
 I read an article a few weeks ago. It asks the question: [Can you be a “great man” or “great woman” without being a butt-hole?](http://www.scottberkun.com/blog/2010/can-you-be-a-great-man/) Or is being a jerk a necessary quality to achieve greatness?
 

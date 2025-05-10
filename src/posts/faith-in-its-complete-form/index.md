@@ -1,16 +1,6 @@
 ---
 title: Faith in its complete form
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-02-26T09:46:02.000Z
-metadata:
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2008/02/25/faith-in-its-complete-form/
-  type: wordpress
-  url: https://www.alextran.org/faith-in-its-complete-form/
 ---
 I find it “coincidental” that my last two posts have unknowingly followed a progression that will be completed with this post.
 

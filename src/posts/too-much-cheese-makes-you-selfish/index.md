@@ -1,15 +1,6 @@
 ---
 title: Too Much Cheese Makes You Selfish
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2013-11-10T03:42:02.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2040
-  type: wordpress
-  url: https://www.alextran.org/too-much-cheese-makes-you-selfish/
 ---
 ![Cheese Wedges](5383384526_19ae18883b_b-e13840-zgBsZwojJDhw.jpg)
 

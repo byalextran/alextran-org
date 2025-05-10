@@ -1,15 +1,6 @@
 ---
 title: The Reason We Sacrifice
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-10-31T09:33:11.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1624
-  type: wordpress
-  url: https://www.alextran.org/the-reason-we-sacrifice/
 ---
 > We give up things we love for things we love even more.
 

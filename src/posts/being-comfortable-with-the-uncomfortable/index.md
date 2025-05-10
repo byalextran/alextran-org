@@ -1,15 +1,6 @@
 ---
 title: Being Comfortable with the Uncomfortable
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2013-02-14T13:42:38.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1953
-  type: wordpress
-  url: https://www.alextran.org/being-comfortable-with-the-uncomfortable/
 ---
 ![Girl Suffocating](suffocating-300x122-vT5yvj4lSVgH.jpg)
 

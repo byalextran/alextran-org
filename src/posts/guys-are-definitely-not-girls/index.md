@@ -1,15 +1,6 @@
 ---
 title: Guys are <em>definitely</em> not girls
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-12-01T10:07:39.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=289
-  type: wordpress
-  url: https://www.alextran.org/guys-are-definitely-not-girls/
 ---
 Let’s talk about relationships . . . of the dating variety.
 

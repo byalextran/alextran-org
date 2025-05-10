@@ -1,15 +1,6 @@
 ---
 title: Your Hands or God&#8217;s?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-10-08T08:11:16.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=201
-  type: wordpress
-  url: https://www.alextran.org/your-hands-or-gods/
 ---
 I read in Ecclesiastes 4 this morning.  Up until this point in the book, King Solomon has gone through a list of things that are “meaningless” to him.  It’s a pretty interesting list including: everything (yes, he says everything), wisdom, pleasures, folly, toil, oppression and even friendliness.
 

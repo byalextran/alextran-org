@@ -1,15 +1,6 @@
 ---
 title: 3 Reasons to Love the Book of James
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-08-30T08:05:53.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=168
-  type: wordpress
-  url: https://www.alextran.org/3-reasons-to-love-the-book-of-james/
 ---
 This post is part of a series on a commentary I am reading on the book of James.  For a brief introduction, please read the [first post](https://www.alextran.org/2008/08/28/busting-up-a-james-commentary/) in the series.
 

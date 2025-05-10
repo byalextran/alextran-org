@@ -1,16 +1,6 @@
 ---
 title: An act of worship that hurts
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-02-19T08:46:08.000Z
-metadata:
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2008/02/18/an-act-of-worship-that-hurts/
-  type: wordpress
-  url: https://www.alextran.org/an-act-of-worship-that-hurts/
 ---
 I received some advice once. It was “give it back to God.”
 

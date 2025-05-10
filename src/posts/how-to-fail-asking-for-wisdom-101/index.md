@@ -1,15 +1,6 @@
 ---
 title: How to Fail Asking for Wisdom 101
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-10-26T08:32:10.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=214
-  type: wordpress
-  url: https://www.alextran.org/how-to-fail-asking-for-wisdom-101/
 ---
 I got my report card today.  I flunked.  Pretty badly.
 

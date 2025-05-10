@@ -1,16 +1,6 @@
 ---
 title: How to Grow Spiritually and Save Time with Grace Letter
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2012-02-18T06:43:59.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1824
-  type: wordpress
-  url: >-
-    https://www.alextran.org/how-to-grow-spiritually-and-save-time-with-grace-letter/
 ---
 Here’s a little snippet I got in an email last week.
 

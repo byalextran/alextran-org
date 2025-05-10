@@ -1,15 +1,6 @@
 ---
 title: Creating an atmosphere of growth
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-04-15T01:20:01.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=80
-  type: wordpress
-  url: https://www.alextran.org/creating-an-atmosphere-of-growth/
 ---
 Last Tuesday, Pastor Paul Scanlon of [Abundant Life Ministries](http://www.alm.org.uk) came and spoke to the staff at Celebration Church.
 

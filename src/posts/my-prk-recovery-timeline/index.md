@@ -1,19 +1,6 @@
 ---
 title: My PRK Recovery Timeline
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-10-07T11:12:43.000Z
-metadata:
-  categories:
-    - Featured Posts
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1072
-  type: wordpress
-  url: https://www.alextran.org/my-prk-recovery-timeline/
-tags:
-  - featured-posts
 ---
 ![prk-surgery](prk-surgery1-300x147-xNxhRr9RJpKx.jpg)One major consequence of PRK over LASIK is the longer and much more variable healing/recovery time. It’s nerve-racking having blurry vision weeks and even months after surgery.
 

@@ -1,15 +1,6 @@
 ---
 title: How You Can Change the World
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-09-18T02:07:35.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1551
-  type: wordpress
-  url: https://www.alextran.org/how-you-can-change-the-world/
 ---
 Do you truly believe you can change the world? What is your definition of changing the world?
 

@@ -1,15 +1,6 @@
 ---
 title: The Unintentional Influence of a Parked Car
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2014-09-27T13:09:17.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2294
-  type: wordpress
-  url: https://www.alextran.org/unintentional-influence-parked-car/
 ---
 ![Parked Cars](parked-cars-300x116-oONNLX8MOCZ4.jpg)
 

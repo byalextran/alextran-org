@@ -1,15 +1,6 @@
 ---
 title: Who Am I?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-12-26T12:26:48.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=843
-  type: wordpress
-  url: https://www.alextran.org/who-am-i/
 ---
 I’ve been banging my head against the same wall for awhile now. It happens to be the wall that is [Celebration Church Online](http://online.celebration.org).
 

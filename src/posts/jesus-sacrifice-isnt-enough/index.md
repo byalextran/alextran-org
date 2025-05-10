@@ -1,15 +1,6 @@
 ---
 title: Jesus&#8217; sacrifice isn&#8217;t enough
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-05-28T07:39:51.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=85
-  type: wordpress
-  url: https://www.alextran.org/jesus-sacrifice-isnt-enough/
 ---
 Today’s song of the day is [Undignified](http://tinysong.com/nVH5) by The David Crowder Band.
 

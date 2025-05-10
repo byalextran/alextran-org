@@ -1,15 +1,6 @@
 ---
 title: I&#8217;m a Guy Who Wants to Smell Like Perfume
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-07-12T10:36:56.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1407
-  type: wordpress
-  url: https://www.alextran.org/im-a-guy-who-wants-to-smell-like-perfume/
 ---
 > **John 12:3-8 (NIV)**  
 > 3 Then Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus’ feet and wiped his feet with her hair. \[…\]

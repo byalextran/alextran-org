@@ -1,15 +1,6 @@
 ---
 title: Should Ordained Pastors Opt Out of Social Security?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-03-26T09:33:29.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=928
-  type: wordpress
-  url: https://www.alextran.org/pastors-opt-out/
 ---
 Should ordained pastors/ministers opt out of self employment taxes (i.e. Social Security and Medicare taxes)?
 

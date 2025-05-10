@@ -1,15 +1,6 @@
 ---
 title: The Secret Sauce to Spiritual Growth
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2015-03-01T05:11:57.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2424
-  type: wordpress
-  url: https://www.alextran.org/the-secret-sauce-to-spiritual-growth/
 ---
 I’ve been on a kettlebell kick lately.
 

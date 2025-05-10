@@ -1,18 +1,6 @@
 ---
-title: >-
-  Christine Caine&#8217;s &#8220;Must Haves&#8221; to Sustain Your Success in
-  Ministry (Part 1)
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
+title: Christine Caine’s “Must Haves” to Sustain Your Success in Ministry (Part 1)
 date: 2009-11-10T04:10:51.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=728
-  type: wordpress
-  url: >-
-    https://www.alextran.org/christine-caines-must-haves-to-sustain-your-success-in-ministry-part-1/
 ---
 This past weekend at Celebration Church we had the privilege of having [Christine Caine](http://www.equipandempower.org/) ([Twitter](http://twitter.com/christinecaine), [Facebook](http://www.facebook.com/pages/Christine-Caine/143678730088)) guest speak. Not only did she speak at our weekend services, but she took some time out to speak to the staff.
 

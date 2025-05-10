@@ -1,19 +1,6 @@
 ---
 title: How to Dig Yourself out of a Bible-Reading Rut
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2017-07-05T02:14:17.000Z
-metadata:
-  categories:
-    - Featured Posts
-  uuid: 11ty/import::wordpress::http://www.alextran.org/?p=5005
-  type: wordpress
-  url: https://www.alextran.org/bible-rut/
-tags:
-  - featured-posts
 ---
 In college, I remember a piece of surprising advice. I remember thinking, “Is that something a Christian is allowed to say?”
 

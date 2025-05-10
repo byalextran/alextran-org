@@ -1,15 +1,6 @@
 ---
 title: Why Accountability Fails
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-03-17T06:56:42.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=531
-  type: wordpress
-  url: https://www.alextran.org/why-accountability-fails/
 ---
 Monday Morning insight posted an article today entitled [Drastic Measures to Avoid Moral Failure](http://mondaymorninginsight.com/index.php/site/comments/drastic_measures_to_avoid_moral_failure/). It links to posts from [Perry Noble](http://www.perrynoble.com/2009/03/10/four-reasons-people-have-moral-failures/), [Craig Groeschel](http://swerve.lifechurch.tv/2009/03/11/avoid-failing-fatally/) and [Shaun King](http://www.shauninthecity.com/2009/03/drastic-measures-to-avoid-moral-failure.html) which highlight reasons pastors have moral failures and/or safeguards they’ve put into place to avoid having one themselves.
 

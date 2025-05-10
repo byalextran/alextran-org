@@ -1,16 +1,6 @@
 ---
 title: Do You Have These Four Characteristics of a Disciple?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2012-08-17T10:23:56.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1867
-  type: wordpress
-  url: >-
-    https://www.alextran.org/do-you-have-these-four-characteristics-of-a-disciple/
 ---
 Have you ever wondered what it means to be a disciple of Christ?
 

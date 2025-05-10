@@ -1,15 +1,6 @@
 ---
 title: WP-Hive versus Virtual Multiblog
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-02-12T09:35:27.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=366
-  type: wordpress
-  url: https://www.alextran.org/wp-hive-versus-virtual-multiblog/
 ---
 As of WordPress 3.0, this functionality is built-in without the use of plugins. These plugins are no longer necessary.
 

@@ -1,15 +1,6 @@
 ---
 title: 4 Lessons from 40 Years of Ministry Experience
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-10-02T06:32:53.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1567
-  type: wordpress
-  url: https://www.alextran.org/40-years-of-ministry-wisdom-from-jeanne-mayo/
 ---
 I had never heard of [Jeanne Mayo](http://jeannemayo.com/) until I heard her speak recently.
 

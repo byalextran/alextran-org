@@ -1,20 +1,6 @@
 ---
 title: 24 Bible Reading Plans That Will Satisfy Anyone
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2007-11-26T05:40:02.000Z
-metadata:
-  categories:
-    - Featured Posts
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2007/11/25/23-bible-reading-plans-that-will-satisfy-anyone/
-  type: wordpress
-  url: https://www.alextran.org/23-bible-reading-plans-that-will-satisfy-anyone/
-tags:
-  - featured-posts
 ---
 Here is a diverse and pretty comprehensive collection of Bible reading plans. All of them are easy to follow and most include a printable copy you can keep in your Bible.
 

@@ -1,15 +1,6 @@
 ---
 title: A Story About Minimal Mannie
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-01-14T12:25:26.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1227
-  type: wordpress
-  url: https://www.alextran.org/a-story-about-minimal-mannie/
 ---
 It’s story time! We’re going to talk about Minimal Mannie today. ;)
 

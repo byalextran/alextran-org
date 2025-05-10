@@ -1,16 +1,6 @@
 ---
 title: 8 Insights from Andy Stanley on Stating Vision Simply
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-11-03T04:04:15.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=708
-  type: wordpress
-  url: >-
-    https://www.alextran.org/8-insights-from-andy-stanley-on-stating-vision-simply/
 ---
 Last night I listened to the latest episode of Andy Stanley’s Leadership Podcast ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=290055666), [RSS](http://feeds.feedburner.com/AndyStanleyLeadershipPodcast)) titled _Stating Vision Simply_. It fit well with another article I read from Joel on Software called [_Figuring out what your company is all about_](http://www.joelonsoftware.com/items/2009/11/01.html).
 

@@ -1,15 +1,6 @@
 ---
 title: It Only Took 30 Years, But I Have One!
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-02-11T14:33:14.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1276
-  type: wordpress
-  url: https://www.alextran.org/it-only-took-30-years-but-i-have-one/
 ---
 And no, [it’s not a wife](https://www.alextran.org/2011/01/08/why-im-30-and-still-single/). ;)
 

@@ -1,15 +1,6 @@
 ---
 title: Two Simple and Free Ways to Eliminate Porn Temptation
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2015-08-09T06:40:00.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=3040
-  type: wordpress
-  url: https://www.alextran.org/porn-temptation/
 ---
 ![Temptation - Apple](apple-temptation-0lGRjZsWIDSt.jpg)
 

@@ -1,15 +1,6 @@
 ---
 title: Patience as an excuse for passivity
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-08-22T07:58:53.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=131
-  type: wordpress
-  url: https://www.alextran.org/patience-as-an-excuse-for-passivity/
 ---
 There are plenty of stories in the Bible about people being patient. There’s no shortage of sermon’s illustrating the need to keep running the race and being faithful to the call of God. You have Noah, Samuel, Joseph, David, etc.
 

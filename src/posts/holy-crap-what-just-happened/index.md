@@ -1,15 +1,6 @@
 ---
 title: Holy Crap, What Just Happened?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-12-15T12:41:55.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1746
-  type: wordpress
-  url: https://www.alextran.org/holy-crap-what-just-happened/
 ---
 I would not describe myself as a visionary. One of those people able to rally people around a greater purpose or goal.
 

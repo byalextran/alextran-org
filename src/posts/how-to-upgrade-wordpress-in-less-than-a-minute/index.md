@@ -1,15 +1,6 @@
 ---
 title: How to upgrade WordPress in less than a minute
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-07-26T03:34:00.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=92
-  type: wordpress
-  url: https://www.alextran.org/how-to-upgrade-wordpress-in-less-than-a-minute/
 ---
 If you can satisfy two reasonable requirements, upgrading [WordPress](http://wordpress.org/) can be ridiculously easy using [Subversion](http://subversion.tigris.org/).  If you’ve ever attempted to manually upgrade WordPress using the “[Three Step Upgrade](http://codex.wordpress.org/Upgrading_WordPress),” you know how much of a pain it can be.  Three steps is false advertisement.  It’s more like a gazillion.  ;)
 

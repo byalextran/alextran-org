@@ -1,15 +1,6 @@
 ---
 title: God Never Disqualifies You
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2013-06-22T01:22:20.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2001
-  type: wordpress
-  url: https://www.alextran.org/god-never-disqualifies-you/
 ---
 > Your past actions never disqualify you from being used by God. ([click to tweet this](http://clicktotweet.com/fO79f).)
 

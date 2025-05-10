@@ -1,15 +1,6 @@
 ---
 title: Don&#8217;t Be Afraid to Ask
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-01-10T18:47:42.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1206
-  type: wordpress
-  url: https://www.alextran.org/dont-be-afraid-to-ask/
 ---
 My church kicks off [Awakening](http://www.awake21.org/): 21 Days of Prayer, Fasting and Personal Devotion today. Miraculously, I rolled myself out of bed at 6 AM to catch the first session of the Virtual Conference.
 

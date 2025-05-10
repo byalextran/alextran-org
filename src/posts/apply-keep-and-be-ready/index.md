@@ -1,15 +1,6 @@
 ---
 title: Apply, Keep and Be Ready
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-10-07T06:21:46.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=191
-  type: wordpress
-  url: https://www.alextran.org/apply-keep-and-be-ready/
 ---
 > **Proverbs 22:17-19 (NIV)**  
 > 17 Pay attention and listen to the sayings of the wise;  

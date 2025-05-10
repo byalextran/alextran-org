@@ -1,16 +1,6 @@
 ---
 title: What is God&#8217;s ultimate goal for us?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-01-05T08:55:16.000Z
-metadata:
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2008/01/04/what-is-gods-ultimate-goal-for-us/
-  type: wordpress
-  url: https://www.alextran.org/what-is-gods-ultimate-goal-for-us/
 ---
 God’s ultimate goal for your life is to make you happy and healthy.
 

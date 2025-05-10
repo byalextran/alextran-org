@@ -1,15 +1,6 @@
 ---
 title: My 3 Words for 2012
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2012-01-02T06:33:04.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1760
-  type: wordpress
-  url: https://www.alextran.org/my-3-words-for-2012/
 ---
 Following the [footsteps of Chris Brogan](http://www.chrisbrogan.com/3words2012/), I’ve come up with 3 words instead of resolutions for the new year.
 

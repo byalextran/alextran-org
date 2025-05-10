@@ -1,15 +1,6 @@
 ---
 title: Unveiling of the Son
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-02-01T11:03:09.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=333
-  type: wordpress
-  url: https://www.alextran.org/unveiling-of-the-son/
 ---
 > **2 Corinthians 3:14-16 (NIV)**  
 > 14 But their minds were made dull, for to this day the same veil remains when the old covenant is read. It has not been removed, because only in Christ is it taken away. 15 Even to this day when Moses is read, a veil covers their hearts. 16 But whenever anyone turns to the Lord, the veil is taken away.

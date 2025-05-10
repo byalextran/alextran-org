@@ -1,15 +1,6 @@
 ---
 title: The Marks of a Disciple
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-06-11T22:17:46.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1285
-  type: wordpress
-  url: https://www.alextran.org/the-marks-of-a-disciple/
 ---
 As with most things, it’s easy to say “[I want to make disciples](https://www.alextran.org/2011/02/11/it-only-took-30-years-but-i-have-one/),” but much harder to do.
 

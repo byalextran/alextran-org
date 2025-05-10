@@ -1,19 +1,6 @@
 ---
 title: 5 More 30 Minute Worship Playlists
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2014-12-17T11:03:02.000Z
-metadata:
-  categories:
-    - Worship Playlists
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2362
-  type: wordpress
-  url: https://www.alextran.org/3-30-minute-worship-playlists/
-tags:
-  - worship-playlists
 ---
 Over the course of time, I’ve created [a handful of worship playlists](https://www.alextran.org/2011/11/20/6-thirty-minute-worship-playlists/ "6 Thirty Minute Worship Playlists"). Add some more time to that time and now I have five more worship playlists to share with you! ;)
 

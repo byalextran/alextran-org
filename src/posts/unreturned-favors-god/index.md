@@ -1,15 +1,6 @@
 ---
 title: Unreturned Favors From God
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2014-03-15T03:01:11.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=2231
-  type: wordpress
-  url: https://www.alextran.org/unreturned-favors-god/
 ---
 ![calculator](calculator-300x185-e8iXws6WEYJS.jpg)
 

@@ -1,15 +1,6 @@
 ---
 title: Pandora, Rdio, Spotify or MOG?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-07-15T08:44:46.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1416
-  type: wordpress
-  url: https://www.alextran.org/pandora-rdio-spotify-or-mog/
 ---
 Over the past couple of months I’ve been on the hunt for a music subscription service worthy of my $5/month.
 

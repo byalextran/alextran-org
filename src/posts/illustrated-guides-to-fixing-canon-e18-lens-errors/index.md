@@ -1,15 +1,6 @@
 ---
 title: Illustrated Guides to Fixing Canon E18 Lens Errors
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-02-28T05:33:22.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=449
-  type: wordpress
-  url: https://www.alextran.org/illustrated-guides-to-fixing-canon-e18-lens-errors/
 ---
 Ask me what I did on my day off?  Spent about six total hours dismantling my sister’s Canon SD400 to troubleshoot why the lens wouldn’t retract.
 

@@ -1,16 +1,6 @@
 ---
 title: Are You Heading into Eternity Leaving Behind an Eternity?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2009-04-13T03:26:17.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=580
-  type: wordpress
-  url: >-
-    https://www.alextran.org/are-you-heading-into-eternity-leaving-behind-an-eternity/
 ---
 If you haven’t read the essay in [my previous post](https://www.alextran.org/2009/04/12/since-i-have-my-life-before-me/), I would encourage you to do that first.
 

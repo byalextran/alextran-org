@@ -1,15 +1,6 @@
 ---
 title: But as for me, I trust in you
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-06-28T04:52:06.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1372
-  type: wordpress
-  url: https://www.alextran.org/but-as-for-me-i-trust-in-you/
 ---
 As I’ve been reading through the Psalms lately, there’s been a major theme I’ve noticed.
 

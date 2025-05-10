@@ -1,16 +1,6 @@
 ---
 title: Love your neighbor.  Start with a name.
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-03-27T09:06:39.000Z
-metadata:
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2008/03/26/love-your-neighbor-start-with-a-name/
-  type: wordpress
-  url: https://www.alextran.org/love-your-neighbor-start-with-a-name/
 ---
 One evening, Duke Hammond (the president of 6:8), shared a little Bible nugget to the group. In part of his talk, he touched on the Greatest Commandment.
 

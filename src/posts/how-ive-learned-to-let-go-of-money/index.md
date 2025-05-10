@@ -1,15 +1,6 @@
 ---
 title: How I&#8217;ve Learned to Let Go of Money
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2011-08-08T07:02:52.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=1461
-  type: wordpress
-  url: https://www.alextran.org/how-ive-learned-to-let-go-of-money/
 ---
 As I pondered what I was going to write about this week . . . I decided to document the various money-related God testimonies I’ve experienced personally.
 

@@ -1,15 +1,6 @@
 ---
 title: Transitioning from student to teacher?
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2010-04-18T08:25:32.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=999
-  type: wordpress
-  url: https://www.alextran.org/transitioning-from-student-to-teacher/
 ---
 This is going to be an uncharacteristic blog post. Meaning it hasn’t been super thought out and taken me two hours to write. I’m going to go against the norm and pound this thought out in 15 minutes.
 

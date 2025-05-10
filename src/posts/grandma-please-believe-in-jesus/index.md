@@ -1,16 +1,6 @@
 ---
 title: Grandma, please believe in Jesus
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-03-16T09:31:18.000Z
-metadata:
-  uuid: >-
-    11ty/import::wordpress::http://alextran.org/2008/03/15/grandma-please-believe-in-jesus/
-  type: wordpress
-  url: https://www.alextran.org/grandma-please-believe-in-jesus/
 ---
 A few years ago I found out my unsaved grandma was about to die. Unfortunately, my Chinese was not up to par, so I couldn’t say what I wanted to say to her. Instead, I wrote a letter and had my aunt read/translate it to my grandma.
 

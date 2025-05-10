@@ -1,15 +1,6 @@
 ---
 title: Don&#8217;t deceive yourself
-authors:
-  - name: Alex Tran
-    url: https://www.alextran.org/author/admin/
-    avatarUrl: >-
-      https://secure.gravatar.com/avatar/160350d1746dcb08dec37b6593784690a19070924036c81a1956b374016c83ce?s=96&d=identicon&r=g
 date: 2008-06-17T07:49:44.000Z
-metadata:
-  uuid: 11ty/import::wordpress::http://alextran.org/?p=86
-  type: wordpress
-  url: https://www.alextran.org/dont-deceive-yourself/
 ---
 I can encourage people. I can challenge people. I spend time with God daily. I’m comfortable praying out loud. I can give advice and guidance.
 
