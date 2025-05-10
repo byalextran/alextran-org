@@ -11,7 +11,7 @@ export const skipContent = 'Skip to content';
 export const author = {
   name: 'Alex Tran', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: 'https://gravatar.com/avatar/84b79ef500240c8f122a3beaa76995a99b32bf8e0395534922e12f5bb038c33d', // path to the author's avatar. In this case just using a favicon.
-  email: '', // i.e. hola@lenesaile.com - email of the author
+  email: 'contact@onoffswitch.org', // i.e. hola@lenesaile.com - email of the author
   website: 'https://www.alextran.org' // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 export const creator = {
@@ -49,7 +49,7 @@ export const blog = {
   tagPlural: 'Tags',
   tagMore: 'More tags:',
   // pagination
-  paginationLabel: 'Blog',
+  paginationLabel: 'Article',
   paginationPage: 'Page',
   paginationPrevious: 'Previous',
   paginationNext: 'Next',

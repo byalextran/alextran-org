@@ -1,34 +1,17 @@
 export default {
   top: [
     {
+      text: 'Articles',
+      url: '/articles/'
+    },
+    {
       text: 'About',
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
-    },
-    {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Contact',
+      url: 'https://tally.so/r/mVdxMv'
     }
   ],
-  bottom: [
-    {
-      text: 'Style guide',
-      url: '/styleguide/'
-    },
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
-    }
-  ]
+  bottom: []
 };
