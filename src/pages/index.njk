@@ -1,17 +1,16 @@
 ---
 layout: base
 permalink: /index.html
-title: 'Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+
+articles:
+  title: 'Articles'
+  intro: "I'm showing the last four articles, but there might be more!"
 ---
 
 <div class="wrapper">
   <header class="full | section" style="--spot-color: var(--color-primary)">
     <div class="section__inner flow region">
-      <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
+      <h1 class="text-center" style="color: var(--color-light);">{{ meta.siteName }}</h1>
     </div>
     {% svg "divider/waves", null, "divider" %}
   </header>
@@ -36,9 +35,9 @@ blog:
 
   <section class="full | region">
     <div class="wrapper flow prose">
-      <h2>{{ blog.title }}</h2>
-      {% if blog.intro %}
-        <p>{{ blog.intro }}</p>
+      <h2>{{ articles.title }}</h2>
+      {% if articles.intro %}
+        <p>{{ articles.intro }}</p>
       {% endif %}
       <div class="feature |  region region-space-l">
         <custom-masonry layout="50-50">
