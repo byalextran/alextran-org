@@ -2,8 +2,7 @@ export const url = process.env.URL || 'http://localhost:8080';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
 export const siteName = 'Alex Tran';
-export const siteDescription =
-  "I write about a wide range of things including what God's teaching me, product reviews, or deep dives on random topics of interest.";
+export const siteDescription = 'Disciple of Christ. That I know. Still figuring out the rest.';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
@@ -24,9 +23,8 @@ export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon
 export const themeColor = '#dd4462'; // used in manifest, for example primary color value
 export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light colors are prefered. best use value set for light bg
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
-export const opengraph_default = '/assets/images/template/opengraph-default.jpg'; // fallback/default meta image
-export const opengraph_default_alt =
-  "Visible content: An Eleventy starter with CUBE CSS, Cube CSS, Every Layout, Design Tokens and Tailwind for uitility classes. A workflow for building modern and resilient websites, introduced by Andy Bell's project buildexcellentwebsit.es"; // alt text for default meta image"
+export const opengraph_default = ''; // fallback/default meta image
+export const opengraph_default_alt = ''; // alt text for default meta image"
 export const blog = {
   // RSS feed
   name: siteName,

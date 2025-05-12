@@ -2,6 +2,7 @@
 title: The Best Pen for Writing Notes and Underlining in Your Bible
 date: 2020-08-09T08:05:00.000Z
 permalink: /the-best-pen-for-writing-notes-and-underlining-in-your-bible/
+tags: featured
 ---
 ![pigma-micron](pigma-micron-300x185-DoNj5xYNATlN.jpg)
 

@@ -2,6 +2,7 @@
 title: 6 Uber-Practical Steps to a Spiritually Significant Fast
 date: 2014-12-29T14:37:42.000Z
 permalink: /6-uber-practical-steps-spiritually-significant-fast/
+tags: featured
 ---
 Honestly, I never look forward to whenever my church does a 21-day fast to kick off the year.
 
@@ -98,7 +99,7 @@ Use a daily reading plan during your fast. Try [21 Day Fast](https://www.bible.c
 Fasting is hard. You’ll be tempted. You’ll feel like a failure at times. Embrace your weakness because Christ’s power is made perfect in it ([2 Corinthians 12:9](https://my.bible.com/bible/111/2CO.12.9.NIV)).
 
 > Fasting enables the Holy Spirit to reveal your true spiritual condition, resulting in brokenness, repentance, and a transformed life.
-> 
+>
 > <cite><a href="http://www.cru.org/train-and-grow/devotional-life/personal-guide-to-fasting.2.html">Why You Should Fast</a></cite>
 
 Fasting changes us. It breaks down the idols in our lives. Forces a reliance on God. Brings about humility.
@@ -108,7 +109,7 @@ But you know what the cool thing is?
 Even though it changes us, fasting (in God’s goodness) can also lead to answered prayers.
 
 > So we fasted and petitioned our God about this, and he answered our prayer.
-> 
+>
 > <cite>Ezra 8:23 NIV</cite>
 
 That’s humbling and also demonstrates the spiritual significance of fasting. Let this verse motivate you to honor your fast, seek Him more and pray for bold things!

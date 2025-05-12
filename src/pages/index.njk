@@ -1,10 +1,6 @@
 ---
 layout: base
 permalink: /index.html
-
-articles:
-  title: 'Articles'
-  intro: "I'm showing the last four articles, but there might be more!"
 ---
 
 <div class="wrapper">
@@ -35,18 +31,17 @@ articles:
 
   <section class="full | region">
     <div class="wrapper flow prose">
-      <h2>{{ articles.title }}</h2>
+      <h2>Featured Articles</h2>
       {% if articles.intro %}
         <p>{{ articles.intro }}</p>
       {% endif %}
       <div class="feature |  region region-space-l">
-        <custom-masonry layout="50-50">
-          {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
-            {% set headingLevel = "h3" %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
-        </custom-masonry>
+          <custom-masonry layout="50-50">
+            {% set itemList = collections["featured"] | reverse %}
+            {% for item in itemList %}
+                {% include "partials/card-tag.njk" %}
+            {% endfor %}
+          </custom-masonry>
       </div>
     </div>
   </section>

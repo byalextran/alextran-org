@@ -2,13 +2,14 @@
 title: The Secret Sauce to Spiritual Growth
 date: 2015-03-01T05:11:57.000Z
 permalink: /the-secret-sauce-to-spiritual-growth/
+tags: featured
 ---
 I’ve been on a kettlebell kick lately.
 
 I’m fascinated by the lure of just two kettlebell exercises causing a “what the hell?” effect.
 
 > The What the Hell Effect is well known throughout the kettlebell community. Doing kettlebell work, specifically kettlebell swings and turkish get-ups, has a way of improving all sorts of other physical activities that seem to be unrelated.
-> 
+>
 > <cite>Premeditated Fitness</cite>
 
 Living in the world of kettlebell swings and turkish get-ups has brought surprising clarity to a question Christians often wrestle with: How do we grow in our faith and mature in our relationship with Christ?
@@ -34,7 +35,7 @@ Not necessarily.
 It doesn’t matter how much I know about proper kettlebell technique. Until I start _doing_ the exercises, I’ll never experience growth. I’ll never get stronger.
 
 > Do not merely listen to the word, and so deceive yourselves. Do what it says.
-> 
+>
 > <cite>James 1:22 NIV</cite>
 
 The secret sauce to spiritual maturity and growth is regular obedience.
@@ -42,7 +43,7 @@ The secret sauce to spiritual maturity and growth is regular obedience.
 Your spiritual muscles don’t get stronger just by reading this passage:
 
 > “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?” Jesus answered, “I tell you, not seven times, but seventy-seven times.
-> 
+>
 > <cite>Matthew 18:21-22 NIV</cite>
 
 You have to actually forgive.
