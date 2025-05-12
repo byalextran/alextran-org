@@ -10,11 +10,11 @@ permalink: 'articles/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNu
 
 <div class="wrapper">
   <header class="full | section" style="--spot-color: var(--color-secondary)">
-    <div class="section__inner flow region" style="--region-space-top: var(--space-xl-2xl)">
+    <div class="section__inner flow region">
       <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
     </div>
 
-    {% svg "divider/edgy", null, "divider" %}
+    {% svg "divider/waves", null, "divider" %}
   </header>
 
   <custom-masonry layout="50-50">
