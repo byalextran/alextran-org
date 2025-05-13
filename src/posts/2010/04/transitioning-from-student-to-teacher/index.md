@@ -13,7 +13,7 @@ One of the things that worries me (slightly) is if I’ll ever be 100% again. I 
 
 And basically the things I was once good at I will no longer be.
 
-[It makes me think of the things I’m good at and that bring me happiness](https://www.alextran.org/2010/03/07/i-am-a-blank/). It makes me think about how my job at the church has become less of what I’m good at and more of what I’m not good at.
+[It makes me think of the things I’m good at and that bring me happiness](/i-am-a-blank/). It makes me think about how my job at the church has become less of what I’m good at and more of what I’m not good at.
 
 I wonder if my strength is now no longer how well I can do things or how good I can be at sports? How lean and semantically correct of a website I can code.
 

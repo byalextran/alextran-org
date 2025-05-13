@@ -3,7 +3,7 @@ title: Why I Hate Fasting
 date: 2012-01-15T04:16:59.000Z
 permalink: /why-i-hate-fasting/
 ---
-**Update**: While I can’t say I love fasting now, I have found a few things that have helped me get the most out of my fasts. I jotted those down in [another post](https://www.alextran.org/6-uber-practical-steps-spiritually-significant-fast/) you may find interesting.
+**Update**: While I can’t say I love fasting now, I have found a few things that have helped me get the most out of my fasts. I jotted those down in [another post](/6-uber-practical-steps-spiritually-significant-fast/) you may find interesting.
 
 Every January for the past six years I’ve taken part in a 21 day fast. The idea is to set the spiritual tone for the rest of the year.
 
@@ -13,7 +13,7 @@ But I hate it. I hate fasting.
 
 I don’t deny it’s a great way to start off the year. Praying, fasting and seeking after God. What I hate about it is what it reveals about myself.
 
-It always show show incredibly undisciplined I am (maybe that’s why “discipline” is [one of my words for the year](https://www.alextran.org/2012/01/01/my-3-words-for-2012/)). How I’m consumed with hunger for food. How I’ll cave to temptation and cheat on my fast. How I’ll compromise and change the fast to make it “easier.” How it becomes less spiritual and more diet.
+It always show show incredibly undisciplined I am (maybe that’s why “discipline” is [one of my words for the year](/my-3-words-for-2012/)). How I’m consumed with hunger for food. How I’ll cave to temptation and cheat on my fast. How I’ll compromise and change the fast to make it “easier.” How it becomes less spiritual and more diet.
 
 What I hate about it is how a season/time of denying the flesh and focusing on God becomes just the opposite.
 

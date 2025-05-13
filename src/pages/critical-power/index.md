@@ -14,7 +14,7 @@ That's why having an accurate CP is vital to effective training and should be re
 
 CP can be estimated using two primary methods:
 
-1. [A critical power test](https://www.alextran.org/key-concepts/critical-power-test/).
+1. [A critical power test](/key-concepts/critical-power-test/).
 2. Scientific modeling with [Stryd's auto CP](https://blog.stryd.com/2019/07/09/introducing-auto-calculated-critical-power/), [WKO](https://www.trainingpeaks.com/wko5/), or [Golden Cheetah](https://www.goldencheetah.org/).
 
 ## Comparing Critical Power

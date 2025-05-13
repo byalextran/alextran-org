@@ -7,26 +7,26 @@ Wow. It’s only the third day of the fast and I am S-T-ruggling.
 
 My faith has taken a big hit. My confidence has started to crumble slightly. All the good vibrations from Day 1 are more like loud, rattles from a soon to be broken muffler. Heh.
 
-> Our God is greater, our God is stronger  
-> God You are higher than any other  
-> Our God is Healer, awesome in power  
-> Our God, Our God  
-> …  
-> And if Our God is for us, then who could ever stop us  
-> And if our God is with us, then what can stand against?  
-> And if Our God is for us, then who could ever stop us  
-> And if our God is with us, then what can stand against?  
-> What can stand against?  
+> Our God is greater, our God is stronger
+> God You are higher than any other
+> Our God is Healer, awesome in power
+> Our God, Our God
+> …
+> And if Our God is for us, then who could ever stop us
+> And if our God is with us, then what can stand against?
+> And if Our God is for us, then who could ever stop us
+> And if our God is with us, then what can stand against?
+> What can stand against?
 > ~lyrics from Our God (is Greater) by Chris Tomlin ([listen](http://tinysong.com/yI3E))
 
 The good news? The lyrics above are money. They are encouraging. It was one of the songs I heard this morning during my worship time.
 
 It’s funny how you can be on cloud 9 one second; super confident and full of faith in what God is doing only to start questioning days later. I can totally understand the waves crashing back and forth analogy in James.
 
-> **James 1:6-7 (NIV)**  
+> **James 1:6-7 (NIV)**
 > 6 But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind. 7 That person should not expect to receive anything from the Lord.
 
-The first day [I reminded myself](https://www.alextran.org/2011/01/10/dont-be-afraid-to-ask/) (and you) not be afraid to ask God.
+The first day [I reminded myself](/dont-be-afraid-to-ask/) (and you) not be afraid to ask God.
 
 Today, I’m telling myself to continue believing in faith despite the ups and downs I’ve been experiencing. It’s easy to tell yourself you didn’t hear from God correctly. Or it just wasn’t meant to be.
 

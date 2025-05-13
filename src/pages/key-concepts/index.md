@@ -8,24 +8,24 @@ I'm slowly working on adding more to this page. In the meantime, this page is br
 
 ## C
 
-- [Course Variability Index (CVI)](https://www.alextran.org/key-concepts/course-variability-index/)
-- [Critical Power (CP)](https://www.alextran.org/key-concepts/critical-power/)
-- [Critical Power (CP) Test](https://www.alextran.org/key-concepts/critical-power-test/)
+- [Course Variability Index (CVI)](/key-concepts/course-variability-index/)
+- [Critical Power (CP)](/key-concepts/critical-power/)
+- [Critical Power (CP) Test](/key-concepts/critical-power-test/)
 
 ## D
 
-- [Dew Point](https://www.alextran.org/dew-point/)
+- [Dew Point](/dew-point/)
 
 ## F
 
-- [Fatigue Factor (i.e. Riegel Exponent)](https://www.alextran.org/key-concepts/fatigue-factor/)
-- [Functional Threshold Power (FTP)](https://www.alextran.org/key-concepts/critical-power/)
+- [Fatigue Factor (i.e. Riegel Exponent)](/key-concepts/fatigue-factor/)
+- [Functional Threshold Power (FTP)](/key-concepts/critical-power/)
 
 ## R
 
-- [Riegel Exponent (i.e. Fatigue Factor)](https://www.alextran.org/key-concepts/fatigue-factor/)
-- [Running Effectiveness (RE)](https://www.alextran.org/key-concepts/running-effectiveness/)
+- [Riegel Exponent (i.e. Fatigue Factor)](/key-concepts/fatigue-factor/)
+- [Running Effectiveness (RE)](/key-concepts/running-effectiveness/)
 
 ## S
 
-- [SuperPower Calculator](https://www.alextran.org/superpower-calculator/)
+- [SuperPower Calculator](/superpower-calculator/)

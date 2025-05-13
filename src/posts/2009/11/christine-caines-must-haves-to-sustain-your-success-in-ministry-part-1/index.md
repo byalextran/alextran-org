@@ -16,7 +16,7 @@ Christine’s talk was split into three main points that have been proven in her
 Each will get its own blog post.
 
 1.  Having an attitude of gratitude (you’re reading it)
-2.  [Submission](https://www.alextran.org/2009/11/16/christine-caine%E2%80%99s-%E2%80%9Cmust-haves%E2%80%9D-to-sustain-your-success-in-ministry-part-2/)
+2.  [Submission](/christine-caines-must-haves-to-sustain-your-success-in-ministry-part-2/)
 3.  Being passionate
 
 Don’t worry if none of those points seem applicable to you. Christine was all over the board, so you should still read. Otherwise my guarantee is null and void. Consider this the fine print. ;)

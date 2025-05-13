@@ -141,7 +141,7 @@ A half marathon tempo workout isn’t training the right physiological system if
 
 - You reduce the risk of injury (by not running harder than you should given the conditions).
 
-If you run by power, use [SuperPower Calculator for Sheets](https://www.alextran.org/superpower-calculator/) (SPCs) to adjust for environmental conditions (including elevation). If you run by pace, try the [Temperature Calculator from RunnersConnect](https://runnersconnect.net/training/tools/temperature-calculator/).
+If you run by power, use [SuperPower Calculator for Sheets](/superpower-calculator/) (SPCs) to adjust for environmental conditions (including elevation). If you run by pace, try the [Temperature Calculator from RunnersConnect](https://runnersconnect.net/training/tools/temperature-calculator/).
 
 ### Train Your Brain and Body
 

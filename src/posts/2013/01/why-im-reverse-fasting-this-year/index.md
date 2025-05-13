@@ -46,6 +46,6 @@ Cutting out those things could easily free up one to two hours a day (if not mor
 -   **After Work** (30 minutes): 15 minutes of personal prayer/worship. 15 minutes of listening for God’s voice.
 -   **Before Bed** (30 minutes): Read and marinate on a longer Bible reading plan.
 
-So there you have it. My reverse fast. I feel this change puts the priority and focus back on the right thing (God). This coupled with [a few other practical things](https://www.alextran.org/6-uber-practical-steps-spiritually-significant-fast/) I’ve discovered along the way will help you set the table for a spiritual significant fast!
+So there you have it. My reverse fast. I feel this change puts the priority and focus back on the right thing (God). This coupled with [a few other practical things](/6-uber-practical-steps-spiritually-significant-fast/) I’ve discovered along the way will help you set the table for a spiritual significant fast!
 
 How about you? What’s been your experience with fasting? How do you structure yours?

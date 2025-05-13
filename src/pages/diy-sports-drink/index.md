@@ -25,9 +25,9 @@ It's subtly sweet with some lemony tartness.
 
 | Recipe | Nutrition Facts |
 | --- | --- |
-| 12oz water   16g [maltodextrin](https://www.alextran.org/go/maltodextrin)   10g [fructose](https://www.alextran.org/go/fructose)   1.5g [sodium citrate](https://www.alextran.org/go/sodiumcitrate)   2–3 [lemon packets](https://www.alextran.org/go/lemoncrystals) | 99 calories   25g carbs   350mg sodium |
+| 12oz water   16g [maltodextrin](/go/maltodextrin)   10g [fructose](/go/fructose)   1.5g [sodium citrate](/go/sodiumcitrate)   2–3 [lemon packets](/go/lemoncrystals) | 99 calories   25g carbs   350mg sodium |
 
-The links take you to the products I'm using (all available on Amazon). If you need a kitchen scale, [here's the one I have](https://www.amazon.com/gp/product/B0007GAWRS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ppdr-20&linkId=0b093bb26c107e02acb167b01383a161&language=en_US).
+The links take you to the products I'm using (all available on Amazon). If you need a kitchen scale, [here's the one I have](/go/kitchenscale).
 
 Outside the United States? If Amazon in your country doesn't have the same product, search for equivalents using these terms: maltodextrin powder, fructose powder, sodium citrate, or citric acid.
 
@@ -150,7 +150,7 @@ While it's considered a complex carbohydrate, it actually functions like a simpl
 And a critical source of energy.
 
 > In energy metabolism, glucose is the most important source of energy in all organisms.
-> 
+>
 > [Wikipedia](https://en.wikipedia.org/wiki/Glucose)
 
 As a runner, this should be your new favorite ingredient. It deserves to be in the G.O.A.T. conversation.

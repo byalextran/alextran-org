@@ -21,7 +21,7 @@ Read on for why.
 
 Please note this review is for the Windows version of Net Nanny. The Mac version is significantly different from the Windows version. Having used both, I can’t recommend the Mac version. Features are either missing from the Mac version or not as good as the Windows equivalent.
 
-In addition to an Internet filter, I would also recommend you take advantage of these [simple and free ways to eliminate temptation](https://www.alextran.org/two-simple-and-free-ways-to-eliminate-porn-temptation/).
+In addition to an Internet filter, I would also recommend you take advantage of these [simple and free ways to eliminate temptation](/two-simple-and-free-ways-to-eliminate-porn-temptation/).
 
 **What is an accountability relationship?**
 
@@ -95,12 +95,12 @@ I don’t have to manually check for legitimate sites that are blocked and unblo
 
 Net Nanny is the only filter that provides this feature.
 
-**Not easy to bypass/disable**  
+**Not easy to bypass/disable**
 Remember how resourceful guys are on a mission? Some of the more tech-savvy guys may try various computer hacks to bypass the filter. A secure Internet filter needs to withstand these types of hacks and continue fighting the good fight even if shot in the arm/leg.
 
 > Net Nanny has long had the unusual ability to filter even HTTPS traffic . . . None of Net Nanny’s competitors duplicate this feat, though Safe Eyes 6.0 comes close. The latest version of Net Nanny moves further into the lead because it also prevents the kids from using localhost proxy utilities to evade filtering.
-> 
-> Net Nanny resists a simple command-line instruction that disables some competing products, Safe Eyes and CyberPatrol 7.7 among them.  
+>
+> Net Nanny resists a simple command-line instruction that disables some competing products, Safe Eyes and CyberPatrol 7.7 among them.
 > ~[Net Nanny 6.5 Review](http://www.pcmag.com/article2/0,2817,2360187,00.asp) (excerpt from section No Hope for Hackers)
 
 In addition to the review above, I was recently skimming the Net Nanny forum and noticed a post detailing a way to bypass Net Nanny. In the next version this hack was disabled. It’s good to see this type of response to work-arounds . . .

@@ -3,11 +3,11 @@ title: The Marks of a Disciple
 date: 2011-06-11T22:17:46.000Z
 permalink: /the-marks-of-a-disciple/
 ---
-As with most things, it’s easy to say “[I want to make disciples](https://www.alextran.org/2011/02/11/it-only-took-30-years-but-i-have-one/),” but much harder to do.
+As with most things, it’s easy to say “[I want to make disciples](/it-only-took-30-years-but-i-have-one/),” but much harder to do.
 
 On a practical level, what does that really mean?
 
-> **Matthew 28:19-20 (NIV)**  
+> **Matthew 28:19-20 (NIV)**
 > 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. \[…\]”
 
 Here we have the main “make disciples” verse. From v20, we can extract three key areas.
@@ -22,7 +22,7 @@ First off, you can’t teach jack squat if you don’t know anything about what 
 
 It’s the single greatest physical tool God has given us. Take advantage of it.
 
-[Memorizing some Bible verses](https://www.alextran.org/2011/05/01/6-sources-for-weekly-bible-memory-verses/) is a good place to start.
+[Memorizing some Bible verses](/6-sources-for-weekly-bible-memory-verses/) is a good place to start.
 
 ### Obeying
 

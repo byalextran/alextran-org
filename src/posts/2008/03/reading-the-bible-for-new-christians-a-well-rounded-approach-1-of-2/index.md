@@ -23,14 +23,14 @@ So without further ado, the visual …
 
 ### Tree of Life
 
-> **Genesis 3:22 (NIV)**  
+> **Genesis 3:22 (NIV)**
 > 22 \[…\] He must not be allowed to reach out his hand and take also from the tree of life and eat, and **live forever**.”
 
 Living forever. The tree of life are the things that will make an eternal difference. Namely, a transformation of your insides. Replacing your old self with the new self. One that loves, lives and serves like Jesus.
 
 When you read the Bible not just for reading sake, God is able to make it come alive in your current life and situation.
 
-> **Hebrews 4:12 (NIV)**  
+> **Hebrews 4:12 (NIV)**
 > 12 **For the word of God is living and active**. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; **it judges the thoughts and attitudes of the heart**.
 
 Reading the Bible as if it were the tree of life is what allows God to bring hope, encouragement and strength into our lives. If we’re struggling, it penetrates deep within our hearts to offer comfort. It reflects who we are and who God wants us to be. It changes us from our old, carnal selves to new, eternally-minded and outward focused servants of Jesus Christ.
@@ -39,7 +39,7 @@ It is the kind of reading that will produce changes in our action, behavior and 
 
 ### Tree of Knowledge
 
-> **Genesis 3:6 (NIV)**  
+> **Genesis 3:6 (NIV)**
 > 6 When the woman saw that the fruit of the tree \[of the knowledge of good and evil\] was good for food and pleasing to the eye, and also **desirable for gaining wisdom** \[…\]
 
 Knowledge is good. It feeds into wisdom. The Bible talks a lot about seeking wisdom and knowledge (check out [Proverbs](http://www.biblegateway.com/keyword/?search=knowledge&version1=31&searchtype=all&spanbegin=24&spanend=24)) and meditating on the Word of God and its commands (read [Psalms](http://www.biblegateway.com/keyword/?search=meditate&version1=31&searchtype=all&spanbegin=23&spanend=23)).
@@ -58,6 +58,6 @@ Here’s a different way to look at the two trees.
 
 **Tree of Knowledge**: Reading for the future. Planting seeds so that God has stuff he can remind you of later when you (or someone else) need it.
 
-For example, you might remember the story of how God wanted Abraham to sacrifice Isaac. So you go back and read it again. But this time, instead of just being a story … it comes alive and [speaks to what you’re going through right now](https://www.alextran.org/2008/02/18/an-act-of-worship-that-hurts/).
+For example, you might remember the story of how God wanted Abraham to sacrifice Isaac. So you go back and read it again. But this time, instead of just being a story … it comes alive and [speaks to what you’re going through right now](/an-act-of-worship-that-hurts/).
 
 Anyway, in my next post I’ll share my current Bible reading strategy which incorporates elements of both the tree of life and the tree of knowledge.

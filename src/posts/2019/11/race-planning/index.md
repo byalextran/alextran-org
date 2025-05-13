@@ -20,14 +20,14 @@ Gone are the days of going out too fast only to crash and burn before the finish
 So, let’s start planning your race strategy!
 
 > Remember, if you fail to prepare you are preparing to fail.
-> 
+>
 > <cite>H.K. Williams</cite>
 
 ## Step 1: Calculate Your Current Critical Power (CP)
 
-The key to accurate race planning is knowing your current [critical power](https://www.alextran.org/key-concepts/critical-power/) (i.e. your current fitness). That’s why it’s so important to do a [critical power test](https://www.alextran.org/key-concepts/critical-power-test/) 10-21 days before your target race. That timeframe is far enough out to let your body fully recover before race day yet close enough that it’ll be an accurate measure of race-day fitness. 
+The key to accurate race planning is knowing your current [critical power](/key-concepts/critical-power/) (i.e. your current fitness). That’s why it’s so important to do a [critical power test](/key-concepts/critical-power-test/) 10-21 days before your target race. That timeframe is far enough out to let your body fully recover before race day yet close enough that it’ll be an accurate measure of race-day fitness. 
 
-After the test, calculate your CP using the [SuperPower Calculator](https://www.alextran.org/superpower-calculator/) (SPC). Follow the instructions below depending on your test protocol (two-part test or race). 
+After the test, calculate your CP using the [SuperPower Calculator](/superpower-calculator/) (SPC). Follow the instructions below depending on your test protocol (two-part test or race). 
 
 ### Calculate CP From a Two-Part Test
 
@@ -132,7 +132,7 @@ The beauty of training by power is that the more you run and race with it, the m
 
 ## Step 3: Calculate the Target Race’s Course Variability Index (CVI)
 
-If you’re unfamiliar with CVI, [read this quick introduction](https://www.alextran.org/key-concepts/course-variability-index/).
+If you’re unfamiliar with CVI, [read this quick introduction](/key-concepts/course-variability-index/).
 
 Calculating your target race’s CVI is as simple as figuring out how much total elevation gain there is (in feet) and dividing it by race distance (in miles). Races will often link to a course map with that information.
 
@@ -154,7 +154,7 @@ Now that you have your race’s CVI, keep that number handy.
 
 ## Step 4: Estimate Your Race-Day Running Effectiveness (RE)
 
-Knowing your [running effectiveness](https://www.alextran.org/key-concepts/running-effectiveness/) at target effort and adjusting it based on your target race’s CVI is a key component to accurate race planning.
+Knowing your [running effectiveness](/key-concepts/running-effectiveness/) at target effort and adjusting it based on your target race’s CVI is a key component to accurate race planning.
 
 ### Step 4a
 
@@ -297,7 +297,7 @@ In the example below, my CP of 222 is the equivalent of 229 under race condition
 
 ## Step 6: Determine Riegel Exponent Range
 
-In addition to your CP and RE, you’ll use your [Riegel exponent](https://www.alextran.org/key-concepts/fatigue-factor/) (i.e. fatigue factor) to plan your race.
+In addition to your CP and RE, you’ll use your [Riegel exponent](/key-concepts/fatigue-factor/) (i.e. fatigue factor) to plan your race.
 
 ### Step 6a
 

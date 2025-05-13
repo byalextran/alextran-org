@@ -133,7 +133,7 @@ In simple terms, it represents your current fitness and is measured in watts (W)
 
 Functional threshold power (FTP) and critical power (CP) can be used interchangeably in a running context. So where you see FTP used, CP can be used or vice versa.
 
-**Further Reading**: [What is Critical Power (CP)?](https://www.alextran.org/key-concepts/critical-power/)
+**Further Reading**: [What is Critical Power (CP)?](/key-concepts/critical-power/)
 
 ### Time to Exhaustion (TTE)
 
@@ -149,7 +149,7 @@ Not to be confused with running economy or running efficiency, running effective
 
 RE’s utility is primarily found in race planning and post-run analysis.
 
-**Further Reading**: [What is Running Effectiveness (RE)?](https://www.alextran.org/key-concepts/running-effectiveness/)
+**Further Reading**: [What is Running Effectiveness (RE)?](/key-concepts/running-effectiveness/)
 
 ### Riegel Exponent (Fatigue Factor)
 
@@ -159,7 +159,7 @@ Assume two runners with identical 5k PRs run the same marathon. Everything else 
 
 In other words, the lower the fatigue factor, the less a runner will slow down over increased distances.
 
-**Further Reading**: [What is a Fatigue Factor (i.e. Riegel Exponent)?](https://www.alextran.org/key-concepts/fatigue-factor/)
+**Further Reading**: [What is a Fatigue Factor (i.e. Riegel Exponent)?](/key-concepts/fatigue-factor/)
 
 For calculations requiring a Riegel exponent, there are a few different approaches:
 
@@ -277,7 +277,7 @@ SuperPower Calculator is a collaboration between:
 
 - Steve Bateman ([from1runner2another](https://www.facebook.com/groups/from1runner2another/))
 
-- Alex Tran ([PowerPacing.Run](https://www.alextran.org/))
+- [Alex Tran](/))
 
 - [Mikael Lönn](https://mikaellonn.se/)
 

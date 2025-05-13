@@ -39,7 +39,7 @@ Obedience wins.
 
 ### Raising $12,000 without a job
 
-I’ve already [documented that testimony](https://www.alextran.org/2007/05/22/a-testimony-to-gods-provision/).
+I’ve already [documented that testimony](/a-testimony-to-gods-provision/).
 
 It happens to involve the same company as the testimony above. I can’t tell you how amazing it was to work for that company knowing they honored God.
 

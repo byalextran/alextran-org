@@ -15,7 +15,7 @@ You better believe we would have results. We would be uber-influential for Jesus
 
 But is that worth it to you? Is it worth even just 30 minutes a day?
 
-What if we were to [create a growth environment](https://www.alextran.org/2008/04/21/initiating-growth-environment-phase-1/) focusing specifically on one thing for the next ten years?
+What if we were to [create a growth environment](/initiating-growth-environment-phase-1/) focusing specifically on one thing for the next ten years?
 
 What would you focus on?
 

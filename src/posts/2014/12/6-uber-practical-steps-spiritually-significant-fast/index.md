@@ -17,15 +17,15 @@ Fasting is primarily a spiritual activity, not a dieting exercise.
 
 There’s no spiritual benefit to just not eating or avoiding sugary foods. So don’t get too caught up in the details of _what_ (you’re fasting) and forget the _why_ (deeper intimacy with Christ).
 
-That’s why I recommend a food _and_ [reverse fast](https://www.alextran.org/why-im-reverse-fasting-this-year/ "Why I’m Reverse Fasting This Year").
+That’s why I recommend a food _and_ [reverse fast](/why-im-reverse-fasting-this-year/ "Why I’m Reverse Fasting This Year").
 
 In short, a reverse fast is when you intentionally make time during your day to seek God more than you would typically. Where people tend to spend most of their time focused on the food-aspect of a fast, a reverse fast reverses the priorities and places it on God.
 
-It’s been, by far, one of the more practical things I’ve done to increase spiritual engagement during a fast. [Read about it](https://www.alextran.org/why-im-reverse-fasting-this-year/ "Why I’m Reverse Fasting This Year").
+It’s been, by far, one of the more practical things I’ve done to increase spiritual engagement during a fast. [Read about it](/why-im-reverse-fasting-this-year/ "Why I’m Reverse Fasting This Year").
 
 ### 2\. Focus Your Fast
 
-[Fasting in the Bible](https://www.alextran.org/fasting-references-in-the-bible/ "Fasting References in the Bible") always accompanied a specific reason.
+[Fasting in the Bible](/fasting-references-in-the-bible/ "Fasting References in the Bible") always accompanied a specific reason.
 
 Write down 1-3 main things you’re praying and believing God for during your fast. Be bold. Dream.
 
@@ -93,9 +93,9 @@ Spend more time in prayer, worship, and the Word. You created margin for those t
 
 Those three things should be staples of your spiritual diet. Want those things just as much as you want food. Oh, and don’t forget to give God an opportunity to speak. Be intentional about listening for His voice and the Holy Spirit’s promptings.
 
-If you need some worship music, follow whichever of my [30 Minute Worship Playlists](https://www.alextran.org/category/worship-playlists/) floats your boat.
+If you need some worship music, follow whichever of my [30 Minute Worship Playlists](/category/worship-playlists/) floats your boat.
 
-Use a daily reading plan during your fast. Try [21 Day Fast](https://www.bible.com/reading-plans/693-21-days-of-powerful-breakthroughs), [21 Days of Powerful Breakthroughs](https://www.bible.com/reading-plans/693-21-days-of-powerful-breakthroughs) or [any of these 23 plans](https://www.alextran.org/23-bible-reading-plans-that-will-satisfy-anyone/ "23 Bible Reading Plans That Will Satisfy Anyone").
+Use a daily reading plan during your fast. Try [21 Day Fast](https://www.bible.com/reading-plans/693-21-days-of-powerful-breakthroughs), [21 Days of Powerful Breakthroughs](https://www.bible.com/reading-plans/693-21-days-of-powerful-breakthroughs) or [any of these 23 plans](/23-bible-reading-plans-that-will-satisfy-anyone/ "23 Bible Reading Plans That Will Satisfy Anyone").
 
 Fasting is hard. You’ll be tempted. You’ll feel like a failure at times. Embrace your weakness because Christ’s power is made perfect in it ([2 Corinthians 12:9](https://my.bible.com/bible/111/2CO.12.9.NIV)).
 

@@ -5,7 +5,7 @@ permalink: /how-big-is-your-noahs-ark/
 ---
 Learning from your past experiences is a great thing to do. But using your past experiences as a gauge for what God can do in the future is a horrible idea.
 
-Often a smart thing to do is [not so smart when it comes to God](https://www.alextran.org/2011/01/14/a-story-about-minimal-mannie/). In fact, it puts a lid on God and becomes the limiting factor in what God can do in your life.
+Often a smart thing to do is [not so smart when it comes to God](/a-story-about-minimal-mannie/). In fact, it puts a lid on God and becomes the limiting factor in what God can do in your life.
 
 As an example, let’s talk about Noah and the ark. God asked Noah to build an ark in order to preserve himself, his family and some animals.
 
@@ -29,7 +29,7 @@ Based on past experience, he would have built a little life boat instead of an a
 
 What has God called you to? What is his vision for your life? What are you believing for?
 
-> **Ephesians 3:20-21 (ESV)**  
+> **Ephesians 3:20-21 (ESV)**
 > 20 Now to _him who is able to do far more abundantly than all that we ask or think_, according to the power at work within us, 21 to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
 
 Do you want God to do far more abundantly than all you can ask or think in a life boat or an ark big enough to preserve every living creature on earth?

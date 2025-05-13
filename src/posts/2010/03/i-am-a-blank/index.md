@@ -3,7 +3,7 @@ title: I am a &lt;blank&gt;
 date: 2010-03-08T10:18:56.000Z
 permalink: /i-am-a-blank/
 ---
-> For two years I have met for hundreds of hours on committees. I have never written a poem about it. It is deadening to my soul. I am a thinker. A writer. A preacher. A poet and songwriter. At least these are the avenues of love and service where my heart flourishes. . . .  
+> For two years I have met for hundreds of hours on committees. I have never written a poem about it. It is deadening to my soul. I am a thinker. A writer. A preacher. A poet and songwriter. At least these are the avenues of love and service where my heart flourishes. . . .
 > ~[John Piper](http://www.desiringgod.org/Blog/2249_how_i_almost_quit/)
 
 While the post itself is a great reminder about the fruit of perseverance, it was this section that resonated the most with me.
@@ -56,7 +56,7 @@ Proud knowing I just didn’t get the job done, but it was done well, efficientl
 
 While I love to research and execute, it brings me great satisfaction when I can consolidate my research and summarize my experience into a digestible, useful blog post.
 
-It’s no surprise that my [three](https://www.alextran.org/2007/11/25/23-bible-reading-plans-that-will-satisfy-anyone/) [most](https://www.alextran.org/2010/01/31/the-best-pen-for-writing-notes-and-underlining-in-your-bible/) [viewed](https://www.alextran.org/2009/02/11/wp-hive-versus-virtual-multiblog/) blog posts are the ones I’ve shared from my research and experience.
+It’s no surprise that my [three](/23-bible-reading-plans-that-will-satisfy-anyone/) [most](/the-best-pen-for-writing-notes-and-underlining-in-your-bible/) [viewed](/wp-hive-versus-virtual-multiblog/) blog posts are the ones I’ve shared from my research and experience.
 
 It makes me smile when I can teach others one blog post at a time.
 

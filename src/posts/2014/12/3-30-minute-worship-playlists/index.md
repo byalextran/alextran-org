@@ -3,7 +3,7 @@ title: 5 More 30 Minute Worship Playlists
 date: 2014-12-17T11:03:02.000Z
 permalink: /3-30-minute-worship-playlists/
 ---
-Over the course of time, I’ve created [a handful of worship playlists](https://www.alextran.org/2011/11/20/6-thirty-minute-worship-playlists/ "6 Thirty Minute Worship Playlists"). Add some more time to that time and now I have five more worship playlists to share with you! ;)
+Over the course of time, I’ve created [a handful of worship playlists](/6-thirty-minute-worship-playlists/ "6 Thirty Minute Worship Playlists"). Add some more time to that time and now I have five more worship playlists to share with you! ;)
 
 -   [30 Minute Worship #7](http://open.spotify.com/user/a1extran/playlist/1u10lKzklTcFWOgMH8CsXF)
 -   [30 Minute Worship #8](http://open.spotify.com/user/a1extran/playlist/017w1IxA1F0iS1sUymiP6N)

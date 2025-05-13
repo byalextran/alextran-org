@@ -32,7 +32,7 @@ Point taken. I knew Obama’s was “Change.” Couldn’t tell you what anybody
 -   If you’re beginning with a fog, the best you’re going to communicate is a mist.
     -   Before you can make vision stick, you have to have a clear vision yourself.
 
-> If it’s a mist in the pulpit, it’s a fog in the pew.  
+> If it’s a mist in the pulpit, it’s a fog in the pew.
 > ~Howard Hendricks
 
 -   If you say everything, you say nothing. It’s not portable.
@@ -59,6 +59,4 @@ It is worth the initial effort to determine a clear vision for yourself. Otherwi
 
 ### Listen to the Podcast
 
-**Duration**: 24:34 ([download](https://www.alextran.org/wp-content/uploads/2009/11/Stating_Vision_Simply.mp3))
-
-<audio class="wp-audio-shortcode" id="audio-708-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="Stating_Vision_Simply-WKnuMFXZOPsK.mp3"><a href="https://www.alextran.org/wp-content/uploads/2009/11/Stating_Vision_Simply.mp3">https://www.alextran.org/wp-content/uploads/2009/11/Stating_Vision_Simply.mp3</a></audio>
+**Duration**: 24:34 ([download](/wp-content/uploads/2009/11/Stating_Vision_Simply.mp3))

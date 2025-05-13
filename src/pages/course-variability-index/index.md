@@ -4,7 +4,7 @@ date: 2019-10-28
 permalink: /key-concepts/course-variability-index/
 ---
 
-CVI is a metric created by Steve Palladino ([Palladino Power Project](https://www.facebook.com/groups/PalladinoPowerProject/)) that loosely conveys how hilly a route or course is. It’s a quick and dirty way of knowing how much uphill running to expect and is useful in [advanced race planning](https://www.alextran.org/race-planning/) (particularly CVI+net).
+CVI is a metric created by Steve Palladino ([Palladino Power Project](https://www.facebook.com/groups/PalladinoPowerProject/)) that loosely conveys how hilly a route or course is. It’s a quick and dirty way of knowing how much uphill running to expect and is useful in [advanced race planning](/race-planning/) (particularly CVI+net).
 
 \[latex display="true"\]\\text{CVI} = \\frac{\\text{elevation gain (in feet)}}{\\text{distance (in miles)}}\[/latex\]
 

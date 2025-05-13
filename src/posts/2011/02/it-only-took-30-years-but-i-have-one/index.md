@@ -3,7 +3,7 @@ title: It Only Took 30 Years, But I Have One!
 date: 2011-02-11T14:33:14.000Z
 permalink: /it-only-took-30-years-but-i-have-one/
 ---
-And no, [it’s not a wife](https://www.alextran.org/2011/01/08/why-im-30-and-still-single/). ;)
+And no, [it’s not a wife](/why-im-30-and-still-single/). ;)
 
 This past year has been extremely eye-opening to me. God has taught me a lot about myself. What I love, what I hate, who I am. But more importantly, provided clarity to my life’s mission/message.
 
@@ -17,7 +17,7 @@ Fair enough. ;) Let me go a little deeper on how that applies to me and make it 
 
 The Great Commission sums it up nicely.
 
-> **Matthew 28:19-20 (NIV)**  
+> **Matthew 28:19-20 (NIV)**
 > 19 Therefore go and make disciples of all nations . . . 20 teaching them to obey everything I have commanded you . . .
 
 But it’s more than just a verse. It is me. Making disciples is how God has made _me_.

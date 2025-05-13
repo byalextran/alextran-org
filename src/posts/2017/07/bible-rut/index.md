@@ -30,7 +30,7 @@ Take inventory of your Bible-reading preferences and do the opposite.
 
 -   If you tend to read when you wake up, try reading before bed.
 -   If you read from the [YouVersion Bible App](https://www.bible.com/app), try an audio or physical Bible.
--   If you follow [reading](https://www.alextran.org/23-bible-reading-plans-that-will-satisfy-anyone/) [plans](https://www.alextran.org/comprehensive-list-bible-reading-plans/), do something with less structure.
+-   If you follow [reading](/23-bible-reading-plans-that-will-satisfy-anyone/) [plans](/comprehensive-list-bible-reading-plans/), do something with less structure.
 -   If you typically read a few verses at a time, try reading a chapter or more.
 -   If you lean towards shorter reading plans, try a longer one.
 -   If you like reading a book at a time, try reading about a specific topic or person instead.

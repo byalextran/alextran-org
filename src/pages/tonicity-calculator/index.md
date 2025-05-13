@@ -8,10 +8,10 @@ If you haven't read [How to Minimize GI Distress When Running (By Mixing Your Ow
 
 **Disclaimer**: This calculator requires the use of the ingredients below. Adding other ingredients will lead to an inaccurate tonicity calculation.
 
-- [Fructose](https://www.alextran.org/go/fructose)
-- [Maltodextrin](https://www.alextran.org/go/maltodextrin)
-- [Sodium Citrate](https://www.alextran.org/go/sodiumcitrate)
-- [Lemon Crystals](https://www.alextran.org/go/lemoncrystals)
+- [Fructose](/go/fructose)
+- [Maltodextrin](/go/maltodextrin)
+- [Sodium Citrate](/go/sodiumcitrate)
+- [Lemon Crystals](/go/lemoncrystals)
 
 Outside the United States? If Amazon in your country doesn't have the same product, search for equivalents using these terms: maltodextrin powder, fructose powder, sodium citrate, or citric acid.
 
@@ -37,25 +37,25 @@ Change the orange numbers according to your nutritional needs per hour.
 
 </figure>
 
-**Water**  
+**Water**
 If you're outside the United States, make sure to change the drop down from `US fluid oz` to `imperial fluid oz`.
 
-**Carbs (Fructose)**  
+**Carbs (Fructose)**
 Fructose serves double duty as a source of carbs and a sweetener. You should add just enough fructose to get your preferred sweetness.
 
-**Carbs (Maltodextrin)**  
+**Carbs (Maltodextrin)**
 Once you have the desired sweetness from fructose, subtract the amount of fructose from the total amount of carbs you want per hour to figure out how many carbs you'll need from maltodextrin.
 
 For example, if you want 25g of carbs per hour and are using 8g of fructose, enter 17g for maltodextrin.
 
-**Sodium**  
+**Sodium**
 How much sodium you'll need is a little more subjective.
 
 350mg is a good starting point.
 
 But if you're a salty sweater (i.e. salt crystals form on your skin or your sweat tastes salty) then you might want to try 500-1000mg per hour depending on the sodium concentration of your sweat.
 
-**Lemon Crystals**  
+**Lemon Crystals**
 This is a non-essential (read: optional) ingredient but does add a bit of flavoring that makes the drink taste a bit better (and less like sugar water).
 
 It's up to you to figure out how many packets you want in your mix.
@@ -88,7 +88,7 @@ Make sure the tonicity matches what you want out of your sports drink.
 - **Hypotonic**: Hydration over nutrition
 - **Hypertonic**: Nutrition over hydration
 
-If you want a better understanding of the pros and cons of each, [read this primer on tonicity](https://www.alextran.org/diy-sports-drink#before-you-change-the-recipe-know-this).
+If you want a better understanding of the pros and cons of each, [read this primer on tonicity](/diy-sports-drink#before-you-change-the-recipe-know-this).
 
 When adjusting the ingredient ratios, keep in mind maltodextrin impacts tonicity the least while fructose and sodium impacts it the most.
 
@@ -108,7 +108,7 @@ Note how much of each ingredient is required under the Serving Size column.
 
 </figure>
 
-If you need a kitchen scale (super handy), [here's a well-reviewed one](https://www.alextran.org/go/kitchenscale).
+If you need a kitchen scale (super handy), [here's a well-reviewed one](/go/kitchenscale).
 
 **Pro tip**: Put an empty bottle on the scale and hit the Tare button. That resets the weight to zero (including the bottle). Then keep hitting the Tare button after each ingredient. That makes it really easy to add ingredients one after the other without having to take the drink off the scale.
 

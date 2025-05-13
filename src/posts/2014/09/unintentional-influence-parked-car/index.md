@@ -11,7 +11,7 @@ Often the small decisions and behaviors we think only affect us, unintentional i
 
 I heard a friend say they only brush their teeth once a day. Being the poster child of efficiency, I jumped on this idea. I’m the guy who only flosses two weeks leading to a teeth cleaning because the dentist has always said my teeth/gums look great. So why floss 365 days a year when you can floss 14 and get the same results? ;)
 
-You know what happened when I did that? [I was told my breath stinks](https://www.alextran.org/2014/09/06/breath-stinks/ "Your Breath Stinks").
+You know what happened when I did that? [I was told my breath stinks](/breath-stinks/ "Your Breath Stinks").
 
 In high school, I attended a youth group as a non-Christian outsider. I was really just there to hang out with friends and play ping pong. #truestory
 

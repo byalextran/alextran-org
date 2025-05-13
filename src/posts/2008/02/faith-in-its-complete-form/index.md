@@ -5,7 +5,7 @@ permalink: /faith-in-its-complete-form/
 ---
 I find it “coincidental” that my last two posts have unknowingly followed a progression that will be completed with this post.
 
-If you’ve been following along, you know that recently God has given me a [greater level of faith](https://www.alextran.org/2008/02/15/faith-from-mount-everest/) and the [right “heart” desire](https://www.alextran.org/2008/02/18/an-act-of-worship-that-hurts/) to walk out that faith.
+If you’ve been following along, you know that recently God has given me a [greater level of faith](/faith-from-mount-everest/) and the [right “heart” desire](/an-act-of-worship-that-hurts/) to walk out that faith.
 
 Since I’m in a season of life that is requiring faith and I find myself struggling to walk out that faith, I decided to read up on it today. I needed some encouragement, so I went to the Word. Pretty cool idea, huh? ;)
 
@@ -15,13 +15,13 @@ Here’s an excerpt from The Bible Exposition Commentary.
 
 I’m going to go through those three things, but the focus of this post is really on the third one (the will).
 
-### [The Mind Understands the Truth](https://www.alextran.org/2008/02/15/faith-from-mount-everest/)
+### [The Mind Understands the Truth](/faith-from-mount-everest/)
 
 The truth that I’m understanding nowadays is the object of my faith. It is definitely and utterly no longer myself that I have faith in.
 
 “Faith is only as good as its object.” The new object of my faith is in God and Jesus Christ.
 
-### [The Heart Desires the Truth](https://www.alextran.org/2008/02/18/an-act-of-worship-that-hurts/)
+### [The Heart Desires the Truth](/an-act-of-worship-that-hurts/)
 
 Really, I think this boils down to an internal surrender. A willingness to let go of your life and allow God to freely direct it as He sees fit. This is the kind of heart attitude and faith that says . . .
 
@@ -33,7 +33,7 @@ This final stage is where I find the current battle taking place. I have the men
 
 But now, I need to walk it out. This is where it sucks to be me. And probably you if you’re in a similar situation. ;)
 
-> **James 2:21-22 (NIV)**  
+> **James 2:21-22 (NIV)**
 > 21 Was not our ancestor Abraham considered righteous for what he did when he offered his son Isaac on the altar? 22 **You see that his faith and his actions were working together, and his faith was made complete by what he did**.
 
 Only when the three things above (the mind, the heart and the will) operate does faith become complete.

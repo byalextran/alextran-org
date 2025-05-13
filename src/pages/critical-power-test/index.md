@@ -6,7 +6,7 @@ permalink: /key-concepts/critical-power-test/
 
 A CP test is designed to test and measure your current fitness and should be performed regularly (every 4-6 weeks) as part of any training block.
 
-If performed optimally, it provides an accurate, up-to-date [critical power](https://www.alextran.org/key-concepts/critical-power/) which then determines power zones for the next 4-6 week training period.
+If performed optimally, it provides an accurate, up-to-date [critical power](/key-concepts/critical-power/) which then determines power zones for the next 4-6 week training period.
 
 There are two protocols typically used for critical power tests:
 

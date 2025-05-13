@@ -3,7 +3,7 @@ title: 3 Reasons to Love the Book of James
 date: 2008-08-30T08:05:53.000Z
 permalink: /3-reasons-to-love-the-book-of-james/
 ---
-This post is part of a series on a commentary I am reading on the book of James.  For a brief introduction, please read the [first post](https://www.alextran.org/2008/08/28/busting-up-a-james-commentary/) in the series.
+This post is part of a series on a commentary I am reading on the book of James.  For a brief introduction, please read the [first post](/busting-up-a-james-commentary/) in the series.
 
 It would seem the academic type (e.g. scholars, theologians) aren’t super impressed with the book of James.  Martin Luther called it the “epistle of straw.” Others don’t think it represents “the essence” of the Christian faith.
 
@@ -13,10 +13,10 @@ Despite those negative remarks, it turns out James is uber-popular among the gen
 
 Do any of these verses ring a bell?
 
-> **James 1:5 (NIV)**  
+> **James 1:5 (NIV)**
 > 5 If any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him.
 
-> **James 1:22 (NIV)**  
+> **James 1:22 (NIV)**
 > 22 Do not merely listen to the word, and so deceive yourselves. Do what it says.
 
 Here are the 3 big reasons why James is so popular.

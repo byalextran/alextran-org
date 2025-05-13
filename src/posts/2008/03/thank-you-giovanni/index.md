@@ -31,7 +31,7 @@ That prompted the few left to continue praying for Serena. Unfortunately, I wasn
 
 ![Giovanni](giovanni-RVzMasIYIh1r.jpg)The reason we knew about Angela and Serena was because people in their neighborhood knew they were in need and could use some prayer. After we had prayed for Angela, a boy named Giovanni said he knew of another woman who needed prayer. This woman ended up being Serena.
 
-After all this went down, I couldn’t help but think of [Duke’s talk](https://www.alextran.org/2008/03/26/love-your-neighbor-start-with-a-name/) about knowing your neighbor.
+After all this went down, I couldn’t help but think of [Duke’s talk](/love-your-neighbor-start-with-a-name/) about knowing your neighbor.
 
 We found out from Serena’s daughter that it had been a long time since anyone had last came to visit or pray for Serena. But here was this boy Giovanni who knew her, knew where she lived and knew her specific need.
 
