@@ -14,11 +14,9 @@ I’m surprised my friend didn’t turn into a pillar of salt after giving that 
 
 But many years later, I get the underlying principle. Sometimes you just need to shift things up when you’re in a dry season.
 
-To maximize the Word’s impact on our lives, we need a consistent habit. But to keep that habit from going stale, we need to vary our approach so our reading remains fresh.
+To maximize the Word’s impact on our lives, we need a consistent habit. To keep that habit from going stale, be disciplined in your Bible-reading but keep things fresh by varying your approach.
 
 So here are some different ideas to try if you find yourself in a Bible-reading rut.
-
-\[click\_to\_tweet tweet=”Be disciplined in your Bible-reading but keep things fresh by varying your approach.” quote=”Be disciplined in your Bible-reading but keep things fresh by varying your approach.” theme=””\]
 
 ## Do the opposite of what you’re used to.
 
