@@ -85,7 +85,6 @@ Make note of the `FTP/Critical Power` number under the `Results` section. 
 
 ![FTP/CP Results - SuperPower Calculator](spc-calculated-cp-N888kvHj6spc.png)
 
-* * *
 
 ## Step 2: Check the Integrity of Your Calculated CP
 
@@ -112,7 +111,11 @@ If you don’t have those three data points, you should ignore the auto CP value
 
 Assuming you’re following a training plan with solid training principles, look at the faster-paced workouts you’ve done recently. How have those workouts felt? That gives you some insight on how your calculated CP should compare to your previous CP (used in workouts).
 
-<table><tbody><tr><td><strong>Workout Power Targets</strong></td><td><strong>Previous CP</strong></td><td><strong>Calculated CP</strong></td></tr><tr><td>Hit easily</td><td>Probably underestimated</td><td>Should be greater than previous CP</td></tr><tr><td>Hit with moderate/hard effort</td><td>Probably on target</td><td>Should be near previous CP</td></tr><tr><td>Not hit regularly</td><td>Probably overestimated</td><td>Should be less than previous CP</td></tr></tbody></table>
+| **Workout Power Targets** | **Previous CP** | **Calculated CP** |
+| --- | --- | --- |
+| Hit easily | Probably underestimated | Should be greater than previous CP |
+| Hit with moderate/hard effort | Probably on target | Should be near previous CP |
+| Not hit regularly | Probably overestimated | Should be less than previous CP |
 
 For example, let’s say you’ve been hitting your power targets easily using your previous CP. Using the table above, that hints at your previous CP being underestimated. So your calculated CP should be higher than your previous.
 
@@ -128,7 +131,6 @@ Pick what feels right and go with it!
 
 The beauty of training by power is that the more you run and race with it, the more accurate your numbers will get.
 
-* * *
 
 ## Step 3: Calculate the Target Race’s Course Variability Index (CVI)
 
@@ -150,7 +152,6 @@ Elevation gain from Ride with GPS.
 
 Now that you have your race’s CVI, keep that number handy.
 
-* * *
 
 ## Step 4: Estimate Your Race-Day Running Effectiveness (RE)
 
@@ -223,7 +224,6 @@ Enter the elevation gain for each segment under the `Climbing` column using the 
 
 ![Climbing and CVI - SuperPower Calculator](spc-climbing-cvi-fL26JCPJsSaJ.png)
 
-* * *
 
 ## Step 5: Adjust Critical Power for Environmental Conditions
 
@@ -293,7 +293,6 @@ In the example below, my CP of 222 is the equivalent of 229 under race condition
 
 ![Environment-Adjusted CP - SuperPower Calculator](spc-ec-adjusted-cp-ASMj6vAN0FrR.png)
 
-* * *
 
 ## Step 6: Determine Riegel Exponent Range
 
@@ -323,7 +322,6 @@ If you used the `Riegel Lookup` option, scroll down to the `Results` section and
 
 If you entered a specific Riegel exponent, your `Exponent Range` is one number above (+0.01) and below (-0.01) the number you entered.
 
-* * *
 
 ## Step 7: Identify Target Race Power
 
