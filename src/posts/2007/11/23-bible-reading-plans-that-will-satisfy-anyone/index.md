@@ -7,7 +7,7 @@ Here is a diverse and pretty comprehensive collection of Bible reading plans. Al
 
 They range from two week commitments to year-long commitments, from reading straight through cover to cover, to topical readings, to a mixture of readings each day.
 
-Let me know in the comments if you know of any other good ones. And if you’re looking for the best pen for highlighting in your Bible, [check out my recommendation](/the-best-pen-for-writing-notes-and-underlining-in-your-bible/).
+Let me know in the comments if you know of any other good ones. And if you’re looking for the best pen for highlighting in your Bible, [check out my recommendation](/bible-pens/).
 
 **Click on an image to view the plan or download the PDF (if available).**
 

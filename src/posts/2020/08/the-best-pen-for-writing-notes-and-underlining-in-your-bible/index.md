@@ -29,10 +29,10 @@ Those are the two biggest wins when writing on very thin Bible paper. Oh, and th
 
 These are some of the main pigment ink-based pens:
 
--   [Sakura of America Pigma Micron](/search/pigma-micron/)
--   [Prismacolor Premier Illustration Markers](/search/premier-illustration/)
--   [Staedtler Pigment Liner](/search/pigment-liner/)
--   [Copic Multiliner SP](/search/multiliner-sp/)
+-   [Sakura of America Pigma Micron](/go/search-pigma-micron)
+-   [Prismacolor Premier Illustration Markers](/go/search-premier-illustration)
+-   [Staedtler Pigment Liner](/go/search-pigment-liner)
+-   [Copic Multiliner SP](/go/search-multiliner-sp)
 
 Of those pigment ink pens, the ones that were easiest to find at local arts and craft stores were the Pigma Micron and the Premier Illustration Markers.
 
@@ -48,7 +48,14 @@ Otherwise, you can buy them online.
 
 One nice thing about the Pigma Micron pens is there are six nib sizes (line width) to choose from.
 
-<table><thead><tr><th><strong>Nib Size</strong></th><th><strong>Width</strong></th></tr></thead><tbody><tr><td>005</td><td>0.2 mm</td></tr><tr><td>01</td><td>0.25 mm</td></tr><tr><td>02</td><td>0.30 mm</td></tr><tr><td>03</td><td>0.35 mm</td></tr><tr><td>05</td><td>0.45 mm</td></tr><tr><td>08</td><td>0.50 mm</td></tr></tbody></table>
+| **Nib Size** | **Width** |
+| --- | --- |
+| 005 | 0.2 mm |
+| 01  | 0.25 mm |
+| 02  | 0.30 mm |
+| 03  | 0.35 mm |
+| 05  | 0.45 mm |
+| 08  | 0.50 mm |
 
 Based on my tests, the best nib sizes to use for writing notes in your Bible are the 005, 01 or 02. The 03 would be fine for underlining but just a bit too thick for writing notes.
 

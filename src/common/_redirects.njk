@@ -19,11 +19,19 @@ excludeFromSitemap: true
 /go/pigma-micron-colors-01/ https://amzn.to/3YIYS8e 302
 /go/pigma-micron-black  https://amzn.to/3ZczesC 302
 /go/pigma-micron-black/ https://amzn.to/3ZczesC 302
+/go/search-pigma-micron    https://amzn.to/43drNT4 302
+/go/search-pigma-micron/    https://amzn.to/43drNT4 302
+/go/search-premier-illustration    https://amzn.to/3F915Df 302
+/go/search-premier-illustration/    https://amzn.to/3F915Df 302
+/go/search-pigment-liner   https://amzn.to/3EPVSjP 302
+/go/search-pigment-liner/   https://amzn.to/3EPVSjP 302
+/go/search-multiliner-sp   https://amzn.to/3S16384 302
+/go/search-multiliner-sp/   https://amzn.to/3S16384 302
 
 {%- for page in collections.all -%}
 {%- if page.url and page.data.redirectFrom -%}
 {%- for oldUrl in page.data.redirectFrom %}
-{{ oldUrl }} {{ page.url }}
+{{ oldUrl }}    {{ page.url }}  301
 {%- endfor %}
 {%- endif -%}
 {%- endfor -%}

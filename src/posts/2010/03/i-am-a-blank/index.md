@@ -56,7 +56,7 @@ Proud knowing I just didn’t get the job done, but it was done well, efficientl
 
 While I love to research and execute, it brings me great satisfaction when I can consolidate my research and summarize my experience into a digestible, useful blog post.
 
-It’s no surprise that my [three](/23-bible-reading-plans-that-will-satisfy-anyone/) [most](/the-best-pen-for-writing-notes-and-underlining-in-your-bible/) [viewed](/wp-hive-versus-virtual-multiblog/) blog posts are the ones I’ve shared from my research and experience.
+It’s no surprise that my [three](/23-bible-reading-plans-that-will-satisfy-anyone/) [most](/bible-pens/) [viewed](/wp-hive-versus-virtual-multiblog/) blog posts are the ones I’ve shared from my research and experience.
 
 It makes me smile when I can teach others one blog post at a time.
 
