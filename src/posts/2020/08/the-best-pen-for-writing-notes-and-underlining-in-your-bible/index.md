@@ -1,7 +1,8 @@
 ---
 title: The Best Pen for Writing Notes and Underlining in Your Bible
 date: 2020-08-09T08:05:00.000Z
-permalink: /the-best-pen-for-writing-notes-and-underlining-in-your-bible/
+permalink: /bible-pens/
+redirectFrom: [/the-best-pen-for-writing-notes-and-underlining-in-your-bible/]
 tags: featured
 ---
 ![pigma-micron](pigma-micron-300x185-DoNj5xYNATlN.jpg)
@@ -69,8 +70,8 @@ Being able to underline without the ink skipping brings a smile to my face. ?
 
 If you’re going to give the Pigma Micron a try, here’s where I’d start:
 
--   [6 pens – Assorted Colors (005)](/go/pigma-micron-colors-005/) (I highly recommend that or the [01 version](/go/pigma-micron-colors/))
--   [6 pens – Black (all nib sizes)](/go/pigma-micron-black/)
+-   [6 pens – Assorted Colors (005)](/go/pigma-micron-colors-005) (I highly recommend that or the [01 version](/go/pigma-micron-colors-01))
+-   [6 pens – Black (all nib sizes)](/go/pigma-micron-black)
 
 Go with one or the other.
 

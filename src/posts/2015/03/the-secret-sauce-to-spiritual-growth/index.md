@@ -1,7 +1,8 @@
 ---
 title: The Secret Sauce to Spiritual Growth
 date: 2015-03-01T05:11:57.000Z
-permalink: /the-secret-sauce-to-spiritual-growth/
+permalink: /secret-sauce/
+redirectFrom: [/the-secret-sauce-to-spiritual-growth/]
 tags: featured
 ---
 I’ve been on a kettlebell kick lately.
