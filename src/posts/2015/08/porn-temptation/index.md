@@ -19,7 +19,7 @@ That’s enough to get the mind traveling down the wrong path. Before you know i
 
 So how can we combat porn and visually explicit images coming at us from every direction?
 
-\[clickToTweet tweet=”Why resist temptation tomorrow if you have the power to eliminate it today? ~@craiggroeschel” quote=”Why resist temptation tomorrow if you have the power to eliminate it today? ~@craiggroeschel”\]
+> Why resist temptation tomorrow if you have the power to eliminate it today? -Craig Groeschel
 
 In this blog post, I’m going to show you two free ways I’ve eliminated visual temptation _today_, so that I won’t have to resist it _tomorrow_.
 

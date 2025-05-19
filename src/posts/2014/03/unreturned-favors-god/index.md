@@ -30,7 +30,7 @@ This is a classic example of an “unreturned favor” God. Don’t you know tha
 
 But here’s the deal.
 
-\[clickToTweet tweet=”Our obedience to God should not come with expectations.” quote=”Our obedience to God should not come with expectations.”\]
+Our obedience to God should not come with expectations.
 
 Even if that comes at our own individual expense.
 

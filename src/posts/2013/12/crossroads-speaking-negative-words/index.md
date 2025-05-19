@@ -31,13 +31,13 @@ Negative words are like jabbing a fork at someone. It doesn’t matter how thick
 
 The other option is you fight hard, often and diligently to replace your negative words with why that person is valuable to God. What makes them unique? What strengths do they have that you lack?
 
-> **Proverbs 18:21 (NIV)**  
-> The tongue has the power of life and death,  
+> **Proverbs 18:21 (NIV)**
+> The tongue has the power of life and death,
 > and those who love it will eat its fruit.
 
 I have been on the receiving end of negative comments. I like to think I have thick skin and am not easily offended. But I found myself wincing when I heard negative things said about me. Words that became hurtful even though they were true and things I already knew about myself. They made me more insecure and self-conscious.
 
-\[clickToTweet tweet=”Negative remarks have a tendency to land right where a person is most vulnerable and insecure.” quote=”Negative remarks have a tendency to land right where a person is most vulnerable and insecure.”\]
+Negative remarks have a tendency to land right where a person is most vulnerable and insecure.
 
 I shed some tears (wouldn’t call it a cry…) the other day because I saw the negative affect words had not only on me but those closest to me as well.
 

@@ -29,7 +29,7 @@ The line of cars above started with just one decision.
 
 A decision the person thought was no biggie and only affected them. But one decision ultimately led tens of others to follow their lead.
 
-\[click\_to\_tweet tweet=”We all influence people whether we like it or not. You determine if that’s a good or bad thing.” quote=”We all influence people whether we like it or not. You determine if that’s a good or bad thing.” theme=””\]
+We all influence people whether we like it or not. You determine if that’s a good or bad thing.
 
 No one is exempt from that truth.
 

@@ -9,7 +9,7 @@ I’m pretty stoked to be living in this generation. Namely because of how much 
 
 At the intersection of technology and the Bible is the [YouVersion Bible App](https://www.bible.com/app).
 
-\[clickToTweet tweet=”The @YouVersion Bible App is the only resource you’ll ever need for Bible reading plans.” quote=”The YouVersion Bible App is the only resource you’ll ever need for Bible reading plans.”\]
+The YouVersion Bible App is the only resource you’ll ever need for Bible reading plans.
 
 Whatever your heart is looking for in a reading plan, you’ll be able to find it in the Bible App. Are you looking to read the Bible in a year? Or looking for just an Old Testament or New Testament reading plan? How about Bible reading plans that touch on certain topics like forgiveness, parenting or trust? 5 day, 2 week, 30 day reading plans?
 

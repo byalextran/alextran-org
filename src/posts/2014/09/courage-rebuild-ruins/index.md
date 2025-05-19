@@ -5,12 +5,12 @@ permalink: /courage-rebuild-ruins/
 ---
 ![Ruins of Sukhothai](ruins-300x168-m8NXQvNnvXaS.jpg)
 
-> **Nehemiah 2:12 (NIV)  
+> **Nehemiah 2:12 (NIV)
 > **…I had not told anyone what my God had put in my heart to do for Jerusalem.
 
 A word from God changes everything.
 
-\[clickToTweet tweet=”When God places a burden on your heart, no other burden matters.” quote=”When God places a burden on your heart, no other burden matters.”\]
+When God places a burden on your heart, no other burden matters.
 
 You have the perspective, perseverance and courage you need to walk that call out.
 
@@ -24,17 +24,17 @@ And, ultimately, we miss out on not just what God wants to teach us, but what he
 
 A spiritual burden allows you to look out on a hopeless situation, just as Nehemiah did…
 
-> **Nehemiah 1:17 (NIV)**  
+> **Nehemiah 1:17 (NIV)**
 > Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire.
 
 …and know you can succeed.
 
-> **Nehemiah 1:20 (NIV)**  
+> **Nehemiah 1:20 (NIV)**
 > I answered them by saying, “The God of heaven will give us success. We his servants will start rebuilding…
 
 Pray. Ask. Succeed.
 
-\[clickToTweet tweet=”If God calls you, he will also equip you.” quote=”If God calls you, he will also equip you.”\]
+If God calls you, he will also equip you.
 
 It’s always easier to persevere when we know we’re on the path God has called us to. How have you seen that ring true in your life? Share with me in the comments, por favor!
 

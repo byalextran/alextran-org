@@ -59,4 +59,4 @@ It is worth the initial effort to determine a clear vision for yourself. Otherwi
 
 ### Listen to the Podcast
 
-**Duration**: 24:34 ([download](/wp-content/uploads/2009/11/Stating_Vision_Simply.mp3))
+**Duration**: 24:34 ([download](Stating_Vision_Simply-WKnuMFXZOPsK.mp3))

@@ -23,19 +23,31 @@ Once you’ve determined your personality type, do a Google search of your four 
 
 Where do you draw the most energy from?
 
-<table class="border full"><tbody><tr><th>Extrovert (E)</th><th>Introvert (I)</th></tr><tr><td>Act first, then reflect</td><td>Reflect first, then act</td></tr><tr><td>Breadth of knowledge/influence</td><td>Depth of knowledge/influence</td></tr><tr><td>Recharge with people time</td><td>Recharge with alone time<em><br></em></td></tr></tbody></table>
+| Extrovert (E) | Introvert (I) |
+| --- | --- |
+| Act first, then reflect | Reflect first, then act |
+| Breadth of knowledge/influence | Depth of knowledge/influence |
+| Recharge with people time | Recharge with alone time |
 
 ### Sensing (S) or Intuition (N)
 
 How do you gather, understand and interpret information?
 
-<table class="border full"><tbody><tr><th>Sensing (S)</th><th>Intuition (N)</th></tr><tr><td>Prefer concrete and tangible info</td><td>Prefer ideas and theories</td></tr><tr><td>Trust data and facts</td><td>Trust gut-feelings and intuition</td></tr><tr><td>Hands-on, like details and specifics</td><td>Big picture, see future and possibilities</td></tr></tbody></table>
+| Sensing (S) | Intuition (N) |
+| --- | --- |
+| Prefer concrete and tangible info | Prefer ideas and theories |
+| Trust data and facts | Trust gut-feelings and intuition |
+| Hands-on, like details and specifics | Big picture, see future and possibilities |
 
 ###  Thinking (T) or Feeling (F)
 
 How do you approach decision-making?
 
-<table class="border full"><tbody><tr><th>Thinking (T)</th><th>Feeling (F)</th></tr><tr><td>Look at reason, logic, facts</td><td>Strive for balance, harmony, consensus</td></tr><tr><td>Detached from people, more objective</td><td>Sensitive to people, more empathetic</td></tr><tr><td>Comfortable with conflict</td><td>Uncomfortable with conflict</td></tr></tbody></table>
+| Thinking (T) | Feeling (F) |
+| --- | --- |
+| Look at reason, logic, facts | Strive for balance, harmony, consensus |
+| Detached from people, more objective | Sensitive to people, more empathetic |
+| Comfortable with conflict | Uncomfortable with conflict |
 
 ### Judging (J) or Perceiving (P)
 
@@ -43,7 +55,11 @@ Not going to lie, this one is still confusing to me. While I could explain the t
 
 So just refer to the table. ;)
 
-<table class="border full"><tbody><tr><th>Judging (J)</th><th>Perceiving (P)</th></tr><tr><td>Plan beforehand</td><td>Plan as-you-go</td></tr><tr><td>Structured, scheduled, ordered</td><td>Flexible, spontaneous, adaptive</td></tr><tr><td>Have matters settled</td><td>Keep decisions open</td></tr></tbody></table>
+| Judging (J) | Perceiving (P) |
+| --- | --- |
+| Plan beforehand | Plan as-you-go |
+| Structured, scheduled, ordered | Flexible, spontaneous, adaptive |
+| Have matters settled | Keep decisions open |
 
 ### Where to Take an Online Personality Test
 
