@@ -1,8 +1,9 @@
 ---
 title: How to Dig Yourself out of a Bible-Reading Rut
-date: 2017-07-05T02:14:17.000Z
+date: 2017-07-05 02:14:17+00:00
 permalink: /bible-rut/
 tags: featured
+description: Ideas for getting out of a Bible-reading rut and keeping your Bible-reading fresh.
 ---
 In college, I remember a piece of surprising advice. I remember thinking, “Is that something a Christian is allowed to say?”
 

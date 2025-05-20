@@ -1,7 +1,8 @@
 ---
 title: 5 More 30 Minute Worship Playlists
-date: 2014-12-17T11:03:02.000Z
+date: 2014-12-17 11:03:02+00:00
 permalink: /3-30-minute-worship-playlists/
+description: A collection of 30 minute worship playlists you can listen to for free through Spotify.
 ---
 Over the course of time, I’ve created [a handful of worship playlists](/6-thirty-minute-worship-playlists/ "6 Thirty Minute Worship Playlists"). Add some more time to that time and now I have five more worship playlists to share with you! ;)
 

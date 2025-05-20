@@ -1,7 +1,8 @@
 ---
 title: Two Simple and Free Ways to Eliminate Porn Temptation
-date: 2015-08-09T06:40:00.000Z
+date: 2015-08-09 06:40:00+00:00
 permalink: /porn-temptation/
+description: Here are two free tools I use to help me eliminate porn temptation today so I won't have to resist temptation tomorrow.
 ---
 ![Temptation - Apple](apple-temptation-0lGRjZsWIDSt.jpg)
 

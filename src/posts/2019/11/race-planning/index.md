@@ -1,7 +1,8 @@
 ---
 title: Race Planning Using the SuperPower Calculator
-date: 2019-11-13T22:49:05.000Z
+date: 2019-11-13 22:49:05+00:00
 permalink: /race-planning/
+description: Plan the perfect racing strategy with a little math wizardry. Say goodbye to going out too hard and blowing up or finishing knowing you had more in you.
 ---
 It all comes down to this: race day.
 

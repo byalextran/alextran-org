@@ -1,9 +1,10 @@
 ---
 title: Centering on Christ
-date: 2011-12-05T09:31:22.000Z
+date: 2011-12-05 09:31:22+00:00
 permalink: /centering-on-christ/
+description: In the midst of madness, chaos and life, sometimes we just need to slow down and sit at the feet of Jesus.
 ---
-> **Jeremiah 29:13 (NIV)**  
+> **Jeremiah 29:13 (NIV)**
 > You will seek me and find me when you seek me with all your heart.
 
 [http://tinysong.com/Ikde](http://tinysong.com/Ikde) (click to listen)

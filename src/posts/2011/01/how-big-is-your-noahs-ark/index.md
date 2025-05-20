@@ -1,5 +1,6 @@
 ---
 title: How Big is Your Noah's Ark?
+description: Past experiences are often not a good indicator of future results with God. How Noah saw past previous experience and built an ark big enough for God's vision.
 date: 2011-01-18T13:55:31.000Z
 permalink: /how-big-is-your-noahs-ark/
 ---

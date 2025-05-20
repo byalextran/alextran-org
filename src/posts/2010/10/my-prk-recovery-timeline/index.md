@@ -1,5 +1,6 @@
 ---
 title: My PRK Recovery Timeline
+description: My personal experience healing from PRK that offers hope and a realistic timeline for recovery.
 date: 2010-10-07T11:12:43.000Z
 permalink: /my-prk-recovery-timeline/
 ---

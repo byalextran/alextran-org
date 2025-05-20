@@ -1,5 +1,6 @@
 ---
 title: Should Ordained Pastors Opt Out of Social Security?
+description: A closer look at IRS Form 4361 and why the most common arguments for opting out of self-employment taxes are invalid. Links provided for further research.
 date: 2010-03-26T09:33:29.000Z
 permalink: /pastors-opt-out/
 ---
@@ -17,7 +18,7 @@ Not unless you meet _extremely rare_ requirements. None of which include the fol
 
 In order to opt out you agree to:
 
-> I certify that **I am conscientiously opposed to**, or because of my religious principles I am opposed to, **the acceptance** (for services I perform as a minister, member of a religious order not under a vow of poverty, or a Christian Science practitioner) **of any public insurance that makes payments in the event of death, disability, old age, or retirement**; or that makes payments toward the cost of, or provides services for, medical care. (Public insurance includes insurance systems established by the Social Security Act.)  
+> I certify that **I am conscientiously opposed to**, or because of my religious principles I am opposed to, **the acceptance** (for services I perform as a minister, member of a religious order not under a vow of poverty, or a Christian Science practitioner) **of any public insurance that makes payments in the event of death, disability, old age, or retirement**; or that makes payments toward the cost of, or provides services for, medical care. (Public insurance includes insurance systems established by the Social Security Act.)
 > ~[IRS Form 4361](http://www.irs.gov/pub/irs-pdf/f4361.pdf)
 
 That statement is extremely wordy so let’s look at a more simplified version taken from the bold sections above.
@@ -46,12 +47,12 @@ Someone with a genuine objection to receiving public insurance would be willing 
 
 Would you?
 
-> “Even if I have to pay the taxes, I can never file for the benefits, since my theology will never allow me to accept them.”  
+> “Even if I have to pay the taxes, I can never file for the benefits, since my theology will never allow me to accept them.”
 > ~[Memo #10 – Can Ministers Opt Out of Social Security?](http://www.pbusa.org/index.php?option=com_content&view=article&id=140:memo10&catid=48:memos&Itemid=81)
 
 ### Final Advice
 
-> The decision to opt out of social security should not be taken lightly.  
+> The decision to opt out of social security should not be taken lightly.
 > ~[Evangelical Council for Financial Accountability](http://www.ecfa.org/TopicDisplay.aspx?PageName=TopicMinistersOptingOut)
 
 Read Form 4361. Don’t blindly accept the advice of others. Know what you are signing and saying yes to.
@@ -62,7 +63,7 @@ Be sure whatever your decision, you can stand before Jesus with a clear consciou
 
 I think a great prayer in this situation is:
 
-> Create in me a pure heart, O God, and renew a steadfast spirit within me.  
+> Create in me a pure heart, O God, and renew a steadfast spirit within me.
 > ~Psalm 51:10 (NIV)
 
 I pray we all have pure hearts and a steadfast spirit. Hearts not tempted by money and that strive to live according to God’s moral and ethical standards.

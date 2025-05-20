@@ -1,7 +1,8 @@
 ---
 title: I'm a Guy Who Wants to Smell Like Perfume
-date: 2011-07-12T10:36:56.000Z
+date: 2011-07-12 10:36:56+00:00
 permalink: /im-a-guy-who-wants-to-smell-like-perfume/
+description: Obeying a commandment such as feeding the poor may not glorify God as much as you’d think.
 ---
 > **John 12:3-8 (NIV)**
 > 3 Then Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus’ feet and wiped his feet with her hair. \[…\]

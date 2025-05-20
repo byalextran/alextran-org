@@ -1,7 +1,8 @@
 ---
 title: 6 Sources for Weekly Bible Memory Verses
-date: 2011-05-02T07:53:48.000Z
+date: 2011-05-02 07:53:48+00:00
 permalink: /6-sources-for-weekly-bible-memory-verses/
+description: A collection of the most popular Bible verses suitable for weekly Scripture memory.
 ---
 One of the road blocks I’ve hit when it comes to memorizing Bible verses is coming up with which verses to memorize. Sure, I usually have a couple verses at any given time that are meaningful to me, so those are a great starting point. But after that, I usually draw a blank and then quit. ;)
 
@@ -16,7 +17,7 @@ So whenever you’re looking for the next weekly memory verse, just hit up one o
 [![](fv_fighter-verses-Zk6mLgv637l5.png)](http://www.fighterverses.com/the-verses/fighter-verses/)
 
 > The Fighter Verses focus on:
-> 
+>
 > 1.  the character and worth of our great God
 > 2.  battling against our fleshly desires
 > 3.  the hope of the Gospel
@@ -44,7 +45,7 @@ Created by the Navigators, the [Topical Memory System](http://www.navigators.org
 [![](bg_most-read-bS1LyFSyGiAe.png)](http://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom)
 
 > What are the most popular Bible verses on BibleGateway.com?
-> 
+>
 > We thought it would be interesting to find out, so we crunched some numbers from a (relatively) small sample of 25 million Bible passage searches from March and April.
 
 Bible Gateway published a list of the [100 most-read Bible verses](http://www.biblegateway.com/blog/2009/05/the-100-most-read-bible-verses-at-biblegatewaycom/) on their blog back in 2009. This list represents a great collection of Scripture worth memorizing. Most of them are very encouraging and/or provide great reminders about the promises/character of God.
@@ -85,13 +86,13 @@ This will let you keep track of your progress and have access to the Bible anywh
 
 I leave you with some final words from [John Piper and others](http://www.desiringgod.org/resource-library/taste-see-articles/why-memorize-scripture) who have spent a lifetime mediating on God’s Word.
 
-> Bible memorization is absolutely fundamental to spiritual formation. If I had to choose between all the disciplines of the spiritual life, I would choose Bible memorization, because it is a fundamental way of filling our minds with what it needs.  
+> Bible memorization is absolutely fundamental to spiritual formation. If I had to choose between all the disciplines of the spiritual life, I would choose Bible memorization, because it is a fundamental way of filling our minds with what it needs.
 > ~Dallas Willard
 
-> I know of no other single practice in the Christian life more rewarding, practically speaking, than memorizing Scripture. . . . No other single exercise pays greater spiritual dividends! Your prayer life will be strengthened. Your witnessing will be sharper and much more effective. Your attitudes and outlook will begin to change. Your mind will become alert and observant. Your confidence and assurance will be enhanced. Your faith will be solidified.  
+> I know of no other single practice in the Christian life more rewarding, practically speaking, than memorizing Scripture. . . . No other single exercise pays greater spiritual dividends! Your prayer life will be strengthened. Your witnessing will be sharper and much more effective. Your attitudes and outlook will begin to change. Your mind will become alert and observant. Your confidence and assurance will be enhanced. Your faith will be solidified.
 > ~Chuck Swindoll
 
-> If we would be changed into Christ likeness we must steadily see him. This happens in the word. \[…\] Bible memorization has the effect of making our gaze on Jesus steadier and clearer.  
+> If we would be changed into Christ likeness we must steadily see him. This happens in the word. \[…\] Bible memorization has the effect of making our gaze on Jesus steadier and clearer.
 > ~John Piper
 
 If you have any other collection of verses, please let me know in the comments!

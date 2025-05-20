@@ -1,9 +1,10 @@
 ---
 title: 'An Encouragement Folder: You Need One'
-date: 2011-11-07T14:09:07.000Z
+date: 2011-11-07 14:09:07+00:00
 permalink: /an-encouragement-folder-you-need-one/
+description: Remind yourself what you're doing right, the lives you're touching and what God's done in your life with an encouragement folder.
 ---
-> **1 Samuel 30:6 (ESV)**  
+> **1 Samuel 30:6 (ESV)**
 > And David was greatly distressed, for the people spoke of stoning him, because all the people were bitter in soul, each for his sons and daughters. But _David strengthened himself in the LORD_ his God.
 
 I read [a great, practical tip from Ron Edmonson](http://www.ronedmondson.com/2011/10/the-encouragement-folder-every-leader-needs-one.html) this past week. It reminded me of this verse in 1 Samuel.

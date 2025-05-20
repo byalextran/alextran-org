@@ -1,7 +1,8 @@
 ---
 title: You and I Are Both in Full-Time Ministry
-date: 2015-03-29T02:40:22.000Z
+date: 2015-03-29 02:40:22+00:00
 permalink: /you-and-i-are-both-in-full-time-ministry/
+description: People often ask me what being in full-time ministry is like because I work at a church. You should have an answer to that question just as much as should.
 ---
 Let’s play a word association game. What’s the first thing that comes to mind when I say the following words/phrases.
 

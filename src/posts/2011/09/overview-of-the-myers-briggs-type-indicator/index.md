@@ -1,7 +1,8 @@
 ---
 title: Overview of the Myers-Briggs Type Indicator
-date: 2011-09-12T06:48:50.000Z
+date: 2011-09-12 06:48:50+00:00
 permalink: /overview-of-the-myers-briggs-type-indicator/
+description: A brief overview of the Myers-Briggs Type Indicator and how to determine what your personality type is.
 ---
 I  have a new-found appreciation for the [Myers-Briggs Type Indicator](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) (MBTI). It’s those four letters (e.g., ENFP) often associated with a person’s personality type.
 

@@ -1,7 +1,8 @@
 ---
 title: Pandora, Rdio, Spotify or MOG?
-date: 2011-07-15T08:44:46.000Z
+date: 2011-07-15 08:44:46+00:00
 permalink: /pandora-rdio-spotify-or-mog/
+description: 'A quick comparison of the leading music subscription services (Pandora, Rdio, Spotify and MOG). '
 ---
 Over the past couple of months I’ve been on the hunt for a music subscription service worthy of my $5/month.
 
@@ -74,7 +75,7 @@ Finding new music through MOG is done through perusing the Editor Picks or brows
 
 ### Spotify
 
-**Pros  
+**Pros
 **
 
 -   15 million tracks.

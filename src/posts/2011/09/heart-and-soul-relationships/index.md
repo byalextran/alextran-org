@@ -1,7 +1,8 @@
 ---
 title: Heart and Soul Relationships
-date: 2011-09-05T12:37:34.000Z
+date: 2011-09-05 12:37:34+00:00
 permalink: /heart-and-soul-relationships/
+description: Seven verses that demonstrate what it means to have heart and soul relationships.
 ---
 > **1 Samuel 14:6-7 (NIV)**  
 > 6 Jonathan said to his young armor-bearer, “Come, let’s go over to the outpost of those uncircumcised men. Perhaps the LORD will act in our behalf. Nothing can hinder the LORD from saving, whether by many or by few.”

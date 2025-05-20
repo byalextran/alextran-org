@@ -1,7 +1,8 @@
 ---
 title: It Only Took 30 Years, But I Have One!
-date: 2011-02-11T14:33:14.000Z
+date: 2011-02-11 14:33:14+00:00
 permalink: /it-only-took-30-years-but-i-have-one/
+description: 'The one thing I want to devote my life to: making disciples of Jesus Christ.'
 ---
 And no, [it’s not a wife](/why-im-30-and-still-single/). ;)
 

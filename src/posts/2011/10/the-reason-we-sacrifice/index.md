@@ -1,7 +1,8 @@
 ---
 title: The Reason We Sacrifice
-date: 2011-10-31T09:33:11.000Z
+date: 2011-10-31 09:33:11+00:00
 permalink: /the-reason-we-sacrifice/
+description: It's an easy trade when you know what you're trading for. What's not easy is trading something you love now for something unknown later.
 ---
 > We give up things we love for things we love even more.
 

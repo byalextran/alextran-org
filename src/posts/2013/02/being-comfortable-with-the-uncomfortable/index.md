@@ -1,7 +1,8 @@
 ---
 title: Being Comfortable with the Uncomfortable
-date: 2013-02-14T13:42:38.000Z
+date: 2013-02-14 13:42:38+00:00
 permalink: /being-comfortable-with-the-uncomfortable/
+description: 'Learning to be comfortable with the uncomfortable. Relying on God when our current situation has us scrambling for breathe. '
 ---
 ![Girl Suffocating](suffocating-300x122-vT5yvj4lSVgH.jpg)
 
@@ -33,9 +34,9 @@ God wants us to increase our capacity to breathe through Him.
 
 Rather than struggle and fight through a seeming lack of oxygen, we need to realize we have a God who will breathe for us.
 
-> **Daniel 10:17-18 (NIV)**  
+> **Daniel 10:17-18 (NIV)**
 > …My strength is gone and I can hardly breathe.”
-> 
+>
 > 18 Again the one who looked like a man touched me and gave me strength.
 
 Just as I learned to breathe when I wanted to panic, we need to learn to rely on God whenever our current situation has us scrambling for breathe. We need to learn to be comfortable with the uncomfortable.

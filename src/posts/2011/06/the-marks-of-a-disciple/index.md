@@ -1,7 +1,8 @@
 ---
 title: The Marks of a Disciple
-date: 2011-06-11T22:17:46.000Z
+date: 2011-06-11 22:17:46+00:00
 permalink: /the-marks-of-a-disciple/
+description: Those striving to be disciples of Jesus Christ should do these three things ...
 ---
 As with most things, it’s easy to say “[I want to make disciples](/it-only-took-30-years-but-i-have-one/),” but much harder to do.
 

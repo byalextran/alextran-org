@@ -1,7 +1,8 @@
 ---
 title: How to Grow Spiritually and Save Time with Grace Letter
-date: 2012-02-18T06:43:59.000Z
+date: 2012-02-18 06:43:59+00:00
 permalink: /how-to-grow-spiritually-and-save-time-with-grace-letter/
+description: Grace Letter is a weekly newsletter linking to the best Jesus-related articles, videos and stories across the web - delivered straight to your inbox!
 ---
 Here’s a little snippet I got in an email last week.
 

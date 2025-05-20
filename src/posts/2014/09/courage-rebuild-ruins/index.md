@@ -1,7 +1,8 @@
 ---
 title: The Courage to Rebuild Ruins
-date: 2014-09-20T09:34:08.000Z
+date: 2014-09-20 09:34:08+00:00
 permalink: /courage-rebuild-ruins/
+description: We all have ruins in our lives. Situations or problems that we're facing. Learn where to find the courage to rebuild those ruins.
 ---
 ![Ruins of Sukhothai](ruins-300x168-m8NXQvNnvXaS.jpg)
 

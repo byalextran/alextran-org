@@ -1,7 +1,8 @@
 ---
 title: Why I Hate Fasting
-date: 2012-01-15T04:16:59.000Z
+date: 2012-01-15 04:16:59+00:00
 permalink: /why-i-hate-fasting/
+description: What I hate about it is what it reveals about myself.
 ---
 **Update**: While I can’t say I love fasting now, I have found a few things that have helped me get the most out of my fasts. I jotted those down in [another post](/6-uber-practical-steps-spiritually-significant-fast/) you may find interesting.
 

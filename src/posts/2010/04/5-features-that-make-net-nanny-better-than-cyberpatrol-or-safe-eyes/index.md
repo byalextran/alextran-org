@@ -1,5 +1,6 @@
 ---
 title: 5 Features that Make Net Nanny Better than CyberPatrol or Safe Eyes
+description: The 5 features Net Nanny does better than CyberPatrol and Safe Eyes and how they make accountability relationships more effective.
 date: 2010-04-12T01:12:44.000Z
 permalink: /5-features-that-make-net-nanny-better-than-cyberpatrol-or-safe-eyes/
 ---

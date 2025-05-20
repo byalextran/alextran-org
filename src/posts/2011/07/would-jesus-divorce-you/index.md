@@ -1,7 +1,8 @@
 ---
 title: Would Jesus Divorce You?
-date: 2011-07-23T08:42:49.000Z
+date: 2011-07-23 08:42:49+00:00
 permalink: /would-jesus-divorce-you/
+description: If you took an honest look at your relationship with Jesus, would it be considered healthy or would Jesus want to divorce you?
 ---
 I’ve been irked at myself lately.
 
@@ -51,9 +52,9 @@ It’s as if Jesus follows me all day, but I never once turn towards Him and hav
 
 Relationship fail.
 
-> **Luke 10:39-42 (NIV)**  
+> **Luke 10:39-42 (NIV)**
 > 39 She \[Martha\] had a sister called Mary, **_who sat at the Lord’s feet listening to what he said_**. 40 But Martha was distracted…
-> 
+>
 > 41 “Martha, Martha,” the Lord answered, “you are worried and upset about many things, 42 but few things are needed—or indeed only one. **_Mary has chosen what is better_**…”
 
 _This is an area that will always be a constant struggle for Christians. What are some ways you guard and fight to keep your relationship with God healthy. One that actual resembles a mutual, two-way relationship?_

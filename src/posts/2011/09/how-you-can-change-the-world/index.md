@@ -1,7 +1,8 @@
 ---
 title: How You Can Change the World
-date: 2011-09-18T02:07:35.000Z
+date: 2011-09-18 02:07:35+00:00
 permalink: /how-you-can-change-the-world/
+description: 'How the story of Bezalel in Exodus 31 gives us a model to change the world for God. '
 ---
 Do you truly believe you can change the world? What is your definition of changing the world?
 
@@ -13,7 +14,7 @@ But if you look through the Bible, there are countless stories of ordinary peopl
 
 What do they all have in common? I feel like Exodus 31:1-3 sums it up nicely.
 
-> **Exodus 31:1-3 (NIV)**  
+> **Exodus 31:1-3 (NIV)**
 > 1 Then the LORD said to Moses, 2 “See, I have chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah, 3 and I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills . . .
 
 This passage shows Bezalel was:

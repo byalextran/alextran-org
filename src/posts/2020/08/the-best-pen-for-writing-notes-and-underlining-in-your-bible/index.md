@@ -1,5 +1,6 @@
 ---
 title: The Best Pen for Writing Notes and Underlining in Your Bible
+description: Why pigment ink-based pens are the best for writing, taking notes, and underlining in your Bible. Plus my recommendation for the best nib sizes.
 date: 2020-08-09T08:05:00.000Z
 permalink: /bible-pens/
 redirectFrom: [/the-best-pen-for-writing-notes-and-underlining-in-your-bible/]

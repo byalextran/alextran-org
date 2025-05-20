@@ -1,6 +1,6 @@
 ---
-title: "Faith: You're Hot and You're Cold"
-date: 2011-01-12T18:54:07.000Z
+title: 'Faith: You''re Hot and You''re Cold'
+date: 2011-01-12 18:54:07+00:00
 permalink: /faith-youre-hot-and-youre-cold/
 ---
 Wow. It’s only the third day of the fast and I am S-T-ruggling.

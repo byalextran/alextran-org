@@ -1,7 +1,8 @@
 ---
 title: Your Breath Stinks
-date: 2014-09-07T03:20:02.000Z
+date: 2014-09-07 03:20:02+00:00
 permalink: /breath-stinks/
+description: A friend wanted to share three things with me. One and two were no biggie. But then three comes along.
 ---
 ![Bad Breath Isn't Sexy](bad-breath-300x81-tS7wX0vOejMw.jpg)
 
@@ -19,8 +20,8 @@ You _need_ friends that will tell you your breath stinks.
 
 We all have blind spots. And without friends willing to speak up and share what those are with us, we will always operate blind. Often to the detriment of ourselves and those around us. (Sorry if I’ve breathed around you recently.)
 
-> **Proverbs 27:6**  
-> Wounds from a friend can be trusted…  
+> **Proverbs 27:6**
+> Wounds from a friend can be trusted…
 
 The challenge is not waiting for someone to drop a #likewhoa moment on you, but intentionally seeking it out yourself.
 

@@ -1,7 +1,8 @@
 ---
 title: The Crossroads of Speaking Negative Words
-date: 2013-12-27T12:46:35.000Z
+date: 2013-12-27 12:46:35+00:00
 permalink: /crossroads-speaking-negative-words/
+description: Negative words are like jabbing a fork at someone. It doesn't matter how thick a person's skin is. Eventually you'll do permanent damage and leave a scar.
 ---
 I couldn’t fall asleep last Thursday.
 

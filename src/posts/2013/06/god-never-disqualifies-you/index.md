@@ -1,7 +1,8 @@
 ---
 title: God Never Disqualifies You
-date: 2013-06-22T01:22:20.000Z
+date: 2013-06-22 01:22:20+00:00
 permalink: /god-never-disqualifies-you/
+description: "Even though we may be nobody's in our own eyes, if we embrace our weaknesses and imperfections, God's transforming power can come alive in us. God works through broken people."
 ---
 > Your past actions never disqualify you from being used by God. ([click to tweet this](http://clicktotweet.com/fO79f).)
 
@@ -17,12 +18,12 @@ I’d like to disqualify myself at times.
 
 But God never does.
 
-> **Galatians 1:13**  
+> **Galatians 1:13**
 > 13 For you have heard of my previous way of life in Judaism, how intensely I persecuted the church of God and tried to destroy it.
 
 This was the Apostle Paul. In his previous way of life he intensely persecuted the church. He stood by and watched Christians get executed; nodding in approval.
 
-> **Galatians 1:22-24**  
+> **Galatians 1:22-24**
 > 22 I was personally unknown to the churches of Judea that are in Christ. 23 They only heard the report: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.” 24 _And they praised God because of me_.
 
 Despite the man Paul used to be, he was able to say “and they praised God because of me.”
@@ -33,7 +34,7 @@ People who have committed adultery. Lashed out in anger. Said hateful things to 
 
 We have been set apart and called by his grace…all for Him.
 
-> **Galatians 1:15**  
+> **Galatians 1:15**
 > 15 But when God, who set me apart from my mother’s womb and called me by his grace…
 
 It’s not what you’ve done. It’s who you are; a child of God created in His image.

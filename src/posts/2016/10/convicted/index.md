@@ -1,7 +1,8 @@
 ---
 title: I got convicted
-date: 2016-10-15T08:49:00.000Z
+date: 2016-10-15 08:49:00+00:00
 permalink: /convicted/
+description: Conviction come's in the weirdest ways sometimes. One day you're saving money while enjoying a hobby. The next day, you're like oi vey.
 ---
 ![Frog Stealing Money](stealing-frog-xZA8as6eMcoz.png)Conviction come’s in the weirdest ways sometimes.
 
@@ -49,7 +50,7 @@ We represent God’s love for the world. It’s through us that people either co
 
 Back to the drawing board…
 
-_Has God ever convicted you with something random like this? Share it with everyone in the comments!  
+_Has God ever convicted you with something random like this? Share it with everyone in the comments!
 _
 
 P.S. I got my 35% discount. ;)

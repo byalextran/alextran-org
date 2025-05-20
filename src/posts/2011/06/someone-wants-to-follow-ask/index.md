@@ -1,7 +1,8 @@
 ---
 title: Someone Wants to Follow. Ask.
-date: 2011-06-20T06:58:01.000Z
+date: 2011-06-20 06:58:01+00:00
 permalink: /someone-wants-to-follow-ask/
+description: Unfortunately, the discipleship process is not an introverted, single person activity. It requires we engage in the lives of others.
 ---
 Who can you ask? Who can you bring along? What can you do together?
 
