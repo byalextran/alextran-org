@@ -1,5 +1,5 @@
 ---
-title: How I&#8217;ve Learned to Let Go of Money
+title: How I've Learned to Let Go of Money
 date: 2011-08-08T07:02:52.000Z
 permalink: /how-ive-learned-to-let-go-of-money/
 ---

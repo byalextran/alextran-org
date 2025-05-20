@@ -1,5 +1,5 @@
 ---
-title: What is God&#8217;s ultimate goal for us?
+title: What is God's ultimate goal for us?
 date: 2008-01-05T08:55:16.000Z
 permalink: /what-is-gods-ultimate-goal-for-us/
 ---

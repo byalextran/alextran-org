@@ -1,5 +1,5 @@
 ---
-title: How Big is Your Noah&#8217;s Ark?
+title: How Big is Your Noah's Ark?
 date: 2011-01-18T13:55:31.000Z
 permalink: /how-big-is-your-noahs-ark/
 ---

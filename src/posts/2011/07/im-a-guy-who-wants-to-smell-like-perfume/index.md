@@ -1,5 +1,5 @@
 ---
-title: I&#8217;m a Guy Who Wants to Smell Like Perfume
+title: I'm a Guy Who Wants to Smell Like Perfume
 date: 2011-07-12T10:36:56.000Z
 permalink: /im-a-guy-who-wants-to-smell-like-perfume/
 ---

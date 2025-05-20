@@ -1,11 +1,11 @@
 ---
-title: Jesus&#8217; sacrifice isn&#8217;t enough
+title: Jesus' sacrifice isn't enough
 date: 2008-05-28T07:39:51.000Z
 permalink: /jesus-sacrifice-isnt-enough/
 ---
 Today’s song of the day is [Undignified](http://tinysong.com/nVH5) by The David Crowder Band.
 
-> **1 Samuel 6:21-22 (NIV)**  
+> **1 Samuel 6:21-22 (NIV)**
 > 21 … I will celebrate before the LORD. 22 I will become even more undignified than this, and I will be humiliated in my own eyes. …
 
 In King David’s own words, “I will be humiliated in my own eyes.” In my own personal translation of that, “I just don’t care.” I just don’t care what the world thinks.
@@ -14,7 +14,7 @@ Have you ever thought about what Jesus has done for you? What reasons you have t
 
 It’s crazy to think about all the things God has done for each one of us, yet our lives don’t reflect that goodness. Instead, **our lives may unknowingly tell God what he has done for us is not enough**; not enough to overcome being self-conscious about what the world thinks.
 
-> **Matthew 13:44-46 (NIV)**  
+> **Matthew 13:44-46 (NIV)**
 > 44 “The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
 
 > 45 “Again, the kingdom of heaven is like a merchant looking for fine pearls. 46 When he found one of great value, he went away and sold everything he had and bought it.

@@ -1,5 +1,5 @@
 ---
-title: Reminder to update your digital camera&#8217;s clock
+title: Reminder to update your digital camera's clock
 date: 2009-01-19T11:22:05.000Z
 permalink: /reminder-to-update-your-digital-cameras-clock/
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Bible&#8217;s Contradiction-Free Take on Temptation
+title: The Bible's Contradiction-Free Take on Temptation
 date: 2008-02-10T00:06:04.000Z
 permalink: /the-bibles-contradiction-free-take-on-temptation/
 ---
@@ -9,14 +9,14 @@ Generally, people think of Job when they think of God allowing someone to be tem
 
 Then you also have:
 
-> **1 Corinthians 10:13 (NIV)**  
+> **1 Corinthians 10:13 (NIV)**
 > No temptation has seized you except what is common to man. And God is faithful; _he will not let you be tempted_ beyond what you can bear. But when you are tempted, he will also provide a way out so that you can stand up under it.
 
 The italicized section implies God will let you be tempted; it’ll just be of the “bearable” variety. ;)
 
 The contradiction comes when you read:
 
-> **James 1:13 (NIV)**  
+> **James 1:13 (NIV)**
 > When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, _nor does he tempt anyone_;
 
 Translation: God does not tempt anyone.
@@ -46,7 +46,7 @@ They are good things. ;)
 
 For example . . .
 
-> **James 1:2 (NIV)**  
+> **James 1:2 (NIV)**
 > Consider it pure joy, my brothers, whenever you face _trials_ of many kinds,
 
 The italicized word “trials” is peirasmos which is based off the root word periazo. Later on in that verse it goes on to talk about how these trials bring you to a point of maturity. This is the God-kind of tempt (peirazo).

@@ -1,5 +1,5 @@
 ---
-title: Don&#8217;t deceive yourself
+title: Don't deceive yourself
 date: 2008-06-17T07:49:44.000Z
 permalink: /dont-deceive-yourself/
 ---
@@ -15,7 +15,7 @@ But am I doing anything with that talk?
 
 The answer is no. Don’t deceive yourself Alex.
 
-> **James 1:22-24 (NIV)**  
+> **James 1:22-24 (NIV)**
 > 22 Do not merely listen to the word, and so deceive yourselves. Do what it says. 23 Anyone who listens to the word but does not do what it says is like a man who looks at his face in a mirror 24 and, after looking at himself, goes away and immediately forgets what he looks like.
 
 **Disclaimer**: I’m not off the deep end. This is not a post confessing I have been a deceptive leader. God is just challenging me to the next level of leadership. One that I have yet to answer because I have been deceiving myself.

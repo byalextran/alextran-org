@@ -1,5 +1,5 @@
 ---
-title: Your Hands or God&#8217;s?
+title: Your Hands or God's?
 date: 2008-10-08T08:11:16.000Z
 permalink: /your-hands-or-gods/
 ---
@@ -11,12 +11,12 @@ What seems to be the prevalent theme so far is while everything is meaningless, 
 
 But that poses a problem.
 
-> **Ecclesiastes 2:24 (NIV)**  
+> **Ecclesiastes 2:24 (NIV)**
 > 24 A man can do nothing better than to eat and drink and find satisfaction in his work. \[…\]
 
-> **Ecclesiastes 3:12-13, 22 (NIV)**  
+> **Ecclesiastes 3:12-13, 22 (NIV)**
 > 12 I know that there is nothing better for men than to be happy and do good while they live. 13 That everyone may eat and drink, and find satisfaction in all his toil—this is the gift of God.
-> 
+>
 > 22 So I saw that there is nothing better for a man than to enjoy his work \[…\]
 
 If that’s the theme, it seems to contradict Ecclesiastes 2:17-23 where King Solomon says even our work is meaningless.
@@ -29,10 +29,10 @@ Work is meaningless when we see it as a “task of gathering and storing up weal
 
 Work that is not meaningless, however, is “from the hand of God” and “endures forever.”
 
-> **Ecclesiastes 2:24-25 (NIV)**  
+> **Ecclesiastes 2:24-25 (NIV)**
 > 24 A man can do nothing better than to eat and drink and find satisfaction in his work. _This too, I see, is from the hand of God_, ^25^ for without him, who can eat or find enjoyment?
 
-> **Ecclesiastes 3:14 (NIV)**  
+> **Ecclesiastes 3:14 (NIV)**
 > 14 I know that _everything God does will endure forever_; nothing can be added to it and nothing taken from it.  \[…\]
 
 It is important that the work of our hands are actually the hands of God and not our own. This is the only type of work that will endure forever, change lives, leave a legacy and impact the world.  It is only the type of that will give us true satisfaction and enjoyment.

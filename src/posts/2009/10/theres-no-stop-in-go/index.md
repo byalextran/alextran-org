@@ -1,5 +1,5 @@
 ---
-title: There&#8217;s No &#8220;Stop&#8221; in &#8220;Go&#8221;
+title: There's No '8220;Stop'8221; in '8220;Go'8221;
 date: 2009-10-05T09:48:17.000Z
 permalink: /theres-no-stop-in-go/
 ---
@@ -16,7 +16,7 @@ What I’ve been thinking about lately is our tendency as Christians to hesitate
 
 It reminded me of something a pastor once shared in Masuko, Peru on the mission field.
 
-> **Matthew 28:18-19 (NIV)**  
+> **Matthew 28:18-19 (NIV)**
 > 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go . . .
 
 “Therefore go . . . ”
@@ -39,7 +39,7 @@ We’ve got dreams. We’ve got God’s calling we’d all love to fulfill. We�
 
 The answer to that question can be “I don’t know.”
 
-> A 50%-good solution that people actually have solves more problems and survives longer than a 99% solution that nobody has because it’s in your lab where you’re endlessly polishing the damn thing.  
+> A 50%-good solution that people actually have solves more problems and survives longer than a 99% solution that nobody has because it’s in your lab where you’re endlessly polishing the damn thing.
 > ~ from [Joel on Software](http://www.joelonsoftware.com/items/2009/09/23.html)
 
 As Christians we need to be okay moving forward and taking a step without all the answers or even direct confirmation from God. The bottom line is that if you are moving forward, you are making progress.

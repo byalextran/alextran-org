@@ -1,5 +1,5 @@
 ---
-title: 'Faith: You&#8217;re Hot and You&#8217;re Cold'
+title: "Faith: You're Hot and You're Cold"
 date: 2011-01-12T18:54:07.000Z
 permalink: /faith-youre-hot-and-youre-cold/
 ---

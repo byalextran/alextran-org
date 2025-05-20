@@ -1,5 +1,5 @@
 ---
-title: Why I&#8217;m 30 and Still Single
+title: Why I'm 30 and Still Single
 date: 2011-01-08T13:52:07.000Z
 permalink: /why-im-30-and-still-single/
 ---

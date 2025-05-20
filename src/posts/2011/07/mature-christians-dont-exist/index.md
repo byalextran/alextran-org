@@ -1,5 +1,5 @@
 ---
-title: Mature Christians Don&#8217;t Exist
+title: Mature Christians Don't Exist
 date: 2011-07-31T10:53:28.000Z
 permalink: /mature-christians-dont-exist/
 ---
@@ -17,16 +17,16 @@ By those standards, when compared to other Christians, I am definitely more matu
 
 The problem is . . . that’s not the standard by which our lives are judged. Our standard is the life Jesus lived. The life God has called us to steward. Our level of obedience.
 
-> **1 Peter 2:22 (NIV)**  
-> 22 “He committed no sin,  
+> **1 Peter 2:22 (NIV)**
+> 22 “He committed no sin,
 > and no deceit was found in his mouth.”
-> 
-> **1 Corinthians 4:2 (NLT)**  
+>
+> **1 Corinthians 4:2 (NLT)**
 > 2 Now, a person who is put in charge as a manager must be faithful.
-> 
-> **1 Samuel 15:22 (NIV)**  
-> 15 \[…\] “Does the LORD delight in burnt offerings and sacrifices  
-> as much as in obeying the LORD?  
+>
+> **1 Samuel 15:22 (NIV)**
+> 15 \[…\] “Does the LORD delight in burnt offerings and sacrifices
+> as much as in obeying the LORD?
 > To obey is better than sacrifice, \[…\]
 
 If I tithe and give over and above, that’s great. It’s easy to trick yourself into thinking your spiritual life is rock solid because you’re being more “obedient” than 95% of other Christians.

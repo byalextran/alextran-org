@@ -1,5 +1,5 @@
 ---
-title: Don&#8217;t Be Afraid to Ask
+title: Don't Be Afraid to Ask
 date: 2011-01-10T18:47:42.000Z
 permalink: /dont-be-afraid-to-ask/
 ---
@@ -7,7 +7,7 @@ My church kicks off [Awakening](http://www.awake21.org/): 21 Days of Prayer, Fas
 
 Afterward, as I began to worship, I was overwhelmed by God’s goodness and was reminded of this verse.
 
-> **Matthew 7:7-11 (ESV)**  
+> **Matthew 7:7-11 (ESV)**
 > 7 “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. 8 For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. 9 Or which one of you, if his son asks him for bread, will give him a stone? 10 Or if he asks for a fish, will give him a serpent? 11 _If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!_
 
 Particularly the emphasized part.
