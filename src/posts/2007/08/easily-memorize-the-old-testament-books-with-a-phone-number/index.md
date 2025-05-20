@@ -40,7 +40,7 @@ That’s about it for now. Next time I’ll break down the books in each of the 
 
 Genesis, Exodus, Leviticus, Numbers, Deuteronomy.
 
-I’ve also whipped up a PDF you can [download](/wp-content/uploads/2007/08/Book_Classifications_-_Old_Testament.pdf) with a summary of all this information and a pretty visual aid sponsored by the letter ‘H’.
+I’ve also whipped up a PDF you can [download](Book_Classifications_-_Old_Testament.pdf) with a summary of all this information and a pretty visual aid sponsored by the letter ‘H’.
 
 <iframe title="Book Classifications - Old Testament" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/262373/content" scrolling="no" id="262373" width="580" height="870" frameborder="0"></iframe>(function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "https://www.scribd.com/javascripts/embed\_code/inject.js"; var s = document.getElementsByTagName("script")\[0\]; s.parentNode.insertBefore(scribd, s); })()
 

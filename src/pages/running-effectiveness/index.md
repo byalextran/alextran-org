@@ -22,9 +22,9 @@ Below are some example races I've done across different distances.
 
 Notice how just using average power, distance, and RE predicted finish times within seconds of the actual finish times.
 
-- <figure>
+<figure>
 
-    [![](images/spc-predicted-hm.png)](/wp-content/uploads/2019/10/spc-predicted-hm.png)
+    ![](images/spc-predicted-hm.png)
 
     <figcaption>
 
@@ -34,9 +34,9 @@ Notice how just using average power, distance, and RE predicted finish times wit
 
     </figure>
 
-- <figure>
+<figure>
 
-    [![](images/spc-predicted-10k.png)](/wp-content/uploads/2019/10/spc-predicted-10k.png)
+    ![](images/spc-predicted-10k.png)
 
     <figcaption>
 
@@ -46,9 +46,9 @@ Notice how just using average power, distance, and RE predicted finish times wit
 
     </figure>
 
-- <figure>
+<figure>
 
-    [![](images/spc-predicted-5k.png)](/wp-content/uploads/2019/10/spc-predicted-5k.png)
+    ![](images/spc-predicted-5k.png)
 
     <figcaption>
 
