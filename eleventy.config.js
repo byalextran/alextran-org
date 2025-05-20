@@ -94,8 +94,8 @@ export default async function (eleventyConfig) {
   // --------------------- Passthrough File Copy
 
   // -- same path
-  ['src/assets/fonts/', 'src/assets/images/template', 'src/assets/og-images', '**/*.mp3', '**/*.pdf'].forEach(
-    path => eleventyConfig.addPassthroughCopy(path)
+  ['src/assets/fonts/', 'src/assets/images/template', 'src/assets/og-images'].forEach(path =>
+    eleventyConfig.addPassthroughCopy(path)
   );
 
   eleventyConfig.addPassthroughCopy({
@@ -105,6 +105,12 @@ export default async function (eleventyConfig) {
     // -- node_modules
     'node_modules/lite-youtube-embed/src/lite-yt-embed.{css,js}': `assets/components/`
   });
+
+  const passthroughPaths = ['src/posts/**/*.pdf', 'src/posts/**/*.mp3'];
+
+  for (const path of passthroughPaths) {
+    eleventyConfig.addPassthroughCopy(path, {mode: 'html-relative'});
+  }
 
   // --------------------- general config
   return {
