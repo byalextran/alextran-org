@@ -25,7 +25,7 @@ These plans do not go over every book/chapter of the Bible, however, they give t
 
 This one from Zondervan is nice because it doesn’t just give you the reading for the day, but also gives you the topic of what you’re reading. I consider that a nice cherry on top.
 
-[![Zondervan_-_60_Day_Overview_of_the_Bible](Zondervan_-_60_Day_Overview_of-pu0K4ajsxkPU.gif)](/wp-content/uploads/2015/05/Zondervan_-_60_Day_Overview_of_the_Bible.pdf)
+[![Zondervan_-_60_Day_Overview_of_the_Bible](Zondervan_-_60_Day_Overview_of-pu0K4ajsxkPU.gif)](Zondervan_-_60_Day_Overview_of_the_Bible.pdf)
 
 ### Every Book in 61 Days
 
@@ -41,9 +41,9 @@ This reading plan introduces you to the major people and events of the Bible in 
 
 ### 90 Day Overview
 
-Another one from Zondervan, this one goes a little more in-depth than the [60 day version](/wp-content/uploads/2015/05/Zondervan_-_60_Day_Overview_of_the_Bible.pdf).
+Another one from Zondervan, this one goes a little more in-depth than the [60 day version](Zondervan_-_60_Day_Overview_of_the_Bible.pdf).
 
-[![Zondervan_-_90_Day_Overview_of_the_Bible](Zondervan_-_90_Day_Overview_of-AwWif3MFmHxR.gif)](/wp-content/uploads/2015/05/Zondervan_-_90_Day_Overview_of_the_Bible.pdf)
+[![Zondervan_-_90_Day_Overview_of_the_Bible](Zondervan_-_90_Day_Overview_of-AwWif3MFmHxR.gif)](Zondervan_-_90_Day_Overview_of_the_Bible.pdf)
 
 ### 121 Days of People in the Bible
 
@@ -55,7 +55,7 @@ The advantages of this approach include ease in seeing the story of the Bible an
 
 The plan offers a kind of bird’s-eye-view. The daily readings consist of 180 selected passages, including at least one chapter from each of he Bible’s 66 books.
 
-[![](Zondervan_-_180_Day_Guided_Tou-tppLRE0NV52P.gif)](/wp-content/uploads/2015/05/Zondervan_-_180_Day_Guided_Tour.pdf)
+[![](Zondervan_-_180_Day_Guided_Tou-tppLRE0NV52P.gif)](Zondervan_-_180_Day_Guided_Tour.pdf)
 
 ## The Bible in a Year
 
@@ -65,7 +65,7 @@ Here is a diverse collection of different reading plans that take you through th
 
 It divides up your reading into the main types of Genres (literature) such as Gospels, Law, Narrative (History), Psalms, Poetry, Prophecy, and Epistles!
 
-[![](Into_Thy_Word_-_Reading_by_Gen-gJBaw1suNmzr.gif)](/wp-content/uploads/2015/05/Into_Thy_Word_-_Reading_by_Genre.pdf)
+[![](Into_Thy_Word_-_Reading_by_Gen-gJBaw1suNmzr.gif)](Into_Thy_Word_-_Reading_by_Genre.pdf)
 
 ### Read From 4 Separate Places
 
@@ -75,19 +75,19 @@ It is also structured well enough that you could shorten your reading for each d
 
 Since you’ll have several “free days” each month, you could set aside Sundays either not to read at all or to catch up on any readings you may have missed in the past week.
 
-[![](Discipleship_Journal_-_Bible_R-ucFUE9PjQI3S.gif)](/wp-content/uploads/2015/05/Discipleship_Journal_-_Bible_Reading_Plan.pdf)
+[![](Discipleship_Journal_-_Bible_R-ucFUE9PjQI3S.gif)](Discipleship_Journal_-_Bible_Reading_Plan.pdf)
 
 ### Read Two Books at a Time
 
 Readings from two places in Scripture every day: an Old or New Testament book and one of the Old Testament wisdom books.
 
-[![](Discipleship_Journal_-_Book_at-2wamb3C6famB.gif)](/wp-content/uploads/2015/05/Discipleship_Journal_-_Book_at_a_Time.pdf)
+[![](Discipleship_Journal_-_Book_at-2wamb3C6famB.gif)](Discipleship_Journal_-_Book_at_a_Time.pdf)
 
 ### Read from the Old/New Testaments, Psalms and Proverbs
 
 The One Year Bible daily reading plan consist of passages from the Old Testament, New Testament, Psalms, and Proverbs.
 
-[![](One_Year_Bible-oxaFod1BX2LR.gif)](/wp-content/uploads/2015/05/One_Year_Bible.pdf)
+[![](One_Year_Bible-oxaFod1BX2LR.gif)](One_Year_Bible.pdf)
 
 Another option is this one created by [Scott Carlson](/23-bible-reading-plans-that-will-satisfy-anyone/comment-page-3/#comment-238318) that has you read the the following each year:
 
@@ -97,13 +97,13 @@ Another option is this one created by [Scott Carlson](/23-bible-reading-plans-th
 -   4x Gospels
 -   4x Proverbs
 
-[![](scott-carlson-bible-plan-1980x-eTEPkGuGGfim.png)](/wp-content/uploads/2022/07/scott-carlson-reading-plan.pdf)
+[![](scott-carlson-bible-plan-1980x-eTEPkGuGGfim.png)](scott-carlson-reading-plan.pdf)
 
 ### Read from the Old and New Testament
 
 This is a pretty straightforward plan starting from the beginning of the Old and New Testaments and working its way to the end.
 
-[![](Heartlight_-_Both_OT_and_NT-oNu8Os4FVKaJ.gif)](/wp-content/uploads/2015/05/Heartlight_-_Both_OT_and_NT.pdf)
+[![](Heartlight_-_Both_OT_and_NT-oNu8Os4FVKaJ.gif)](Heartlight_-_Both_OT_and_NT.pdf)
 
 ### Robert Murray M’Cheyne’s Reading Plan
 
@@ -149,31 +149,31 @@ There are 10, two week courses.
 
 > This is a place to begin reading the Bible. These two-week reading courses take you quickly into passages every Christian should know. \[…\] they are frequently quoted or referred to elsewhere. Second, they are relatively easy to read and understand.
 
-[![](Zondervan_-_2_Week_Guided_Tour-gamyOH8EbfCb.gif)](/wp-content/uploads/2015/05/Zondervan_-_2_Week_Guided_Tour.pdf)
+[![](Zondervan_-_2_Week_Guided_Tour-gamyOH8EbfCb.gif)](Zondervan_-_2_Week_Guided_Tour.pdf)
 
 ### 30 Days for New Christians
 
 New to Christianity and never been through the Bible? This plans for you!
 
-[![](Zondervan_-_30_Days_For_New_Ch-r1P8Rr68NV8D.gif)](/wp-content/uploads/2015/05/Zondervan_-_30_Days_For_New_Christians.pdf)
+[![](Zondervan_-_30_Days_For_New_Ch-r1P8Rr68NV8D.gif)](Zondervan_-_30_Days_For_New_Christians.pdf)
 
 ### 30 Days in the Psalms and Proverbs
 
 Take 30 days to go through the main themes in the Psalms and another 30 days to go through all the Proverbs.
 
-[![](Zondervan_-_30_Days_in_the_Psa-b865nQrhS0hB.gif)](/wp-content/uploads/2015/05/Zondervan_-_30_Days_in_the_Psalms_and_Proverbs.pdf)
+[![](Zondervan_-_30_Days_in_the_Psa-b865nQrhS0hB.gif)](Zondervan_-_30_Days_in_the_Psalms_and_Proverbs.pdf)
 
 ### 30 Days with Jesus
 
 Consider this a short biography on Jesus. ;)
 
-[![](Zondervan_-_30_Days_With_Jesus-XVNQreuNrykb.gif)](/wp-content/uploads/2015/05/Zondervan_-_30_Days_With_Jesus.pdf)
+[![](Zondervan_-_30_Days_With_Jesus-XVNQreuNrykb.gif)](Zondervan_-_30_Days_With_Jesus.pdf)
 
 ### 30 Stories You’ve Probably Never Heard
 
 These are some interesting stories that help make the Old Testament a little more fun to read.
 
-[![](Zondervan_-_30_Stories_Youve_P-EMNzYPVj7MKN.gif)](/wp-content/uploads/2015/05/Zondervan_-_30_Stories_Youve_Probably_Never_Heard.pdf)
+[![](Zondervan_-_30_Stories_Youve_P-EMNzYPVj7MKN.gif)](Zondervan_-_30_Stories_Youve_Probably_Never_Heard.pdf)
 
 ## New Testament Reading Plans
 
@@ -183,17 +183,17 @@ In case you find the Old Testament dry and boring, you can focus on the New Test
 
 5 minutes per day, 5 days per week, 5 ways to dig deeper. Takes you through one chapter each day.
 
-[![](Discipleship_Journal_-_5x5x5-PMnEN1IPyAFL.gif)](/wp-content/uploads/2015/05/Discipleship_Journal_-_5x5x5.pdf)
+[![](Discipleship_Journal_-_5x5x5-PMnEN1IPyAFL.gif)](Discipleship_Journal_-_5x5x5.pdf)
 
 ### With Psalms and Proverbs
 
 Get the New Testament, Psalms and Proverbs in one year.
 
-[![](Heartlight_-_NT_Psalms_and_Pro-6uDyOuWU5Jld.gif)](/wp-content/uploads/2015/05/Heartlight_-_NT_Psalms_and_Proverbs.pdf)
+[![](Heartlight_-_NT_Psalms_and_Pro-6uDyOuWU5Jld.gif)](Heartlight_-_NT_Psalms_and_Proverbs.pdf)
 
 ### New Testament in a Year
 
-[![](Year_of_the_Bible_-_NT_in_a_Ye-RWoBdYQee7WF.gif)](/wp-content/uploads/2015/05/Year_of_the_Bible_-_NT_in_a_Year.pdf)
+[![](Year_of_the_Bible_-_NT_in_a_Ye-RWoBdYQee7WF.gif)](Year_of_the_Bible_-_NT_in_a_Year.pdf)
 
 **Featured Download**: Didn’t find the type of plan you were looking for? I pulled together 46 PDF Bible reading plans into one easy download. [Download them now](http://bit.ly/2KRjwgZ).
 
