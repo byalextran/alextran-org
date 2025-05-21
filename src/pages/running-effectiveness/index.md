@@ -3,10 +3,11 @@ title: "What is Running Effectiveness (RE)?"
 date: 2019-10-28
 permalink: /key-concepts/running-effectiveness/
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
 
 Not to be confused with running economy or running efficiency, running _effectiveness_ measures how effective a runner is at converting power to speed.
 
-\[latex display="true"\]\\text{Running Effectiveness (RE)} = \\frac{\\text{speed (in m/s)}}{\\text{power (in W/kg)}}\[/latex\]
+$$\text{Running Effectiveness (RE)} = \frac{\text{speed (in m/s)}}{\text{power (in W/kg)}}$$
 
 RE can be calculated in various analytics platforms like [WKO](https://www.trainingpeaks.com/wko5/), [Golden Cheetah](https://www.goldencheetah.org/), [Today's Plan](https://www.todaysplan.com.au/), or the [SuperPower Calculator](/spc/).
 

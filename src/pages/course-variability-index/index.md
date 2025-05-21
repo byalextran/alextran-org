@@ -3,16 +3,17 @@ title: "What is Course Variability Index (CVI) and CVI+net?"
 date: 2019-10-28
 permalink: /key-concepts/course-variability-index/
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
 
 CVI is a metric created by Steve Palladino ([Palladino Power Project](https://www.facebook.com/groups/PalladinoPowerProject/)) that loosely conveys how hilly a route or course is. It’s a quick and dirty way of knowing how much uphill running to expect and is useful in [advanced race planning](/race-planning/) (particularly CVI+net).
 
-\[latex display="true"\]\\text{CVI} = \\frac{\\text{elevation gain (in feet)}}{\\text{distance (in miles)}}\[/latex\]
+$$\text{CVI} = \frac{\text{elevation gain (in feet)}}{\text{distance (in miles)}}$$
 
 Keep in mind, elevation gain is not the same as max elevation. Elevation gain measures how much uphill running was done. Max elevation is the highest elevation reached.
 
 As an example, let's say a half marathon has 500 ft of elevation gain. CVI would be 38.
 
-\[latex display="true"\]\\text{CVI} = \\frac{\\text{500 ft}}{\\text{13.1 miles}} = \\text{38}\[/latex\]
+$$\text{CVI} = \frac{\text{500 ft}}{\text{13.1 miles}} = \text{38}$$
 
 Based on my experience, here's how I'd describe various CVI ranges.
 
@@ -39,7 +40,7 @@ Imagine two routes that have the same climb to start. Route A is then flat to th
 
 The lack of elevation loss represented in CVI is what prompted the introduction of CVI+net by Steve Palladino. As the name suggests, it takes CVI and adds the net elevation change.
 
-\[latex display="true"\]\\text{CVI+net} = \\frac{\\text{2 \* elevation gain (in feet) - elevation loss (in feet)}}{\\text{distance (in miles)}}\[/latex\]
+$$\text{CVI+net} = \frac{2 * \text{elevation gain (in feet)} - \text{elevation loss (in feet)}}{\text{distance (in miles)}}$$
 
 CVI+net is meant to be used in tandem with CVI.
 

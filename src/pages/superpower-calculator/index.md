@@ -4,6 +4,7 @@ date: 2019-11-06
 coverImage: "numbers-on-a-track.jpg"
 permalink: /superpower-calculator/
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
 
 The SuperPower Calculator (SPC) contains a comprehensive suite of calculators and converters useful to anyone training, racing, and running with power.
 
@@ -209,11 +210,11 @@ This ensures proper effort is targeted under different conditions.
 
 ### Air Power and Running Power
 
-Stryd Wind includes the power needed to overcome air resistance and headwinds in the total power measurement. It calculates total power (Pt) by adding air power (Pa) and running power (Prc).
+Stryd Wind includes the power needed to overcome air resistance and headwinds in the total power measurement. It calculates total power ($P_t$) by adding air power ($P_a$) and running power ($P_{rc}$).
 
-\[latex display="true"\] P\_t = P\_a + P\_{rc}\[/latex\]
+$$ P_t = P_a + P_{rc}$$
 
-SPC supports entering air power in watts, watts/kg, or as a percentage of total power. Combined with adjustments based on environmental conditions, the adjusted running power (Prc) can be used to convert an outdoor power or CP/FTP into the equivalent on a treadmill where air resistance (Pa) is not a factor.
+SPC supports entering air power in watts, watts/kg, or as a percentage of total power. Combined with adjustments based on environmental conditions, the adjusted running power ($P_{rc}$) can be used to convert an outdoor power or CP/FTP into the equivalent on a treadmill where air resistance ($P_a$) is not a factor.
 
 ### Using the `Activities` Tab
 

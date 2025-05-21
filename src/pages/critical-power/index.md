@@ -3,6 +3,7 @@ title: "What is Critical Power (CP)?"
 date: 2019-10-27
 permalink: /key-concepts/critical-power/
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
 
 In simple terms, it represents your current fitness and is measured in watts (W) or watts per kilogram (W/kg).
 
@@ -21,9 +22,9 @@ CP can be estimated using two primary methods:
 
 When comparing CP to other runners (or tracking yours over time), W/kg should be used instead of raw watts. For example, no comparison can be made between two runners with a critical power of 220 W (Runner A) and 300 W (Runner B). However, if you know Runner A weighs 55 kg and Runner B weighs 75 kg, you can compare their W/kg.
 
-\[latex display="true"\]\\text{Runner A: }\\frac{\\text{220 W}}{\\text{55 kg}} = \\text{4.18 }\\frac{\\text{W}}{\\text{kg}}\[/latex\]
+$$\text{Runner A: }\frac{\text{220 W}}{\text{55 kg}} = \text{4.18 }\frac{\text{W}}{\text{kg}}$$
 
-\[latex display="true"\]\\text{Runner B: }\\frac{\\text{300 W}}{\\text{75 kg}} = \\text{4.00 }\\frac{\\text{W}}{\\text{kg}}\[/latex\]
+$$\text{Runner B: }\frac{\text{300 W}}{\text{75 kg}} = \text{4.00 }\frac{\text{W}}{\text{kg}}$$
 
 All things being equal, Runner A will be faster than Runner B at critical power because they have a higher W/kg.
 

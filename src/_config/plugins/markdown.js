@@ -9,6 +9,7 @@ import markdownItFootnote from 'markdown-it-footnote';
 import markdownitMark from 'markdown-it-mark';
 import markdownitAbbr from 'markdown-it-abbr';
 import {slugifyString} from '../filters/slugify.js';
+import markdownItKatex from '@vscode/markdown-it-katex';
 
 export const markdownLib = markdownIt({
   html: true,
@@ -44,6 +45,7 @@ export const markdownLib = markdownIt({
   .use(markdownItFootnote)
   .use(markdownitMark)
   .use(markdownitAbbr)
+  .use(markdownItKatex.default)
   .use(md => {
     md.renderer.rules.image = (tokens, idx) => {
       const token = tokens[idx];
