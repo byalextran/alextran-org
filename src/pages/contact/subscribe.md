@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-permalink: /contact/success/
+permalink: /contact/subscribe/
 eleventyExcludeFromCollections: true
 ---
 
