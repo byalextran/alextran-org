@@ -32,6 +32,7 @@ schema: BlogPosting
 
     {{ content | safe }}
     {% include 'partials/edit-on.njk' %}
+        {% include "partials/subscribe.njk" %}
   </div>
 
   <!--  h-card infos: https://indieweb.org/authorship -->
