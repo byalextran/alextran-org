@@ -7,3 +7,4 @@ MAILERLITE_API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpI
 MAILERLITE_ATO_GROUP_ID = "154161542364923342"
 SUBSCRIPTION_SUCCESS_MESSAGE = "Yee-haw, thanks for subscribing! Let me underpromise an email a month and hopefully overdeliver on it."
 SUBSCRIPTION_FAILED_MESSAGE = "An unexpected error happened subscribing. Try again and if it continues, could you do me a favor and reach out via my contact page? Thanks!"
+URL = "https://www.alextran.org"
