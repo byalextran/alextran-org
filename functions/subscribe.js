@@ -36,5 +36,5 @@ export async function onRequestPost(context) {
       }
   }
 
-  return new Response(responseMessage, responseHeaders);
+  return new Response(JSON.stringify(responseMessage), responseHeaders);
 }
