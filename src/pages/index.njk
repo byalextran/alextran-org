@@ -3,43 +3,32 @@ layout: base
 permalink: /index.html
 ---
 
-<div class="wrapper">
+<div class="wrapper flow prose">
   <header class="full | section" style="--spot-color: var(--color-primary)">
     <div class="section__inner flow region">
       <h1 class="text-center" style="color: var(--color-light);">*shrug*</h1>
     </div>
-    {% svg "divider/waves", null, "divider" %}
   </header>
-
-  <article class="full | region">
-    <div class="wrapper flow prose">
-      <p>
-          Long story short, I'm entering a sabbatical season (through the rest of 2025) with no pressure to have a plan, know what's next, or worry about finding a job.
-      </p>
-      <p>
-          All I know is God wants me to "just be" in this season. So I'll be sitting in that and seeing what He wants to reveal.
-      </p>
-      <p>
-          I plan on writing about that journey here (among other random topics). If you want to follow along, sign up for email updates below.
-      </p>
-      <div class="ml-embedded" data-form="lzvArH"></div>
-    </div>
-  </article>
-
-  <section class="full | region">
-    <div class="wrapper flow prose">
-      <h2>Featured Articles</h2>
-      <p>
-          In the meantime, check out some of my these articles or <a href="/articles/">look through the archives</a>.
-      </p>
-      <div class="feature |  region region-space-l">
-          <custom-masonry layout="50-50">
-            {% set itemList = collections["featured"] | reverse %}
-            {% for item in itemList %}
-                {% include "partials/card-tag.njk" %}
-            {% endfor %}
-          </custom-masonry>
-      </div>
-    </div>
-  </section>
+  <p>
+      Long story short, I'm entering a sabbatical season (through the rest of 2025) with no pressure to have a plan, know what's next, or worry about finding a job.
+  </p>
+  <p>
+      All I know is God wants me to "just be" in this season. So I'll be sitting in that and seeing what He wants to reveal.
+  </p>
+  <p>
+      I plan on writing about that journey here (among other random topics). If you want to follow along, sign up for email updates below.
+  </p>
+  <div class="ml-embedded" data-form="lzvArH"></div>
+  <h2>Featured Articles</h2>
+  <p>
+      In the meantime, check out some of my these articles or <a href="/articles/">look through the archives</a>.
+  </p>
+  <div class="feature | region region-space-l">
+      <custom-masonry layout="50-50">
+        {% set itemList = collections["featured"] | reverse %}
+        {% for item in itemList %}
+            {% include "partials/card-tag.njk" %}
+        {% endfor %}
+      </custom-masonry>
+  </div>
 </div>
