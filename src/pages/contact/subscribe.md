@@ -4,11 +4,6 @@ title: Contact Me
 permalink: /contact/subscribe/
 eleventyExcludeFromCollections: true
 ---
-
-### Yee-haw! 🤠
-
-Thanks for shooting me a message. I'll get back to you as quickly as I can!
-
 <h3>Get Email Updates</h3>
 
 <p>I write about a hodgepodge of things. Much of it will be what God’s teaching me—hopefully it encourages you too. I also enjoy digging into topics like product recommendations, reviews, and other random but useful nuggets.</p>
@@ -17,23 +12,29 @@ Thanks for shooting me a message. I'll get back to you as quickly as I can!
   <input type="email" id="email" name="email" placeholder="Enter your email address" required />
   <button type="submit" class="button" data-ghost-button>Subscribe</button>
 </form>
-<p id="response-message"></p>
+<p id="response-message" hidden></p>
 
 <script>
   const form = document.getElementById('subscribe-form');
+  const message = document.getElementById('response-message');
 
   form.addEventListener('submit', async function (e) {
     e.preventDefault();
 
     const email = document.getElementById('email').value;
 
-    const res = await fetch('https://www.alextran.org/subscribe', {
+    const res = await fetch('https://www.alextran.org/api/subscribe', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email })
     });
 
     const data = await res.json();
-    document.getElementById('response-message').textContent = data.message;
+
+    if(res.status == 200 || res.status == 201) {
+      form.hidden = true;
+    }
+    message.textContent = data.message;
+    message.hidden = false;
   });
 </script>
