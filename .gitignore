@@ -1,4 +1,5 @@
 .DS_Store
+.wrangler/
 
 # Node modules
 node_modules
