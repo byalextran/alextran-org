@@ -10,7 +10,7 @@ export default {
     },
     {
       text: 'Contact',
-      url: 'https://tally.so/r/mVdxMv'
+      url: '/contact/'
     }
   ],
   bottom: []
