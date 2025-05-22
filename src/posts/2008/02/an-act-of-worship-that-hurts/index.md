@@ -5,16 +5,16 @@ permalink: /an-act-of-worship-that-hurts/
 ---
 I received some advice once. It was “give it back to God.”
 
-That advice really began to come alive at a [concert](http://www.jamtour.com) I was at couple of weeks ago. [MercyMe](http://www.mercyme.org) was closing out the night with a song called “[Bring the Rain](http://tinysong.com/jggQ).”
+That advice really began to come alive at a [concert](http://www.jamtour.com) I was at couple of weeks ago. [MercyMe](http://www.mercyme.org) was closing out the night with a song called “[Bring the Rain](https://www.youtube.com/watch?v=7fP5vcWWOfc).”
 
 God was wrecking me through this song. ;)
 
 The chorus goes something like this:
 
-> **Bring me anything that brings You glory**  
-> And I know there’ll be days  
-> **When this life brings me pain**  
-> **But if that’s what it takes to praise You**  
+> **Bring me anything that brings You glory**
+> And I know there’ll be days
+> **When this life brings me pain**
+> **But if that’s what it takes to praise You**
 > Jesus, bring the rain
 
 During this song, God gave me a new take on the story of Abraham and Isaac.

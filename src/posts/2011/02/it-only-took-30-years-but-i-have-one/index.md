@@ -33,7 +33,7 @@ And _that_ is the biggest revelation of this past year. Quite possibly my entire
 
 ### If I Accomplish Nothing Else…
 
-To quote the lyrics from a [Lecrae song](http://tinysong.com/elD5), if I accomplish nothing else but “take the Bible, create disciples, who make disciples, disciple-cycles” then I will be content knowing I have faithfully served God.
+To quote the lyrics from a "[After the Music Stops](https://www.youtube.com/watch?v=lNBpjBE6ew8)" by Lecrae, if I accomplish nothing else but “take the Bible, create disciples, who make disciples, disciple-cycles” then I will be content knowing I have faithfully served God.
 
 In short, I will die with a smile on my face. ;)
 

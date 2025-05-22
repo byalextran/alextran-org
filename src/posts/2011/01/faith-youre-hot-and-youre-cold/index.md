@@ -17,7 +17,7 @@ My faith has taken a big hit. My confidence has started to crumble slightly. All
 > And if Our God is for us, then who could ever stop us
 > And if our God is with us, then what can stand against?
 > What can stand against?
-> ~lyrics from Our God (is Greater) by Chris Tomlin ([listen](http://tinysong.com/yI3E))
+> ~lyrics from "[Our God (is Greater)](https://www.youtube.com/watch?v=R-JZ9KsI7YI)" by Chris Tomlin
 
 The good news? The lyrics above are money. They are encouraging. It was one of the songs I heard this morning during my worship time.
 
@@ -30,7 +30,7 @@ The first day [I reminded myself](/dont-be-afraid-to-ask/) (and you) not be afra
 
 Today, I’m telling myself to continue believing in faith despite the ups and downs I’ve been experiencing. It’s easy to tell yourself you didn’t hear from God correctly. Or it just wasn’t meant to be.
 
-But screw that junk! \*[cue Rocky theme song](http://tinysong.com/i09L)\*
+But screw that junk! \*cue Rocky theme song\*
 
 Just as we have to constantly fight to guard our relationship with God, we have to fight just as hard to believe and not doubt. The things I’m praying and believing God are important to me. Important enough not to abandon ship in the first few days. ;)
 

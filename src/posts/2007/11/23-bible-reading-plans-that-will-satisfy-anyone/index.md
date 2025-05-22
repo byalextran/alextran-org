@@ -90,7 +90,7 @@ The One Year Bible daily reading plan consist of passages from the Old Testament
 
 [![](One_Year_Bible-oxaFod1BX2LR.gif)](One_Year_Bible.pdf)
 
-Another option is this one created by [Scott Carlson](/23-bible-reading-plans-that-will-satisfy-anyone/comment-page-3/#comment-238318) that has you read the the following each year:
+Another option is this one created by Scott Carlson that has you read the the following each year:
 
 -   1x Old Testament
 -   2x New Testament
@@ -112,13 +112,13 @@ There are two types of readings in this plan: family and secret.
 
 The family readings are meant for going over with your family, in groups or at a Bible study whereas the secret readings are for your own personal devotional time.
 
-The problem with this is that there’s really no difference in the two types. You could just as easily read the secret readings in a group and vice versa. In fact, M’Cheyne even points this out when he [describes the plan](http://hippocampusextensions.com/mcheyneplan/).
+The problem with this is that there’s really no difference in the two types. You could just as easily read the secret readings in a group and vice versa.
 
 So, \*shrug\*.
 
 The whole Bible will be read through in an orderly manner in the course of a year. – The Old Testament once, the New Testament and Acts twice.
 
-[![](Robert_Murray_MCheyne-8ivNW4lfXrg1.gif)](http://hippocampusextensions.com/mcheyneplan/)
+[![](Robert_Murray_MCheyne-8ivNW4lfXrg1.gif)](https://mcheyne.info/offline-reading-plan/)
 
 ### Read in chronological order
 

@@ -2,7 +2,8 @@
 title: "SuperPower Calculator for Sheets (SPCs)"
 date: 2019-11-06
 coverImage: "numbers-on-a-track.jpg"
-permalink: /superpower-calculator/
+permalink: /spc/
+redirectFrom: [/superpower-calculator/]
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
 
@@ -275,11 +276,8 @@ New and Adjusted features are shown in SPCs using ● (for new) and ◊ (for adj
 SuperPower Calculator is a collaboration between:
 
 - Steve Palladino ([Palladino Power Project](https://www.facebook.com/groups/PalladinoPowerProject/))
-
 - Steve Bateman ([from1runner2another](https://www.facebook.com/groups/from1runner2another/))
-
-- [Alex Tran](/))
-
-- [Mikael Lönn](https://mikaellonn.se/)
+- [Alex Tran](/)
+- Mikael Lönn
 
 With kind permission from the [Stryd Team](https://www.facebook.com/groups/strydcommunity/) to incorporate their altitude, temperature, and humidity power converter.

@@ -53,7 +53,7 @@ Would you?
 ### Final Advice
 
 > The decision to opt out of social security should not be taken lightly.
-> ~[Evangelical Council for Financial Accountability](http://www.ecfa.org/TopicDisplay.aspx?PageName=TopicMinistersOptingOut)
+> ~Evangelical Council for Financial Accountability
 
 Read Form 4361. Don’t blindly accept the advice of others. Know what you are signing and saying yes to.
 
@@ -74,6 +74,5 @@ I pray we all have pure hearts and a steadfast spirit. Hearts not tempted by mon
 -   [Memo #10 – Can Ministers Opt Out of Social Security?](http://www.pbusa.org/index.php?option=com_content&view=article&id=140:memo10&catid=48:memos&Itemid=81) (read section titled A “Catch” Often Overlooked)
 -   [Ministers Opting out of Social Security](http://www.ecfa.org/TopicDisplay.aspx?PageName=TopicMinistersOptingOut) (read bottom section after “Basis for filing for an exemption…”)
 -   [On Opting out of the Social Security System](http://placementreflections.blogspot.com/2006/10/on-opting-out-of-social-security.html)
--   [Opting out of Social Security](http://www.crown.org/library/ViewArticle.aspx?ArticleId=690)
 
 I’d love to hear your reasons for either opting out or not. Please let me know in the comments!

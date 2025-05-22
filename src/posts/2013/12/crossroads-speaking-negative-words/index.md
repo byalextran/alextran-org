@@ -10,7 +10,7 @@ You’d think it was because I was feeling the pressure of performing not just m
 
 Nope.
 
-Sleep eluded me because I was thinking about an article I read about [gossiping positively](http://theweek.com/article/index/253693/how-to-make-people-like-you-6-science-based-conversation-hacks) (read the sixth point). There were no witnesses so I cannot confirm or deny if a few tears were shed as I lay there restless in bed.
+Sleep eluded me because I was thinking about an article I read about [gossiping positively](https://time.com/92732/how-to-make-people-like-you-6-science-based-conversation-hacks/) (read the sixth point). There were no witnesses so I cannot confirm or deny if a few tears were shed as I lay there restless in bed.
 
 My spirit was burdened by one thought.
 

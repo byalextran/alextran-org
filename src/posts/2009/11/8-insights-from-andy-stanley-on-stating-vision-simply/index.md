@@ -3,7 +3,7 @@ title: 8 Insights from Andy Stanley on Stating Vision Simply
 date: 2009-11-03T04:04:15.000Z
 permalink: /8-insights-from-andy-stanley-on-stating-vision-simply/
 ---
-Last night I listened to the latest episode of Andy Stanley’s Leadership Podcast ([iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=290055666), [RSS](http://feeds.feedburner.com/AndyStanleyLeadershipPodcast)) titled _Stating Vision Simply_. It fit well with another article I read from Joel on Software called [_Figuring out what your company is all about_](http://www.joelonsoftware.com/items/2009/11/01.html).
+Last night I listened to the latest episode of [Andy Stanley’s Leadership Podcast](https://andystanley.com/podcast/) titled _Stating Vision Simply_. It fit well with another article I read from Joel on Software called [_Figuring out what your company is all about_](http://www.joelonsoftware.com/items/2009/11/01.html).
 
 I’ve decided I like Andy Stanley. ;) And I always knew I liked what Joel had to say on software. ;)
 
@@ -27,7 +27,7 @@ As reinforcement to crafting a simple vision statement, Andy asked what Barack O
 
 Point taken. I knew Obama’s was “Change.” Couldn’t tell you what anybody else’s was. ;)
 
--   The larger the audience, the simpler it has to be. Every time you add a layer,  you have to add another layer of simplicity.
+-   The larger the audience, the simpler it has to be. Every time you add a layer, you have to add another layer of simplicity.
 
 -   If you’re beginning with a fog, the best you’re going to communicate is a mist.
     -   Before you can make vision stick, you have to have a clear vision yourself.
@@ -47,7 +47,7 @@ To create a church unchurched people love to attend (One of North Point’s earl
 
 Help your users be awesome (the mantra of [Kathy Sierra](http://headrush.typepad.com/)).
 
-We help the world’s best developers make better software (the new tagline for [Fog Creek Software](http://www.fogcreek.com/)).
+We help the world’s best developers make better software (the new tagline for Fog Creek Software).
 
 ### My Personal Takeaway
 

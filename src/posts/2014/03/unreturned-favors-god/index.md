@@ -38,5 +38,3 @@ Even if that comes at our own individual expense.
 Last I checked, God hasn’t asked any of us to sacrifice our physical lives. So, really, it is no sacrifice at all. Especially if you consider this one moment/situation does not even come close to negating a lifetime of God’s faithfulness to me.
 
 The next time God does not return a “favor,” consider all God’s done for you and then see if you’re still wanting that favor.
-
-Photo courtesy of [nathanmac87](http://www.flickr.com/photos/nathanmac87/4374845724/).

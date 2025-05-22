@@ -16,7 +16,7 @@ I’d read or listen to this incredible biography about my beautiful wife. It re
 
 When I get to work, I look at this note card I’ve taped to my laptop. It has a quote from the biography I’m reading; something I thought would be worth remembering about my wife.
 
-During lunch I’ll thank my wife for the  yummy food she’s given me. Mmmm, food.
+During lunch I’ll thank my wife for the yummy food she’s given me. Mmmm, food.
 
 **Evenings…**
 

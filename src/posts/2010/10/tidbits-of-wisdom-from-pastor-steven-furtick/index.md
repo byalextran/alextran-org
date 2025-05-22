@@ -7,14 +7,6 @@ permalink: /tidbits-of-wisdom-from-pastor-steven-furtick/
 
 Here are my notes from that meeting.
 
-### Intro
-
-Just some quick background. The teaching points in the talk come from Elevation Church’s 12 core values they call [The Code](http://www.elevationchurch.org/thecode). And to a lesser extent, Acts 3:1-10.
-
-> The Code is our core set of values at Elevation Church. It sets the tone and trajectory for how we get things done. If the mission is the compass, The Code is the map that gives us direction.
-
-The idea for The Code came from a book called [The Orange Code](http://amzn.to/9wF4gI).
-
 ### We Are a Generation of Honor
 
 > We freely give honor to those above us, beside us and under us because of the calling and potential God has placed inside of them.

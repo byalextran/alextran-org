@@ -94,7 +94,10 @@ Spend more time in prayer, worship, and the Word. You created margin for those t
 
 Those three things should be staples of your spiritual diet. Want those things just as much as you want food. Oh, and don’t forget to give God an opportunity to speak. Be intentional about listening for His voice and the Holy Spirit’s promptings.
 
-If you need some worship music, follow whichever of my [30 Minute Worship Playlists](/category/worship-playlists/) floats your boat.
+If you need some worship music, I've curated a handful of 30-minute worship playlists here:
+
+* [6 of them](/6-thirty-minute-worship-playlists/)
+* [5 more](/3-30-minute-worship-playlists/)
 
 Use a daily reading plan during your fast. Try [21 Day Fast](https://www.bible.com/reading-plans/693-21-days-of-powerful-breakthroughs), [21 Days of Powerful Breakthroughs](https://www.bible.com/reading-plans/693-21-days-of-powerful-breakthroughs) or [any of these 23 plans](/23-bible-reading-plans-that-will-satisfy-anyone/ "23 Bible Reading Plans That Will Satisfy Anyone").
 

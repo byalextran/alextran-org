@@ -4,7 +4,7 @@ date: 2012-01-02 06:33:04+00:00
 permalink: /my-3-words-for-2012/
 description: The three words that will help me define my goals and experiences for 2012.
 ---
-Following the [footsteps of Chris Brogan](http://www.chrisbrogan.com/3words2012/), I’ve come up with 3 words instead of resolutions for the new year.
+Following the [footsteps of Chris Brogan](http://www.chrisbrogan.com), I’ve come up with 3 words instead of resolutions for the new year.
 
 Rather than resolutions which tend to focus on a specific areas, these words represent broader themes that will help me define my goals and experiences for 2012.
 

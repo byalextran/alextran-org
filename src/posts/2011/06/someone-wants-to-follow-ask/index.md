@@ -16,7 +16,7 @@ Here are some things I could ask someone else to do with me.
 
 -   Weekly Scripture memory.
 -   Follow the same Bible reading plan.
--   Do a [S.O.A.P. devotional](http://www.enewhope.org/nextsteps/journaling/) once a week together (journal privately, but share openly).
+-   Do a [S.O.A.P. devotional](https://lovegodgreatly.com/how-to-soap/) once a week together (journal privately, but share openly).
 -   Have a night of prayer and worship.
 -   Attend a small group.
 -   Do something fun.

@@ -12,9 +12,9 @@ Now whenever I need a verse to memorize, I can skim through this collection and 
 
 So whenever you’re looking for the next weekly memory verse, just hit up one of these sites!
 
-### [Fighter Verses](http://www.fighterverses.com/the-verses/fighter-verses/)
+### [Fighter Verses](https://www.fighterverses.com)
 
-[![](fv_fighter-verses-Zk6mLgv637l5.png)](http://www.fighterverses.com/the-verses/fighter-verses/)
+[![](fv_fighter-verses-Zk6mLgv637l5.png)]( https://www.fighterverses.com)
 
 > The Fighter Verses focus on:
 >
@@ -22,11 +22,7 @@ So whenever you’re looking for the next weekly memory verse, just hit up one o
 > 2.  battling against our fleshly desires
 > 3.  the hope of the Gospel
 
-[Start here first](http://www.fighterverses.com/the-verses/fighter-verses/). ;)
-
 This is the jackpot of all things Scripture memory. Here you’ll find a collection of 260 verses (one every week for five years). Each verse is categorized so you can target memory verses based on cool stuff like God’s faithfulness, being patient, battling temptation, etc.
-
-And if you’re feeling like extra credit, you can memorize longer passages in the [Extended Set](http://www.fighterverses.com/the-verses/extended/) or check out another 260 verses in the original [Legacy Verses](http://www.fighterverses.com/the-verses/legacy-verses/).
 
 Not only that but they have an iPhone/Android app you can use to review and quiz yourself on the verses.
 
@@ -66,20 +62,15 @@ Check out their [top Bible verses](http://www.topverses.com/?pg=1) for the most 
 
 Memverse is an online tool used to help memorize Scripture. They’ve published a list of the [top 100 memory verses](http://www.memverse.com/popular) submitted by their users.
 
-### [Top Verses to Memorize](http://www.youversion.com/reading-plans/top-verses-to-memorize)
+### [Top Verses to Memorize](https://www.bible.com/reading-plans/40-top-verses-to-memorize)
 
-[![](yv_top-verses-CeE12GJzRpEX.png)](http://www.youversion.com/reading-plans/top-verses-to-memorize)
+[![](yv_top-verses-CeE12GJzRpEX.png)](https://www.bible.com/reading-plans/40-top-verses-to-memorize)
 
 > Do you want to memorize scripture? Where do you start? We have compiled some of the top verses people memorize and consistently resort to from all the books of the Bible.
-
-These verses are part of a reading plan at [YouVersion.com](http://www.youversion.com/reading-plans/top-verses-to-memorize). I _highly_ encourage anyone using YouVersion to signup for an account and download their mobile app.
-
-This will let you keep track of your progress and have access to the Bible anywhere.
 
 ### Other Memory Verses
 
 -   [Successful Scripture Memory and Review](http://www.spurgeongems.org/bmg.htm)
--   [My Favorite Best 100 Verses to Memorize](http://www.mentoring-disciples.org/Best100.html)
 -   [Top 100 Bible Memory Verses](http://scripturetyper.com/memory-verse-library/)
 
 ### Final Words

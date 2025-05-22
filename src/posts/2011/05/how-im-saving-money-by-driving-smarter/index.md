@@ -40,7 +40,7 @@ The biggest example of this is when you’re on a highway going up a hill.
 
 Generally, I would press the gas pedal down further to maintain the same speed. However, my goal is no longer consistent speed, but consistent _gas pedal_.
 
-So I try to keep my foot pressed down the same amount all the way through the hill. That means my car typically slows down  5 to 10 MPH, but I’m making my car work less and use less gas by doing so.
+So I try to keep my foot pressed down the same amount all the way through the hill. That means my car typically slows down 5 to 10 MPH, but I’m making my car work less and use less gas by doing so.
 
 ### Make It Fun
 

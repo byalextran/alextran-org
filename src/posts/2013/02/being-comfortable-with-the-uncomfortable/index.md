@@ -44,5 +44,3 @@ Just as I learned to breathe when I wanted to panic, we need to learn to rely on
 Sometimes you just have to take a deep breath and say “God, I trust you” with my current situation. ([Click to tweet](http://clicktotweet.com/a1Ug6).)
 
 When you want to quit, learn to take a deep breath, exhale and say “God, I trust you.” Deep breath. Exhale. “God, you are the source of my strength.”
-
-_Photo courtesy of [ontwerpplus](http://www.flickr.com/photos/ontwerpplus/527486156/)._

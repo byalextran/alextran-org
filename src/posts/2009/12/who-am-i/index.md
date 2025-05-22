@@ -3,7 +3,7 @@ title: Who Am I?
 date: 2009-12-26T12:26:48.000Z
 permalink: /who-am-i/
 ---
-I’ve been banging my head against the same wall for awhile now. It happens to be the wall that is [Celebration Church Online](http://online.celebration.org).
+I’ve been banging my head against the same wall for awhile now. It happens to be the wall that is Celebration Church Online.
 
 It is my ministry.
 
@@ -56,10 +56,10 @@ To chat with some of you and to be able to see that relationship with God deepen
 When I feel like I’m failing and don’t see any growth over the past year, you are a constant reminder that Church Online is bearing spiritual fruit; that fruit isn’t always measured in what new initiatives you launch.
 
 > Dear BlueLily, Janet, Kathy, Becky and everyone else touched by Church Online,
-> 
+>
 > Thank you for being an encouragement to me.
-> 
-> I love you all!  
+>
+> I love you all!
 > \-Alex
 
 Same goes to Sarah, Brent, Becca, Daniel and Tova for putting up with my antics. ;)

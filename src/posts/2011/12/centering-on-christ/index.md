@@ -7,9 +7,9 @@ description: In the midst of madness, chaos and life, sometimes we just need to 
 > **Jeremiah 29:13 (NIV)**
 > You will seek me and find me when you seek me with all your heart.
 
-[http://tinysong.com/Ikde](http://tinysong.com/Ikde) (click to listen)
-
 …and soak up these lyrics.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ryQrLheFbN0?si=-beH7WVQw55ckwTR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In the midst of madness, chaos and life, sometimes we just need to slow down and sit at the feet of Jesus.
 

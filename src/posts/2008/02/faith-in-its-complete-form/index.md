@@ -15,7 +15,7 @@ Here’s an excerpt from The Bible Exposition Commentary.
 
 I’m going to go through those three things, but the focus of this post is really on the third one (the will).
 
-### [The Mind Understands the Truth](/faith-from-mount-everest/)
+### The Mind Understands the Truth
 
 The truth that I’m understanding nowadays is the object of my faith. It is definitely and utterly no longer myself that I have faith in.
 
@@ -44,7 +44,7 @@ Had Abraham not continued to walk up the mountain to the place where God wanted 
 
 Faith and action work together in order to complete God’s work in us and in order for God’s work to be complete through us.
 
-Imagine walking up the mountain as Abraham.  With every step, you look over at Isaac.  You know full well what you’re about to do, but you continue walking.
+Imagine walking up the mountain as Abraham. With every step, you look over at Isaac. You know full well what you’re about to do, but you continue walking.
 
 With every step and every look at your “Isaac,” you are one step closer to completion.
 
