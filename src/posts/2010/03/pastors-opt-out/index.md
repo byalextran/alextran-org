@@ -72,7 +72,6 @@ I pray we all have pure hearts and a steadfast spirit. Hearts not tempted by mon
 
 -   [Is it Okay for Me to Opt Out of Social Security? My Response](http://www.russellmoore.com/2010/02/15/is-it-okay-for-me-to-opt-out-of-social-security-my-response/) (_highly recommended_)
 -   [Memo #10 – Can Ministers Opt Out of Social Security?](http://www.pbusa.org/index.php?option=com_content&view=article&id=140:memo10&catid=48:memos&Itemid=81) (read section titled A “Catch” Often Overlooked)
--   [Ministers Opting out of Social Security](http://www.ecfa.org/TopicDisplay.aspx?PageName=TopicMinistersOptingOut) (read bottom section after “Basis for filing for an exemption…”)
 -   [On Opting out of the Social Security System](http://placementreflections.blogspot.com/2006/10/on-opting-out-of-social-security.html)
 
 I’d love to hear your reasons for either opting out or not. Please let me know in the comments!

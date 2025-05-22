@@ -56,7 +56,11 @@ Proud knowing I just didn’t get the job done, but it was done well, efficientl
 
 While I love to research and execute, it brings me great satisfaction when I can consolidate my research and summarize my experience into a digestible, useful blog post.
 
-It’s no surprise that my [three](/23-bible-reading-plans-that-will-satisfy-anyone/) [most](/bible-pens/) [viewed](/wp-hive-versus-virtual-multiblog/) blog posts are the ones I’ve shared from my research and experience.
+It’s no surprise that my three most viewed blog posts are the ones I’ve shared from my research and experience.
+
+1. [The Best Pen for Writing Notes and Underlining in Your Bible](/bible-pens/)
+2. [Why the Dew Point is Way Better Than Humidity for Runners](/dew-point/)
+3. [DIY Sports Drink Tonicity Calculator](/tonicity-calculator/)
 
 It makes me smile when I can teach others one blog post at a time.
 

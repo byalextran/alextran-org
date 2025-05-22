@@ -5,7 +5,7 @@ permalink: /faith-in-its-complete-form/
 ---
 I find it “coincidental” that my last two posts have unknowingly followed a progression that will be completed with this post.
 
-If you’ve been following along, you know that recently God has given me a [greater level of faith](/faith-from-mount-everest/) and the [right “heart” desire](/an-act-of-worship-that-hurts/) to walk out that faith.
+If you’ve been following along, you know that recently God has given me a greater level of faith and the [right “heart” desire](/an-act-of-worship-that-hurts/) to walk out that faith.
 
 Since I’m in a season of life that is requiring faith and I find myself struggling to walk out that faith, I decided to read up on it today. I needed some encouragement, so I went to the Word. Pretty cool idea, huh? ;)
 

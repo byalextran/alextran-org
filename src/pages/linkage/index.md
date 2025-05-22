@@ -2,7 +2,16 @@
 title: "Instagram Links"
 date: 2020-03-20
 permalink: /linkage/
+gallery:
+  - image: ./src/pages/linkage/images/eyes-kettlebell-handle.jpg
+    alt: alt text
+    caption: caption text
+  - image: ./src/pages/linkage/images/eyes-kettlebell-handle.jpg
+    alt: alt text2
+    caption: caption text2
 ---
+
+{% include "partials/gallery.njk" %}
 
 Click on an image below to visit the link associated with that post.
 
