@@ -1,8 +1,10 @@
 ---
 title: "Why the Dew Point is Way Better Than Humidity for Runners"
+description: You’re probably reading the weather wrong. Learn why dew point is the secret to actually understanding comfort levels.
 date: 2020-07-30
 coverImage: "condensation-water-bottles-scaled.jpg"
 permalink: /dew-point/
+tags: featured
 ---
 
 For runners or any outdoor enthusiast, the dew point is a far more insightful metric than relative humidity (commonly referred to as just humidity).
@@ -89,12 +91,7 @@ All you need is this table (which is easily memorized) …
 | 32–49 | 0–9 | Comfortable but with drier air |
 | < 32 | < 0 | Comfort varies (At lower values, the air could be too dry for some.) |
 
-<figcaption>
-
-How it feels at various dew point ranges.
-
-</figcaption>
-
+<figcaption>How it feels at various dew point ranges.</figcaption>
 </figure>
 
 **Since comfort is subjective, use the table above as a starting point.**
