@@ -17,15 +17,13 @@ Thanks for shooting me a message. I'll get back to you as quickly as I can!
   <input type="email" id="email" name="email" placeholder="Enter your email address" required />
   <button type="submit" class="button" data-ghost-button>Subscribe</button>
 </form>
-<div id="response-message">Hello, world!</div>
+<p id="response-message"></p>
 
 <script>
   const form = document.getElementById('subscribe-form');
 
   form.addEventListener('submit', async function (e) {
-    if (!form.checkValidity()) {
-      return;
-    }
+    e.preventDefault();
 
     const email = document.getElementById('email').value;
 
