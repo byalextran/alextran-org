@@ -1,4 +1,52 @@
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid var(--color-mid);
+  padding: 4px 12px;
+}
+
+/* latex */
 [class*='katex'],
 [class*='katex'] * {
   text-wrap: unset;
+}
+
+/* fixing dark mode colors */
+:root[data-theme='dark'] #email-updates {
+  color: #161616;
+}
+
+:root[data-theme='dark'] #dew-point-gradient > table tbody {
+  color: #2e2e2e;
+}
+
+/* dew point table gradients */
+#dew-point-gradient > table tbody tr:nth-child(1) {
+  background-color: #db3d3b;
+}
+
+#dew-point-gradient > table tbody tr:nth-child(2) {
+  background-color: #f46f53;
+}
+
+#dew-point-gradient > table tbody tr:nth-child(3) {
+  background-color: #fe9c63;
+}
+
+#dew-point-gradient > table tbody tr:nth-child(4) {
+  background-color: #fecd81;
+}
+
+#dew-point-gradient > table tbody tr:nth-child(5),
+#dew-point-gradient > table tbody tr:nth-child(6),
+#dew-point-gradient > table tbody tr:nth-child(7) {
+  background-color: #b8d1e7;
+}
+
+#dew-point-gradient > table tbody tr:nth-child(8) {
+  background-color: #ffffff;
 }

@@ -38,6 +38,10 @@
     <!-- <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" /> -->
     {% include "head/css-inline.njk" %}
 
+    {% css "local" %}
+      {% include "css/forms.css" %}
+    {% endcss %}
+
     <!-- 6 preloads  -->
     {% include "head/preloads.njk" %}
 

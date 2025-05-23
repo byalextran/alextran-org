@@ -78,7 +78,7 @@ All you need is this table (which is easily memorized) …
 
 ## Comfort Levels at Various Dew Points
 
-<figure>
+<figure id="dew-point-gradient">
 
 | Dew Point (°F) | Dew Point (°C) | How It Feels |
 | --- | --- | --- |

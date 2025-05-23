@@ -1,1 +1,35 @@
-<div class="ml-embedded" data-form="lzvArH"></div>
+
+    <h3>Get Email Updates</h3>
+
+    <p>I write about a hodgepodge of things. Much of it will be what God’s teaching me—hopefully it encourages you too. I also enjoy deep diving into product recommendations, reviews, and other random but useful nuggets.</p>
+
+    <form id="subscribe-form">
+        <input type="email" id="email" name="email" placeholder="Email:" required />
+        <button type="submit" class="button" data-ghost-button>Subscribe</button>
+    </form>
+    <p id="response-message" style="color: var(--color-secondary);" hidden></p>
+
+    <script>
+        const form = document.getElementById('subscribe-form');
+        const message = document.getElementById('response-message');
+
+        form.addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            const email = document.getElementById('email').value;
+
+            const res = await fetch('https://www.alextran.org/api/subscribe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email })
+            });
+
+            const data = await res.json();
+
+            if(res.status == 200 || res.status == 201) {
+            form.hidden = true;
+            }
+            message.textContent = data.message;
+            message.hidden = false;
+        });
+    </script>

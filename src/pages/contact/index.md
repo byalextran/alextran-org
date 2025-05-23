@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: Contact
 permalink: /contact/
 ---
 
@@ -14,7 +14,7 @@ permalink: /contact/
   <input type="text" id="subject" name="subject" placeholder="Subject:" maxlength="50" required>
   <textarea id="message" name="message" placeholder="Message:" required></textarea>
 
-  <button type="submit" class="button" data-button-variant="primary">Send Message</button>
+  <button type="submit" class="button" data-ghost-button>Send Message</button>
 
   <input type="hidden" name="access_key" value="1c1a8615-20bb-4f9b-b17b-bb3d944e3969">
   <input type="hidden" id="from_name" name="from_name" value="Alex Tran">
