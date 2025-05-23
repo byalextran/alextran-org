@@ -49,6 +49,8 @@ Otherwise, you can buy them online.
 
 One nice thing about the Pigma Micron pens is there are six nib sizes (line width) to choose from.
 
+<figure class="table-wrapper">
+
 | **Nib Size** | **Width** |
 | --- | --- |
 | 005 | 0.2 mm |
@@ -57,6 +59,8 @@ One nice thing about the Pigma Micron pens is there are six nib sizes (line widt
 | 03  | 0.35 mm |
 | 05  | 0.45 mm |
 | 08  | 0.50 mm |
+
+</figure>
 
 Based on my tests, the best nib sizes to use for writing notes in your Bible are the 005, 01 or 02. The 03 would be fine for underlining but just a bit too thick for writing notes.
 

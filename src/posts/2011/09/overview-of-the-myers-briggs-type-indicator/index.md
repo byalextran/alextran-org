@@ -24,15 +24,21 @@ Once you’ve determined your personality type, do a Google search of your four 
 
 Where do you draw the most energy from?
 
+<figure class="table-wrapper">
+
 | Extrovert (E) | Introvert (I) |
 | --- | --- |
 | Act first, then reflect | Reflect first, then act |
 | Breadth of knowledge/influence | Depth of knowledge/influence |
 | Recharge with people time | Recharge with alone time |
 
+</figure>
+
 ### Sensing (S) or Intuition (N)
 
 How do you gather, understand and interpret information?
+
+<figure class="table-wrapper">
 
 | Sensing (S) | Intuition (N) |
 | --- | --- |
@@ -40,9 +46,13 @@ How do you gather, understand and interpret information?
 | Trust data and facts | Trust gut-feelings and intuition |
 | Hands-on, like details and specifics | Big picture, see future and possibilities |
 
+</figure>
+
 ###  Thinking (T) or Feeling (F)
 
 How do you approach decision-making?
+
+<figure class="table-wrapper">
 
 | Thinking (T) | Feeling (F) |
 | --- | --- |
@@ -50,17 +60,23 @@ How do you approach decision-making?
 | Detached from people, more objective | Sensitive to people, more empathetic |
 | Comfortable with conflict | Uncomfortable with conflict |
 
+</figure>
+
 ### Judging (J) or Perceiving (P)
 
 Not going to lie, this one is still confusing to me. While I could explain the theory behind it, I don’t know how to give you the easy-to-understand one-liner.
 
 So just refer to the table. ;)
 
+<figure class="table-wrapper">
+
 | Judging (J) | Perceiving (P) |
 | --- | --- |
 | Plan beforehand | Plan as-you-go |
 | Structured, scheduled, ordered | Flexible, spontaneous, adaptive |
 | Have matters settled | Keep decisions open |
+
+</figure>
 
 ### Where to Take an Online Personality Test
 

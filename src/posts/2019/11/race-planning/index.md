@@ -112,11 +112,15 @@ If you don’t have those three data points, you should ignore the auto CP value
 
 Assuming you’re following a training plan with solid training principles, look at the faster-paced workouts you’ve done recently. How have those workouts felt? That gives you some insight on how your calculated CP should compare to your previous CP (used in workouts).
 
+<figure class="table-wrapper">
+
 | **Workout Power Targets** | **Previous CP** | **Calculated CP** |
 | --- | --- | --- |
 | Hit easily | Probably underestimated | Should be greater than previous CP |
 | Hit with moderate/hard effort | Probably on target | Should be near previous CP |
 | Not hit regularly | Probably overestimated | Should be less than previous CP |
+
+</figure>
 
 For example, let’s say you’ve been hitting your power targets easily using your previous CP. Using the table above, that hints at your previous CP being underestimated. So your calculated CP should be higher than your previous.
 

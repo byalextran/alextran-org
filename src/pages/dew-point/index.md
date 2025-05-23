@@ -35,10 +35,14 @@ You might see 100% humidity and think to yourself, “That stinks. It’s going 
 
 Consider these examples:
 
+<figure class="table-wrapper">
+
 |  | Temp (°F) | Temp (°C) | Humidity (%) | How It Feels |
 | --- | --- | --- | --- | --- |
 | **Example A** | 55 | 13 | 100 | Crisp and comfortable |
 | **Example B** | 75 | 24 | 100 | Humid and muggy |
+
+</figure>
 
 Both temperatures have the same humidity, but they feel drastically different.
 
@@ -78,7 +82,7 @@ All you need is this table (which is easily memorized) …
 
 ## Comfort Levels at Various Dew Points
 
-<figure id="dew-point-gradient">
+<figure id="dew-point-gradient" class="table-wrapper">
 
 | Dew Point (°F) | Dew Point (°C) | How It Feels |
 | --- | --- | --- |

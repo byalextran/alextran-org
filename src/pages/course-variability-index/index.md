@@ -17,6 +17,8 @@ $$\text{CVI} = \frac{\text{500 ft}}{\text{13.1 miles}} = \text{38}$$
 
 Based on my experience, here's how I'd describe various CVI ranges.
 
+<figure class="table-wrapper">
+
 | **CVI Range** | **Description** |
 | --- | --- |
 | < 25 | Flat |
@@ -25,6 +27,8 @@ Based on my experience, here's how I'd describe various CVI ranges.
 | 51-75 | Moderately Hilly |
 | 76-100 | Very Hilly |
 | 101+ | Extremely Hilly |
+
+</figure>
 
 If I'm targeting a PR, I'm looking for courses with a CVI under 25 (and as low as possible). For context, the Berlin Marathon, universally considered a flat course, has a CVI of 15. Generally, I'm also good racing courses in the 26-35 range. The 36-50 range is tolerable. Anything over 50 and I know hills will be a factor.
 
@@ -46,11 +50,15 @@ CVI+net is meant to be used in tandem with CVI.
 
 Where CVI provides a general idea of how much uphill running a course has, comparing CVI+net to CVI tells you how much uphill running vs downhill running to expect. Will there be more uphill running, more downhill, or equal amounts?
 
+<figure class="table-wrapper">
+
 |  | Expectation |
 | --- | --- |
 | CVI+net > CVI | More uphill running than downhill |
 | CVI+net < CVI | More downhill running than uphill |
 | CVI+net = CVI | Similar amounts of uphill/downhill running |
+
+</figure>
 
 Let's look at CVI+net for three hypothetical half marathons, all three starting with the same climb (500 ft) for the first half.
 
@@ -58,11 +66,15 @@ Let's look at CVI+net for three hypothetical half marathons, all three starting 
 - Race B is an out and back so finishes downhill with 500 ft of elevation loss
 - Race C finishes downhill with 750 ft of elevation loss.
 
+<figure class="table-wrapper">
+
 |  | CVI | CVI+net |
 | --- | --- | --- |
 | Race A (+500 ft then flat) | 38 | 76 (more uphill) |
 | Race B (+500 ft then -500 ft) | 38 | 38 (equal) |
 | Race C (+500 ft then -750 ft) | 38 | 19 (more downhill) |
+
+</figure>
 
 The addition of CVI+net compared to CVI gives us a much better feel for a course depending on if CVI+net is greater than, less than, or about the same as CVI.
 

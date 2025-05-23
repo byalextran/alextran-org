@@ -38,6 +38,8 @@ Look up your W/kg at critical power and it'll show you how you compare to world 
 
 _Note_: While the table is specific to cycling, it translates well to runners.
 
+<figure class="table-wrapper">
+
 | **Classification** | **Men (W/kg)** | **Women (W/kg)** |
 | --- | --- | --- |
 | World Record | 6.4 | 5.7 |
@@ -49,6 +51,8 @@ _Note_: While the table is specific to cycling, it translates well to runners.
 | Untrained | 2.6 | 2.3 |
 | Poor | 1.9 | 1.7 |
 | Very Poor | 1.4 | 1.1 |
+
+</figure>
 
 ## Additional Reading
 

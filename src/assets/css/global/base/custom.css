@@ -1,5 +1,7 @@
 table {
   border-collapse: collapse;
+  word-break: normal; /* Prevents breaking in the middle of words */
+  overflow-wrap: break-word; /* Break long words at natural points */
 }
 
 th,
@@ -49,4 +51,14 @@ td {
 
 #dew-point-gradient > table tbody tr:nth-child(8) {
   background-color: #ffffff;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* for smooth scrolling on iOS */
+}
+
+.table-wrapper table {
+  width: 100%;
+  min-width: 600px; /* adjust based on your content */
 }

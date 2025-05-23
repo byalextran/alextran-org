@@ -23,9 +23,17 @@ This recipe closely mirrors the caloric, carb, and sodium content of Tailwind, S
 
 It's subtly sweet with some lemony tartness.
 
+<figure class="table-wrapper">
+
 | Recipe | Nutrition Facts |
 | --- | --- |
-| 12oz water   16g [maltodextrin](/go/maltodextrin)   10g [fructose](/go/fructose)   1.5g [sodium citrate](/go/sodiumcitrate)   2–3 [lemon packets](/go/lemoncrystals) | 99 calories   25g carbs   350mg sodium |
+| 12oz water | |
+| 16g [maltodextrin](/go/maltodextrin) | 99 calories |
+| 10g [fructose](/go/fructose) | 25g carbs |
+| 1.5g [sodium citrate](/go/sodiumcitrate) | 350mg sodium |
+| 2–3 [lemon packets](/go/lemoncrystals) | |
+
+</figure>
 
 The links take you to the products I'm using (all available on Amazon). If you need a kitchen scale, [here's the one I have](/go/kitchenscale).
 
@@ -53,11 +61,15 @@ In a nutshell, a sports drink is either less concentrated (hypotonic), more conc
 
 This is determined by comparing a sports drink's osmolarity to the typical range for blood.
 
+<figure class="table-wrapper">
+
 | Tonicity | Good For | Concentration | Osmolarity |
 | --- | --- | --- | --- |
 | Hypotonic | Hydration over nutrition | Lower than blood | < 275 |
 | Hypertonic | Nutrition over hydration | Higher than blood | \> 295 |
 | Isotonic | Hydration _and_ nutrition | Similar to blood | 275–295 |
+
+</figure>
 
 **Note**: If you go further down this rabbit hole yourself, you might see references to osmolality. While slightly different, osmolarity and osmolality are interchangeable in this context (since the values are within 0.5% of each other).
 
