@@ -9,6 +9,9 @@ td {
   border-collapse: collapse;
   border: 1px solid var(--color-mid);
   padding: 4px 12px;
+  word-break: normal;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 
 /* latex */
