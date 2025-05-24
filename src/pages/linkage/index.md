@@ -2,24 +2,12 @@
 title: "Instagram Links"
 date: 2020-03-20
 permalink: /linkage/
-gallery:
-  - image: ./src/pages/linkage/images/eyes-kettlebell-handle.jpg
-    alt: alt text
-    caption: caption text
-  - image: ./src/pages/linkage/images/eyes-kettlebell-handle.jpg
-    alt: alt text2
-    caption: caption text2
 ---
+Click an image below to visit the link associated with that post.
 
-{% include "partials/gallery.njk" %}
+<custom-masonry layout="50-50">
 
-Click on an image below to visit the link associated with that post.
-
-[![](images/kio-logo-square.png)](https://www.usekio.com/?utm_source=instagram&utm_medium=launch_post&utm_campaign=byalextran)
-
-[![](images/ig-project-manager.jpg)](https://go2.lc/marcomcareers)
-
-[![](images/eyes-kettlebell-handle-1280x720.jpg)](/the-secret-sauce-to-spiritual-growth/)
+[![](images/eyes-kettlebell-handle-1280x720.jpg)](/secret-sauce/)
 
 [![](images/ig-listen-to-me.jpg)](https://www.youtube.com/watch?v=Fx3pfeZ5aGo)
 
@@ -27,4 +15,4 @@ Click on an image below to visit the link associated with that post.
 
 [![](images/jeep-stuck-in-a-rut-1280x853.jpg)](/bible-rut/)
 
-[My Personal Blog](/)
+</custom-masonry>
