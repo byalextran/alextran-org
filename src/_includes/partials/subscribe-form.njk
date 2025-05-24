@@ -1,0 +1,30 @@
+<form id="subscribe-form">
+    <input type="email" id="email" name="email" placeholder="Email:" required />
+    <button type="submit" class="button" data-ghost-button>Subscribe</button>
+</form>
+<p id="response-message" style="font-size: smaller; font-style: italic;" hidden></p>
+
+<script>
+    const form = document.getElementById('subscribe-form');
+    const message = document.getElementById('response-message');
+
+    form.addEventListener('submit', async function (e) {
+        e.preventDefault();
+
+        const email = document.getElementById('email').value;
+
+        const res = await fetch('https://www.alextran.org/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email })
+        });
+
+        const data = await res.json();
+
+        if(res.status == 200 || res.status == 201) {
+        form.hidden = true;
+        }
+        message.textContent = data.message;
+        message.hidden = false;
+    });
+</script>
