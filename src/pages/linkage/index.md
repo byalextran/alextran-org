@@ -7,6 +7,8 @@ Click an image below to visit the link associated with that post.
 
 <custom-masonry layout="50-50">
 
+[![](images/we-will-miss-you-sign.jpg)](/)
+
 [![](images/eyes-kettlebell-handle-1280x720.jpg)](/secret-sauce/)
 
 [![](images/ig-listen-to-me.jpg)](https://www.youtube.com/watch?v=Fx3pfeZ5aGo)
