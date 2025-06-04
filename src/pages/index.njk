@@ -30,13 +30,22 @@ permalink: /index.html
     </div>
   </article>
 
+  <section class="full | region">
+    <div class="wrapper flow prose">
+        <h2>Latest Article</h2>
+        <div class="feature | region region-space-l">
+            <custom-masonry layout="50-50">
+                {% set itemList = collections["posts"] | reverse %}
+                {% set item = itemList[0] %}
+                {% include "partials/card-tag.njk" %}
+            </custom-masonry>
+        </div>
+    </div>
+  </section>
 
   <section class="full | region">
     <div class="wrapper flow prose">
         <h2>Featured Articles</h2>
-        <p>
-            In the meantime, check out some of my these articles or <a href="/articles/">look through the archives</a>.
-        </p>
         <div class="feature | region region-space-l">
             <custom-masonry layout="50-50">
                 {% set itemList = collections["featured"] | reverse %}
