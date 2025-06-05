@@ -15,7 +15,7 @@ So why would I leave?
 
 The short answer is I felt God leading me into a sabbatical season defined by the phrase “just be” from the song “Move Your Heart” by Maverick City.
 
-But before I share how that unfolded and how God used that song to wreck me, you’ll need a little piece of context …
+<span id="read-more">But</span> before I share how that unfolded and how God used that song to wreck me, you’ll need a little piece of context ...
 
 I’ve been in full-time church ministry for 20 years and have never been in a role that truly felt like the right fit (what’s “right” could be a post for another day). But it’s always been a tension I’ve been able to manage across various roles.
 
