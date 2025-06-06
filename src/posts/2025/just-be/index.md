@@ -139,6 +139,6 @@ Anyway, that’s basically how this sabbatical started in a nutshell.
 
 It’ll be all about creating space for God. Just being. Listening. And seeing where we go from there!
 
-Speaking of listening, check out the song if you havent before.
+Speaking of listening, check out the song if you haven't before.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hz2iqxOpZoM?si=7U_UkhCi5yX2QmcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
