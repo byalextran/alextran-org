@@ -1,6 +1,6 @@
 ---
-title: I Just Want to Move Your Heart
-description: A sabbatical origin story. How God used a song to wreck me and lead me into a sabbatical season after 20 years in full-time church ministry.
+title: A Sabbatical Origin Story
+description: How God used a song to wreck me and lead me into a sabbatical season after 20 years in full-time church ministry.
 permalink: /just-be/
 date: 2025-06-03
 image: ./src/posts/2025/just-be/ken-cheung-KonWFWUaAuk-unsplash.jpg
