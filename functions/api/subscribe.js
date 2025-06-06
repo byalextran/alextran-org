@@ -1,15 +1,18 @@
 export async function onRequestPost(context) {
   var json = await context.request.json();
-  json.groups = [context.env.MAILERLITE_ATO_GROUP_ID];
 
-  const response = await fetch('https://connect.mailerlite.com/api/subscribers', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${context.env.MAILERLITE_API_KEY}`
-    },
-    body: JSON.stringify(json)
-  });
+  const response = await fetch(
+    `https://alextran.mailcoach.app/api/email-lists/${context.env.NEWSLETTER_LIST_ID}/subscribers`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'Authorization': `Bearer ${context.env.NEWSLETTER_API_KEY}`
+      },
+      body: JSON.stringify(json)
+    }
+  );
 
   var responseHeaders = {
     status: response.status,

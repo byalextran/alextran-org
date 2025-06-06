@@ -13,16 +13,16 @@
 
         const email = document.getElementById('email').value;
 
-        const res = await fetch('https://www.alextran.org/api/subscribe', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email })
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email })
         });
 
         const data = await res.json();
 
         if(res.status == 200 || res.status == 201) {
-        form.hidden = true;
+          form.hidden = true;
         }
         message.textContent = data.message;
         message.hidden = false;
