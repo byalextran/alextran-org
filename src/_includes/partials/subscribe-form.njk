@@ -11,12 +11,12 @@
     form.addEventListener('submit', async function (e) {
         e.preventDefault();
 
-        const email = document.getElementById('email').value;
+        const email_address = document.getElementById('email').value;
 
         const res = await fetch('/api/subscribe', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email })
+          body: JSON.stringify({ email_address })
         });
 
         const data = await res.json();

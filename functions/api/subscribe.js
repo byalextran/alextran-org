@@ -1,10 +1,10 @@
-export async function onRequestPost(context) {
+export async function onRequestPut(context) {
   var json = await context.request.json();
 
   const response = await fetch(
-    `https://alextran.mailcoach.app/api/email-lists/${context.env.NEWSLETTER_LIST_ID}/subscribers`,
+    `https://api.emailoctopus.com/lists/${context.env.NEWSLETTER_LIST_ID}/contacts`,
     {
-      method: 'POST',
+      method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json',
@@ -32,8 +32,8 @@ export async function onRequestPost(context) {
     case 201: // new subscriber
       break;
     default: // assume an error
-      if (responseJSON.hasOwnProperty('message')) {
-        responseMessage.message = responseJSON.message;
+      if (responseJSON.hasOwnProperty('errors')) {
+        responseMessage.message = responseJSON.errors[0]['detail'];
       } else {
         responseMessage.message = context.env.SUBSCRIPTION_FAILED_MESSAGE;
       }
