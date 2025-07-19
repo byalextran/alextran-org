@@ -19,6 +19,14 @@ Other info that might be helpful:
 - Vet: [GoodVets Germantown](https://maps.app.goo.gl/GA1L59Jscu1E8X4n9)
 - Vet Phone: 615-845-6430
 - Microchip ID: 992000001767041
-- Rabies Tag: 473040 (Vaccine expires 03-07-2028)
+- Rabies Tag: 473040
 
-![Picture of Tesni](./images/tesni.jpg){eleventy:widths="400"}
+And here's a current picture of me along with my vaccine records:
+
+<custom-masonry layout="50-50">
+
+![Picture of Tesni](./images/tesni.jpg)
+
+![Current Vaccine Record](./images/vaccine-records-2025-07.jpg)
+
+</custom-masonry>
