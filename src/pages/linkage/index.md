@@ -7,6 +7,8 @@ Click an image below to visit the link associated with that post.
 
 <custom-masonry layout="50-50">
 
+[![](images/ken-cheung-KonWFWUaAuk-unsplash.jpg)](/just-be/)
+
 [![](images/we-will-miss-you-sign.jpg)](/subscribe/)
 
 [![](images/eyes-kettlebell-handle-1280x720.jpg)](/secret-sauce/)
