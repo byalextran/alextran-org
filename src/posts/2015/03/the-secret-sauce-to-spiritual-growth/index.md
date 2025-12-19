@@ -50,9 +50,9 @@ Your spiritual muscles don’t get stronger just by reading this passage:
 
 You have to actually forgive.
 
-Being aware of your sins doesn’t matter much. You have to actually confess and turn from your sins ([Proverbs 28:13](https://www.bible.com/bible/111/PRO.28.13.NIV)).
+Being aware of your sins doesn’t matter much. You have to actually confess and turn from your sins (Proverbs 28:13).
 
-Knowing we are to be like Christ isn’t enough. You have to actually demonstrate love. Humble yourself, serve others and be willing to make sacrifices ([Philippians 2:5-8](https://www.bible.com/bible/111/PHP.2.5-8.NIV), [Ephesians 5:1-2](https://www.bible.com/bible/111/EPH.5.1-2.NIV)).
+Knowing we are to be like Christ isn’t enough. You have to actually demonstrate love. Humble yourself, serve others and be willing to make sacrifices (Philippians 2:5-8, Ephesians 5:1-2).
 
 People who do those things are the mature.
 
@@ -67,3 +67,9 @@ Times when we look back on our actions and wonder how in the world did our faith
 Those “what the hell?” moments only happen when we start doing. So here’s my challenge to you. Pick a verse and live it out this next week!
 
 How have you seen your faith grow as you’ve been more obedient?
+
+<script src="https://cdn.jsdelivr.net/gh/byalextran/versetagger@main/dist/versetagger.js"></script>
+<script>
+  // use default options
+  const versetagger = new VerseTagger({});
+</script>
