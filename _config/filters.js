@@ -40,4 +40,14 @@ export default function(eleventyConfig) {
 	eleventyConfig.addFilter("sortAlphabetically", strings =>
 		(strings || []).sort((b, a) => b.localeCompare(a))
 	);
+
+	// Calculate reading time from content
+	eleventyConfig.addFilter("readingTime", (content) => {
+		if (!content) return "1 min read";
+		// Strip HTML tags for accurate word count
+		const text = content.replace(/<[^>]*>/g, '');
+		const words = text.trim().split(/\s+/).length;
+		const minutes = Math.max(1, Math.ceil(words / 200));
+		return `${minutes} min read`;
+	});
 };

@@ -1,28 +1,71 @@
 ---
 layout: layouts/base.njk
+showNewsletter: true
 ---
-{# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
+{# Syntax highlighter CSS for blog posts #}
 <style>{% include "node_modules/prismjs/themes/prism-okaidia.css" %}</style>
 <style>{% include "css/prism-diff.css" %}</style>
-<h1>{{ title }}</h1>
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
-</ul>
+<article class="article center stack">
+    <header class="article-header stack">
+        {# Category eyebrow (optional) #}
+        {% if category %}
+        {%- set categoryUrl %}/category/{{ category | slugify }}/{% endset %}
+        <a href="{{ categoryUrl }}" class="tag width-fit" data-variant="category">{{ category }}</a>
+        {% endif %}
 
-{{ content | safe }}
+        <h1 class="article-title">{{ title }}</h1>
 
-{%- if collections.posts %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem %}
-{%- set nextPost = collections.posts | getNextCollectionItem %}
-{%- if nextPost or previousPost %}
-<ul class="links-nextprev">
-	{%- if previousPost %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-	{%- if nextPost %}<li class="links-nextprev-next">Next →<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-</ul>
-{%- endif %}
-{%- endif %}
+        {# Metadata row #}
+        <div class="metadata cluster gap-sm">
+            <span class="metadata-item color-muted">
+                <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+            </span>
+            {% if content %}
+            <span class="metadata-divider" aria-hidden="true">·</span>
+            <span class="metadata-item color-muted">
+                {{ content | readingTime }}
+            </span>
+            {% endif %}
+        </div>
+
+        {# Tags cluster #}
+        {% set filteredTags = tags | filterTagList %}
+        {% if filteredTags.length %}
+        <div class="cluster gap-xs">
+            {% for tag in filteredTags %}
+            {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+            <a href="{{ tagUrl }}" class="tag">{{ tag }}</a>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </header>
+
+    <div class="article-content stack">
+        {{ content | safe }}
+    </div>
+</article>
+
+{# Previous/Next Navigation #}
+{% if collections.posts %}
+{% set previousPost = collections.posts | getPreviousCollectionItem %}
+{% set nextPost = collections.posts | getNextCollectionItem %}
+{% if nextPost or previousPost %}
+<nav class="center" aria-label="Post navigation">
+    <div class="cluster gap-lg" style="--cluster-justify: space-between; padding-block: var(--s2); border-block-start: var(--border-thin) solid var(--color-border);">
+        {% if previousPost %}
+        <a href="{{ previousPost.url }}" class="stack gap-xs" style="text-decoration: none;">
+            <span class="color-muted text-sm">Previous</span>
+            <span class="color-primary">{{ previousPost.data.title }}</span>
+        </a>
+        {% endif %}
+        {% if nextPost %}
+        <a href="{{ nextPost.url }}" class="stack gap-xs" style="text-decoration: none; text-align: right; margin-inline-start: auto;">
+            <span class="color-muted text-sm">Next</span>
+            <span class="color-primary">{{ nextPost.data.title }}</span>
+        </a>
+        {% endif %}
+    </div>
+</nav>
+{% endif %}
+{% endif %}
