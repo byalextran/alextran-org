@@ -1,0 +1,176 @@
+/* ==========================================================================
+   UTILITIES
+   Single-purpose classes generated from design tokens
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Typography - Size
+   -------------------------------------------------------------------------- */
+
+.text-xs {
+  font-size: var(--s-2);
+}
+
+.text-sm {
+  font-size: var(--s-1);
+}
+
+.text-base {
+  font-size: var(--s0);
+}
+
+.text-lg {
+  font-size: var(--s1);
+}
+
+.text-xl {
+  font-size: var(--s2);
+}
+
+.text-2xl {
+  font-size: var(--s3);
+}
+
+.text-3xl {
+  font-size: var(--s4);
+}
+
+/* --------------------------------------------------------------------------
+   Typography - Weight
+   -------------------------------------------------------------------------- */
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------
+   Typography - Line Height
+   -------------------------------------------------------------------------- */
+
+.leading-tight {
+  line-height: var(--leading-tight);
+}
+
+.leading-normal {
+  line-height: var(--leading-normal);
+}
+
+.leading-loose {
+  line-height: var(--leading-loose);
+}
+
+/* --------------------------------------------------------------------------
+   Colors - Text
+   -------------------------------------------------------------------------- */
+
+.color-text {
+  color: var(--color-text);
+}
+
+.color-muted {
+  color: var(--color-muted);
+}
+
+.color-primary {
+  color: var(--color-primary);
+}
+
+.color-accent {
+  color: var(--color-accent);
+}
+
+/* --------------------------------------------------------------------------
+   Colors - Background
+   -------------------------------------------------------------------------- */
+
+.bg-base {
+  background-color: var(--color-bg);
+}
+
+.bg-alt {
+  background-color: var(--color-bg-alt);
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+/* --------------------------------------------------------------------------
+   Spacing Overrides
+   -------------------------------------------------------------------------- */
+
+.gap-xs {
+  --cluster-space: var(--s-2);
+  --stack-space: var(--s-2);
+  --grid-space: var(--s-2);
+  --switcher-space: var(--s-2);
+}
+
+.gap-sm {
+  --cluster-space: var(--s-1);
+  --stack-space: var(--s-1);
+  --grid-space: var(--s-1);
+  --switcher-space: var(--s-1);
+}
+
+.gap-md {
+  --cluster-space: var(--s1);
+  --stack-space: var(--s1);
+  --grid-space: var(--s1);
+  --switcher-space: var(--s1);
+}
+
+.gap-lg {
+  --cluster-space: var(--s2);
+  --stack-space: var(--s2);
+  --grid-space: var(--s2);
+  --switcher-space: var(--s2);
+}
+
+.gap-xl {
+  --cluster-space: var(--s3);
+  --stack-space: var(--s3);
+  --grid-space: var(--s3);
+  --switcher-space: var(--s3);
+}
+
+/* --------------------------------------------------------------------------
+   Visual Utilities
+   -------------------------------------------------------------------------- */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* --------------------------------------------------------------------------
+   Sizing Utilities
+   -------------------------------------------------------------------------- */
+
+.width-fit {
+  width: fit-content;
+}

@@ -1,0 +1,159 @@
+/* ==========================================================================
+   COMPOSITIONS
+   Layout primitives from Every Layout
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Stack
+   Manages vertical spacing between flowing elements
+   -------------------------------------------------------------------------- */
+
+.stack {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.stack>* {
+    margin-block: 0;
+}
+
+.stack>*+* {
+    margin-block-start: var(--stack-space, var(--s1));
+}
+
+/* Recursive variant */
+.stack-recursive *+* {
+    margin-block-start: var(--stack-space, var(--s1));
+}
+
+/* --------------------------------------------------------------------------
+   Cluster
+   Arranges elements in a flexible, wrapping horizontal group
+   -------------------------------------------------------------------------- */
+
+.cluster {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--cluster-space, var(--s1));
+    justify-content: var(--cluster-justify, flex-start);
+    align-items: var(--cluster-align, center);
+}
+
+/* --------------------------------------------------------------------------
+   Center
+   Horizontally centers content with max-width constraint
+   -------------------------------------------------------------------------- */
+
+.center {
+    box-sizing: content-box;
+    max-inline-size: var(--center-max, var(--measure));
+    margin-inline: auto;
+    padding-inline: var(--gutter);
+}
+
+/* Text centering variant */
+.center-text {
+    text-align: center;
+}
+
+/* Intrinsic centering (for child elements) */
+.center-intrinsic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* --------------------------------------------------------------------------
+   Container
+   Page-level width constraint and centering
+   -------------------------------------------------------------------------- */
+
+.container {
+    max-inline-size: var(--max-width);
+    margin-inline: auto;
+    padding-inline: var(--gutter);
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar
+   Two-element layout that stacks or sits side-by-side
+   -------------------------------------------------------------------------- */
+
+.with-sidebar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--sidebar-gap, var(--s1));
+}
+
+.with-sidebar>.sidebar {
+    flex-basis: var(--sidebar-width, 15rem);
+    flex-grow: 1;
+}
+
+.with-sidebar>.not-sidebar {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-inline-size: var(--sidebar-content-min, 50%);
+}
+
+/* No stretch variant */
+.with-sidebar[data-no-stretch] {
+    align-items: flex-start;
+}
+
+/* --------------------------------------------------------------------------
+   Switcher
+   Switches between horizontal and vertical layout based on container width
+   -------------------------------------------------------------------------- */
+
+.switcher {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--switcher-space, var(--s1));
+}
+
+.switcher>* {
+    flex-grow: 1;
+    flex-basis: calc((var(--switcher-threshold, 30rem) - 100%) * 999);
+}
+
+/* Limit items before forcing vertical */
+.switcher[data-limit="4"]> :nth-last-child(n+5),
+.switcher[data-limit="4"]> :nth-last-child(n+5)~* {
+    flex-basis: 100%;
+}
+
+/* --------------------------------------------------------------------------
+   Grid
+   Auto-flowing responsive multi-column layout
+   -------------------------------------------------------------------------- */
+
+.grid {
+    display: grid;
+    gap: var(--grid-space, var(--s1));
+}
+
+@supports (width: min(250px, 100%)) {
+    .grid {
+        grid-template-columns: repeat(auto-fill,
+                minmax(min(var(--grid-min, 250px), 100%), 1fr));
+    }
+}
+
+/* --------------------------------------------------------------------------
+   Box
+   Provides consistent padding for container elements
+   -------------------------------------------------------------------------- */
+
+.box {
+    padding: var(--box-padding, var(--s1));
+    border: var(--border-thin) solid var(--color-border);
+    background-color: var(--box-bg, inherit);
+}
+
+/* Invert variant */
+.box[data-invert] {
+    background-color: var(--color-text);
+    color: var(--color-bg);
+}
