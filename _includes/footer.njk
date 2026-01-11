@@ -3,10 +3,8 @@
         <div class="switcher" style="--switcher-threshold: 40rem">
             <nav class="stack">
                 <h3>Connect</h3>
-                {%- if metadata.author.twitter %}<a href="{{ metadata.author.twitter }}">Twitter</a>{%- endif %}
-                {%- if metadata.author.github %}<a href="{{ metadata.author.github }}">GitHub</a>{%- endif %}
-                {%- if metadata.author.linkedin %}<a href="{{ metadata.author.linkedin }}">LinkedIn</a>{%- endif %}
-                <a href="/feed/feed.xml">RSS Feed</a>
+                {%- if metadata.author.instagram %}<a href="{{ metadata.author.instagram }}" target="_blank">Instagram</a>{%- endif %}
+                {%- if metadata.author.github %}<a href="{{ metadata.author.github }}" target="_blank">GitHub</a>{%- endif %}
             </nav>
 
             <nav class="stack">
@@ -19,7 +17,7 @@
 
         <div class="footer-bottom cluster" style="--cluster-justify: space-between">
             <p class="color-muted">&copy; {{ page.date.getFullYear() }} {{ metadata.title }}. All rights reserved.</p>
-            <p class="color-muted">Built with <a href="https://www.11ty.dev/">Eleventy</a></p>
+            <p class="color-muted">Built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a></p>
         </div>
     </div>
 </footer>
