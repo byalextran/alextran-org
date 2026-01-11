@@ -1,4 +1,4 @@
 export default {
-	title: "Alex Tran",
+	name: "Alex Tran",
 	language: "en"
 }
