@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Personal blog built with Eleventy v3 (11ty) static site generator. Optimized for performance. Follows [CUBE CSS principles](docs/CUBE-CSS.md) and uses [Every Layout rudiments and primitives](docs/EVERY-LAYOUT.md) where applicable. Deployable to Netlify, Vercel, or Cloudflare Pages.
+Personal blog built with Eleventy v3 (11ty) static site generator. Optimized for performance. Deployable to Netlify, Vercel, or Cloudflare Pages.
 
 ## Essential Commands
 
@@ -48,7 +48,7 @@ npm run benchmark      # Build performance metrics
 - `head(array, n)` - Get first n elements
 - `filterTagList(tags)` - Remove "all" and "posts" meta-tags
 
-**CSS**: Variables at `:root` for theming, dark mode via `@media (prefers-color-scheme: dark)`, per-page bundles via `{% css %}` shortcode.
+**CSS**: Follows [CUBE CSS principles](docs/CUBE-CSS.md) and uses [Every Layout rudiments and primitives](docs/EVERY-LAYOUT.md) where applicable. Variables at `:root` for theming, dark mode via `@media (prefers-color-scheme: dark)`, per-page bundles via `{% css %}` shortcode.
 
 **Images**: Co-locate with posts or place in `public/img/`. Eleventy Image auto-generates AVIF/WebP with responsive srcsets.
 
