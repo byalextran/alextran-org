@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Personal blog built with Eleventy v3 (11ty) static site generator. Zero JavaScript output, optimized for performance. Deployable to Netlify, Vercel, or Cloudflare Pages.
+Personal blog built with Eleventy v3 (11ty) static site generator. Optimized for performance. Follows [CUBE CSS principles](docs/CUBE-CSS.md) and uses [Every Layout rudiments and primitives](docs/EVERY-LAYOUT.md) where applicable. Deployable to Netlify, Vercel, or Cloudflare Pages.
 
 ## Essential Commands
 
@@ -42,8 +42,6 @@ npm run benchmark      # Build performance metrics
 ## Key Conventions
 
 **Draft Posts**: Set `draft: true` in frontmatter. Drafts appear in dev server (`npm start`) but excluded from production builds.
-
-**Navigation**: Use `eleventyNavigation` data key with `key` and `order` properties for top-level menu items.
 
 **Custom Filters** (in `_config/filters.js`):
 - `readableDate(dateObj, format, zone)` - Format dates
