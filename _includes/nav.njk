@@ -1,0 +1,29 @@
+<header class="site-header">
+    <div class="container">
+        <div class="with-sidebar" style="--sidebar-width: auto; --sidebar-content-min: 60%">
+            <div class="sidebar">
+                <a href="/" class="logo">{{ metadata.title }}</a>
+            </div>
+            <div class="nav-wrapper not-sidebar">
+                <button
+                    class="nav-toggle"
+                    aria-expanded="false"
+                    aria-controls="main-nav"
+                    aria-label="Toggle navigation"
+                >
+                    <span class="nav-toggle-icon" aria-hidden="true"></span>
+                </button>
+                <nav
+                    id="main-nav"
+                    class="nav-menu cluster"
+                    style="--cluster-justify: flex-end"
+                    aria-label="Main navigation"
+                >
+                    {%- for entry in collections.all | eleventyNavigation %}
+                    <a href="{{ entry.url }}"{% if entry.url == page.url %} data-state="active" aria-current="page"{% endif %}>{{ entry.title }}</a>
+                    {%- endfor %}
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
