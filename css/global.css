@@ -9,7 +9,7 @@
 
 :root {
     /* Modular Scale (ratio 1.5) */
-    --ratio: 1.5;
+    --ratio: 1.25;
     --s-2: calc(var(--s-1) / var(--ratio));
     --s-1: calc(var(--s0) / var(--ratio));
     --s-05: 0.85rem;
@@ -75,7 +75,7 @@
 html {
     -webkit-text-size-adjust: none;
     text-size-adjust: none;
-    font-size: 112.5%;
+    font-size: 125%;
 }
 
 body {
