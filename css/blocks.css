@@ -143,7 +143,7 @@
     box-shadow: var(--nav-menu-shadow);
     z-index: 100;
     margin-block-start: var(--s-1);
-    padding: var(--s-1) 0;
+    padding: 0;
 }
 
 .nav-wrapper[data-collapsed="true"] .nav-menu[data-visible="true"] {
@@ -157,6 +157,7 @@
 
 .nav-wrapper[data-collapsed="true"] .nav-menu a:hover {
     color: var(--color-primary-hover);
+    background-color: var(--color-bg-alt);
 }
 
 /* Reduced motion */
@@ -293,7 +294,7 @@
 .site-footer nav h3 {
     font-size: var(--s0);
     font-weight: 700;
-    margin-block-end: var(--s0);
+    margin-block-end: 0;
     color: var(--color-text);
 }
 
@@ -505,6 +506,6 @@ textarea {
 }
 
 .post-link:hover {
-    background: color-mix(in srgb, var(--color-accent) 15%, transparent);
+    border-left: 3px solid var(--color-accent);
     color: var(--color-text);
 }
