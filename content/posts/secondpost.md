@@ -1,6 +1,6 @@
 ---
 title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
+description: This is a post on My Blog about leveraging agile frameworks. Vide a robust synopsis for high level overviews. What about if I add this to it? We're getting there.
 date: 2018-07-04
 tags: number 2
 category: featured
