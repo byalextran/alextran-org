@@ -291,19 +291,19 @@
     align-items: center;
 }
 
-/* Exception: De-emphasized site links */
-.site-footer .site-links {
+.footer-nav a {
+    text-decoration: none;
     font-size: var(--s-1);
+    color: var(--color-muted);
+    transition: color 0.15s ease;
+}
+
+/* Exception: De-emphasized site links */
+.site-footer .site-links a {
+    font-size: var(--s-2);
 }
 
 .site-footer .site-links a {
-    color: var(--color-muted);
-}
-
-.footer-nav a {
-    text-decoration: none;
-    color: var(--color-text);
-    transition: color 0.15s ease;
 }
 
 .footer-nav a:hover {
