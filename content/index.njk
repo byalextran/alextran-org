@@ -4,8 +4,61 @@ overrideBaseTitle: true
 layout: layouts/base.njk
 ---
 
-<article class="article center stack">
-	<header class="article-header stack">
-		<h1 class="article-title">Hello, world!</h1>
-	</header>
-</article>
+<div class="center stack gap-xl" style="--center-max: 65ch; padding-block: var(--s3)">
+    {# Hero #}
+    <header class="stack gap-sm">
+        <p class="text-lg color-muted">Hey, I'm</p>
+        <h1 class="text-3xl font-bold leading-tight">{{ metadata.name }}</h1>
+    </header>
+
+    {# Bio Box #}
+    <section class="intro-box stack gap-md">
+        <p class="text-lg">
+            I'm a developer and writer who cares about building things that last.
+        </p>
+        <ul>
+            <li>Building developer tools and thinking about software craft</li>
+            <li>Previously shipped products at Stripe and Google</li>
+            <li>Based in San Francisco, originally from Vietnam</li>
+            <li>Writing here about technology, design, and the creative process</li>
+        </ul>
+        <div class="cluster gap-sm">
+            <a href="/about/" class="button" data-variant="primary">More about me</a>
+            <a href="/contact/" class="button">Get in touch</a>
+        </div>
+    </section>
+
+    {# Featured Posts #}
+    <section class="stack gap-md">
+        <h2 class="text-base uppercase font-medium section-heading font-base">Featured</h2>
+        <div class="stack" style="--stack-space: 0">
+            {%- for post in collections.posts | reverse %}
+            {%- if loop.index <= 3 %}
+            <a href="{{ post.url }}" class="post-link">
+                <div class="post-title text-xl font-medium font-heading">{{ post.data.title }}</div>
+                <div class="post-desc color-muted">{{ post.data.description }}</div>
+            </a>
+            {%- endif %}
+            {%- endfor %}
+        </div>
+    </section>
+
+    {# Recent Posts #}
+    {%- set remainingPosts = collections.posts | reverse | length - 3 %}
+    {%- if remainingPosts > 0 %}
+    <section class="stack gap-md">
+        <h2 class="text-base uppercase font-medium section-heading font-base">Latest</h2>
+        <div class="stack" style="--stack-space: 0">
+            {%- for post in collections.posts | reverse %}
+            {%- if loop.index > 3 %}
+            <a href="{{ post.url }}" class="post-link">
+                <div class="post-title text-lg font-medium font-heading">{{ post.data.title }}</div>
+                <div class="post-desc color-muted">{{ post.data.description }}</div>
+            </a>
+            {%- endif %}
+            {%- endfor %}
+        </div>
+        <a href="/posts/" class="color-primary">See all posts &rarr;</a>
+    </section>
+    {%- endif %}
+</div>
