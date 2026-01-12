@@ -15,6 +15,10 @@
   font-size: var(--s-1);
 }
 
+.text-smed {
+  font-size: var(--s-05);
+}
+
 .text-base {
   font-size: var(--s0);
 }
