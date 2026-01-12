@@ -21,7 +21,7 @@
 }
 
 .site-header .logo:hover {
-    color: var(--color-primary);
+    color: var(--color-primary-hover);
 }
 
 .site-header nav a {
@@ -32,7 +32,7 @@
 }
 
 .site-header nav a:hover {
-    color: var(--color-primary);
+    color: var(--color-primary-hover);
 }
 
 /* Exception: Active nav state */
@@ -252,7 +252,7 @@
 }
 
 .tag:hover {
-    background-color: var(--color-primary);
+    background-color: var(--color-primary-hover);
     color: var(--color-bg);
 }
 
@@ -294,7 +294,7 @@
 }
 
 .site-footer nav a:hover {
-    color: var(--color-primary);
+    color: var(--color-primary-hover);
 }
 
 /* Exception: Primary emphasis column */
