@@ -475,6 +475,14 @@ textarea {
     margin-bottom: var(--s-1);
 }
 
+.section-heading[data-weight='medium'] {
+    border-bottom-width: var(--border-medium);
+}
+
+.section-heading[data-weight='thin'] {
+    border-bottom-width: var(--border-thin);
+}
+
 .post-link {
     text-decoration: none;
     color: var(--color-text);

@@ -18,6 +18,13 @@ export default async function(eleventyConfig) {
 		}
 	});
 
+	// Featured posts collection
+	eleventyConfig.addCollection("featured", (collectionApi) => {
+		return collectionApi.getFilteredByTag("posts").filter((post) => {
+			return post.data.category === "featured";
+		});
+	});
+
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig
