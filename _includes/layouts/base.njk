@@ -23,9 +23,6 @@
 
 		{#- Per-page CSS bundle #}
 		<style>{% getBundle "css" %}</style>
-
-		{#- Add the heading-anchors web component to the JavaScript bundle #}
-		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
 	</head>
 	<body class="stack">
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
@@ -33,9 +30,7 @@
 		{% include "header.njk" %}
 
 		<main id="main" style="--stack-space: 0">
-			<heading-anchors>
-				{{ content | safe }}
-			</heading-anchors>
+			{{ content | safe }}
 		</main>
 
 		{% if showNewsletter %}
