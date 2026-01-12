@@ -483,17 +483,15 @@ textarea {
     border-bottom-width: var(--border-thin);
 }
 
-.post-link {
-    text-decoration: none;
-    color: var(--color-text);
-    display: block;
+.post-item {
     padding: var(--s0);
     margin-inline: calc(-1 * var(--s0));
-    border-radius: 4px;
-    border-left: 3px solid transparent;
 }
 
-.post-link:hover {
-    background: color-mix(in srgb, var(--color-accent) 25%, transparent);
-    color: var(--color-text);
+.post-title {
+    text-decoration: none;
+}
+
+.post-title:hover {
+    color: var(--color-primary-hover);
 }
