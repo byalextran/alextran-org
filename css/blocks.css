@@ -174,7 +174,6 @@
 
 .article-title {
     font-size: var(--s3);
-    line-height: var(--leading-tight);
 }
 
 .article-lead {
