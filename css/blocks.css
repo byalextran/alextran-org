@@ -565,14 +565,27 @@ textarea {
     padding: var(--s0);
     margin-inline: calc(-1 * var(--s0));
     border-radius: 4px;
-    border-left: 3px solid transparent;
+    position: relative;
+}
+
+.post-link::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: var(--color-accent);
+    transform: scaleY(0);
+    transform-origin: center;
+    transition: transform 0.33s ease;
 }
 
 .post-link:hover {
-    border-left: 3px solid var(--color-accent);
     color: var(--color-text);
 }
 
-.post-link:focus-visible {
-    border-left: 3px solid var(--color-accent);
+.post-link:hover::before,
+.post-link:focus-visible::before {
+    transform: scaleY(1);
 }
