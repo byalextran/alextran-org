@@ -494,13 +494,6 @@ textarea {
 }
 
 .post-link:hover {
-    background: color-mix(in srgb, var(--color-accent) 15%, transparent);
-}
-
-.post-link:hover .post-title {
-    color: var(--color-primary-hover);
-}
-
-.post-link:hover .post-desc {
+    background: color-mix(in srgb, var(--color-accent) 25%, transparent);
     color: var(--color-text);
 }
