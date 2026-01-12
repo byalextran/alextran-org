@@ -33,6 +33,7 @@
 
     /* Layout */
     --measure: 70ch;
+    --measure-wide: calc(var(--measure) + 15ch);
     --max-width: 80rem;
     --gutter: var(--s1);
 
