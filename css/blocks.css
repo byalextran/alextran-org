@@ -45,9 +45,6 @@
 .site-header .logo:focus-visible,
 .site-header nav a:focus-visible {
     color: var(--color-primary-hover);
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
-    border-radius: 4px;
 }
 
 /* Exception: Active nav state */
@@ -81,12 +78,6 @@
     cursor: pointer;
     background: transparent;
     border: none;
-}
-
-.nav-toggle:focus-visible {
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
-    border-radius: 4px;
 }
 
 /* Hamburger Icon */
@@ -284,8 +275,6 @@
 
 .article-content a:focus-visible,
 .homepage-content a:not(.post-link):focus-visible {
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
     border-radius: 2px;
 }
 
@@ -344,11 +333,6 @@
     background-color: var(--color-primary-hover);
 }
 
-.tag:focus-visible {
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
-}
-
 /* --------------------------------------------------------------------------
    Site Footer
    -------------------------------------------------------------------------- */
@@ -384,9 +368,6 @@
 
 .footer-nav a:focus-visible {
     color: var(--color-primary-hover);
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
-    border-radius: 4px;
 }
 
 .footer-sep {
@@ -503,11 +484,6 @@ textarea {
     border-color: color-mix(in srgb, var(--color-accent) 85%, black);
 }
 
-.button:focus-visible {
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
-}
-
 /* --------------------------------------------------------------------------
    Newsletter Section
    -------------------------------------------------------------------------- */
@@ -599,6 +575,4 @@ textarea {
 
 .post-link:focus-visible {
     border-left: 3px solid var(--color-accent);
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
 }
