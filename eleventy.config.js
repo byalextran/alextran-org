@@ -58,10 +58,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
-	eleventyConfig.addPlugin(feedPlugin, {
-		type: "atom", // or "rss", "json"
-		outputPath: "/feed/feed.xml",
-		stylesheet: "pretty-atom-feed.xsl",
+	const feedOptions = {
 		collection: {
 			name: "posts",
 			limit: 10,
@@ -75,6 +72,22 @@ export default async function(eleventyConfig) {
 				name: "Alex Tran"
 			}
 		}
+	};
+
+	// WARNING: /feeds/ is manually excluded from sitemap.xml.njk, so if the outputPath is changed for the below please update the sitemap accordingly
+
+	// Atom feed
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: "atom",
+		outputPath: "/feeds/atom.xml",
+		...feedOptions
+	});
+
+	// RSS feed
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: "rss",
+		outputPath: "/feeds/rss.xml",
+		...feedOptions
 	});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform

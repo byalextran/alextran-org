@@ -5,7 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{% if overrideBaseTitle %}{{ title }}{% else %}{{ title }} – {{ metadata.name }}{% endif %}</title>
 		<meta name="description" content="{{ description }}">
-		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.name }}">
+		<link rel="alternate" href="/feeds/atom.xml" type="application/atom+xml" title="Atom Feed – {{ metadata.name }}">
+		<link rel="alternate" href="/feeds/rss.xml" type="application/rss+xml" title="RSS Feed – {{ metadata.name }}">
 
 		{#- Web Fonts: Google Fonts + FontShare #}
 		<link rel="preconnect" href="https://fonts.googleapis.com">
