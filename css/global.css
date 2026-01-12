@@ -24,9 +24,10 @@
     --font-heading: 'Lora', Georgia, serif;
     --font-mono: 'IBM Plex Mono', monospace;
 
-    --leading-tight: 1.2;
+    --leading-loose: 1.85;
     --leading-normal: 1.65;
-    --leading-loose: 2.0;
+    --leading-tight: 1.50;
+    --leading-extra-tight: 1.30;
 
     /* Layout */
     --measure: 70ch;
@@ -45,7 +46,8 @@
 
     /* Borders */
     --border-thin: 1px;
-    --border-thick: 2px;
+    --border-medium: 2px;
+    --border-thick: 3px;
 
     /* Navigation */
     --nav-toggle-size: var(--s2);
@@ -105,11 +107,23 @@ h4,
 h5,
 h6 {
     font-family: var(--font-heading);
-    line-height: var(--leading-tight);
     text-wrap: balance;
     letter-spacing: -0.02em;
     font-weight: 600;
     font-optical-sizing: auto;
+}
+
+h1 {
+	line-height: var(--leading-extra-tight);
+}
+
+h2, h3, h4 {
+  line-height: var(--leading-tight);
+}
+
+h5,
+h6 {
+  line-height: var(--leading-normal);
 }
 
 p {
@@ -159,7 +173,7 @@ pre code {
 }
 
 blockquote {
-    border-inline-start: var(--border-thick) solid var(--color-primary);
+    border-inline-start: var(--border-medium) solid var(--color-primary);
     padding-inline-start: var(--s1);
     font-style: italic;
     color: var(--color-muted);
@@ -218,7 +232,7 @@ th {
 }
 
 thead th {
-    border-block-end-width: var(--border-thick);
+    border-block-end-width: var(--border-medium);
 }
 
 abbr[title] {
