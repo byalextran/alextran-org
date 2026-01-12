@@ -12,6 +12,13 @@
     border-block-end: var(--border-thin) solid var(--color-border);
 }
 
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--s1);
+}
+
 .site-header .logo {
     font-weight: 700;
     font-size: var(--s1);
@@ -60,6 +67,8 @@
     justify-content: center;
     width: var(--nav-toggle-size);
     height: var(--nav-toggle-size);
+    min-width: 44px;
+    min-height: 44px;
     padding: var(--s-2);
     cursor: pointer;
     background: transparent;
