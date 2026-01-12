@@ -1,24 +1,24 @@
 <footer class="site-footer">
-    <div class="container stack gap-lg">
-        <div class="switcher" style="--switcher-threshold: 40rem">
-            <nav class="stack">
-                <h3>Connect</h3>
-                <a href="https://instagram.com/byalextran" target="_blank">Instagram</a>
-                <a href="https://github.com/byalextran" target="_blank">GitHub</a>
-                <a href="/contact/">Contact</a>
+    <div class="container">
+        <div class="footer-layout">
+            <a href="/" class="footer-mark">AT</a>
+            <nav class="footer-nav stack" style="--stack-space: var(--s-1)">
+                <div class="cluster" style="--cluster-justify: center; --cluster-space: var(--s-1)">
+                    <a href="https://instagram.com/byalextran" target="_blank">Instagram</a>
+                    <span class="footer-sep">&middot;</span>
+                    <a href="https://github.com/byalextran" target="_blank">GitHub</a>
+                    <span class="footer-sep">&middot;</span>
+                    <a href="/contact/">Contact</a>
+                </div>
+                <hr class="footer-divider">
+                <div class="cluster site-links" style="--cluster-justify: center; --cluster-space: var(--s-1)">
+                    <a href="/affiliate-disclaimer/">Affiliate Disclaimer</a>
+                    <span class="footer-sep">&middot;</span>
+                    <a href="/privacy-policy/">Privacy Policy</a>
+                    <span class="footer-sep">&middot;</span>
+                    <a href="/colophon/">Colophon</a>
+                </div>
             </nav>
-
-            <nav class="stack">
-                <h3>Site</h3>
-                <a href="/affiliate-disclaimer/">Affiliate Disclaimer</a>
-                <a href="/privacy-policy/">Privacy Policy</a>
-                <a href="/colophon/">Colophon</a>
-            </nav>
-        </div>
-
-        <div class="footer-bottom cluster" style="--cluster-justify: space-between">
-            <p class="color-muted">&copy; {{ page.date.getFullYear() }} {{ metadata.name }}. All rights reserved.</p>
-            <p class="color-muted">Built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a></p>
         </div>
     </div>
 </footer>
