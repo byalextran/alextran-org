@@ -12,7 +12,7 @@
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
-		"deploy": "wrangler pages deploy _site"
+		"deploy": "npx wrangler pages deploy _site"
 	},
 	"author": {
 		"name": "Alex Tran",
