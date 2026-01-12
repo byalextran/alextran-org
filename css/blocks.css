@@ -238,11 +238,11 @@
 
 .tag {
     display: inline-block;
-    padding: var(--s-2) var(--s-1);
+    padding: var(--s-3) var(--s-2);
     background-color: var(--color-bg-alt);
     border-radius: 0.25em;
     font-family: var(--font-mono);
-    font-size: var(--s-1);
+    font-size: var(--s-3);
     text-decoration: none;
     color: var(--color-text);
     transition: background-color 0.15s ease, color 0.15s ease;
@@ -259,6 +259,7 @@
 .tag[data-variant="category"] {
     background-color: var(--color-primary);
     color: var(--color-bg);
+    font-size: var(--s-2);
 }
 
 .tag[data-variant="category"]:hover {
