@@ -27,7 +27,7 @@ layout: layouts/base.njk
     {# Featured Posts #}
     <section class="stack gap-md">
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="medium">Featured</h2>
-        <div class="stack" style="--stack-space: 0">
+        <div class="stack" style="--stack-space: var(--s-2)">
             {%- for post in collections.featured %}
             <a href="{{ post.url }}" class="post-link">
                 <div class="post-title text-xl font-medium font-heading leading-extra-tight">{{ post.data.title }}</div>
@@ -42,7 +42,7 @@ layout: layouts/base.njk
     {%- if remainingPosts > 0 %}
     <section class="stack gap-md">
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="thin">Latest</h2>
-        <div class="stack" style="--stack-space: 0">
+        <div class="stack" style="--stack-space: var(--s-2)">
             {%- for post in collections.posts | reverse %}
             <a href="{{ post.url }}" class="post-link">
                 <div class="post-title text-lg font-medium font-heading leading-extra-tight">{{ post.data.title }}</div>
