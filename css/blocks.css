@@ -490,7 +490,7 @@ textarea {
     padding: var(--s0);
     margin-inline: calc(-1 * var(--s0));
     border-radius: 4px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    border-left: 3px solid transparent;
 }
 
 .post-link:hover {
