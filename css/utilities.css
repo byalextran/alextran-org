@@ -67,6 +67,10 @@
    Typography - Line Height
    -------------------------------------------------------------------------- */
 
+.leading-extra-tight {
+  line-height: var(--leading-extra-tight);
+}
+
 .leading-tight {
   line-height: var(--leading-tight);
 }

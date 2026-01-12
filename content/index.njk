@@ -31,7 +31,7 @@ layout: layouts/base.njk
             {%- for post in collections.posts | reverse %}
             {%- if loop.index <= 3 %}
             <a href="{{ post.url }}" class="post-link">
-                <div class="post-title text-xl font-medium font-heading">{{ post.data.title }}</div>
+                <div class="post-title text-xl font-medium font-heading leading-extra-tight">{{ post.data.title }}</div>
                 <div class="post-desc color-muted">{{ post.data.description }}</div>
             </a>
             {%- endif %}
@@ -48,7 +48,7 @@ layout: layouts/base.njk
             {%- for post in collections.posts | reverse %}
             {%- if loop.index > 3 %}
             <a href="{{ post.url }}" class="post-link">
-                <div class="post-title text-lg font-medium font-heading">{{ post.data.title }}</div>
+                <div class="post-title text-lg font-medium font-heading leading-extra-tight">{{ post.data.title }}</div>
                 <div class="post-desc color-muted">{{ post.data.description }}</div>
             </a>
             {%- endif %}
