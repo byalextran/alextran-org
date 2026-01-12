@@ -222,6 +222,58 @@
     margin-block-start: var(--s-1);
 }
 
+/* Content link styling */
+.article-content a,
+.homepage-content a:not(.post-link) {
+    color: var(--color-primary);
+    text-decoration: none;
+    position: relative;
+    font-weight: 500;
+}
+
+/* Base gray underline - always visible */
+.article-content a::before,
+.homepage-content a:not(.post-link)::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -3px;
+    height: 2px;
+    background-color: var(--color-border);
+}
+
+/* Accent underline overlay - grows from center on hover */
+.article-content a::after,
+.homepage-content a:not(.post-link)::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -3px;
+    height: 2px;
+    background-color: var(--color-accent);
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.25s ease;
+}
+
+.article-content a:hover,
+.homepage-content a:not(.post-link):hover {
+    color: var(--color-primary-hover);
+}
+
+.article-content a:hover::before,
+.homepage-content a:not(.post-link):hover::before {
+    height: 3px;
+}
+
+.article-content a:hover::after,
+.homepage-content a:not(.post-link):hover::after {
+    height: 3px;
+    transform: scaleX(1);
+}
+
 /* --------------------------------------------------------------------------
    Metadata
    -------------------------------------------------------------------------- */
