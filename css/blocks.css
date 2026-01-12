@@ -42,6 +42,14 @@
     color: var(--color-primary-hover);
 }
 
+.site-header .logo:focus-visible,
+.site-header nav a:focus-visible {
+    color: var(--color-primary-hover);
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
 /* Exception: Active nav state */
 .site-header nav a[data-state="active"] {
     color: var(--color-primary);
@@ -274,6 +282,13 @@
     transform: scaleX(1);
 }
 
+.article-content a:focus-visible,
+.homepage-content a:not(.post-link):focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
 /* --------------------------------------------------------------------------
    Metadata
    -------------------------------------------------------------------------- */
@@ -329,6 +344,11 @@
     background-color: var(--color-primary-hover);
 }
 
+.tag:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
 /* --------------------------------------------------------------------------
    Site Footer
    -------------------------------------------------------------------------- */
@@ -360,6 +380,13 @@
 
 .footer-nav a:hover {
     color: var(--color-primary-hover);
+}
+
+.footer-nav a:focus-visible {
+    color: var(--color-primary-hover);
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
 }
 
 .footer-sep {
@@ -476,6 +503,11 @@ textarea {
     border-color: color-mix(in srgb, var(--color-accent) 85%, black);
 }
 
+.button:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
 /* --------------------------------------------------------------------------
    Newsletter Section
    -------------------------------------------------------------------------- */
@@ -563,4 +595,10 @@ textarea {
 .post-link:hover {
     border-left: 3px solid var(--color-accent);
     color: var(--color-text);
+}
+
+.post-link:focus-visible {
+    border-left: 3px solid var(--color-accent);
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
 }

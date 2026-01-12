@@ -178,6 +178,26 @@
   border: 0;
 }
 
+#skip-link:focus {
+  position: fixed;
+  top: var(--s-1);
+  left: var(--s-1);
+  width: auto;
+  height: auto;
+  padding: var(--s-1) var(--s0);
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+  background: var(--color-bg);
+  color: var(--color-text);
+  border: 2px solid var(--color-primary);
+  border-radius: 4px;
+  z-index: 9999;
+  font-size: var(--s0);
+  text-decoration: none;
+}
+
 .no-wrap {
   white-space: nowrap;
 }
