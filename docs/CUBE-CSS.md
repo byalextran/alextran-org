@@ -1,6 +1,8 @@
 # CUBE CSS Reference Guide
 
-CUBE CSS stands for **Composition, Utility, Block, Exception** - a CSS methodology that works *with* the cascade rather than against it.
+CUBE CSS stands for **Composition, Utility, Block, Exception** and is a CSS methodology that works *with* the cascade rather than against it.
+
+It's principles are used by [Every Layout](EVERY-LAYOUT.md).
 
 ## Core Philosophy
 

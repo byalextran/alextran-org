@@ -1,6 +1,6 @@
 # Every Layout
 
-Notes on layout primitives from Every Layout, designed for intrinsic, responsive design without media queries.
+Notes on layout primitives from Every Layout, designed for intrinsic, responsive design without media queries following [CUBE CSS principles](CUBE-CSS.md).
 
 ## Foundations
 
