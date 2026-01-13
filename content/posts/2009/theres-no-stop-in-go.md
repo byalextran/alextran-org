@@ -1,5 +1,5 @@
 ---
-title: There's No '8220;Stop'8221; in '8220;Go'8221;
+title: There's No "Stop" in "Go"
 date: 2009-10-05T09:48:17.000Z
 ---
 Who has been approached by a homeless guy asking for money?
