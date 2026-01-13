@@ -2,5 +2,6 @@
 title: All Posts
 ---
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+{% set postcards = collections.posts %}
+{% set postcards_style = "default" %}
+{% include "post-cards.njk" %}
