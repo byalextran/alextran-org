@@ -6,30 +6,32 @@
             <input type="email" id="email" name="email" placeholder="Email:" aria-label="Email address" required />
             <button type="submit" class="button" data-variant="accent">Subscribe</button>
         </form>
-        <p id="response-message" style="font-size: smaller; font-style: italic;" hidden></p>
+        <p id="response-message" class="text-sm font-italic color-muted" hidden></p>
     </div>
 </section>
 <script>
-    const form = document.getElementById('subscribe-form');
-    const message = document.getElementById('response-message');
+    (() => {
+        const form = document.getElementById('subscribe-form');
+        const message = document.getElementById('response-message');
 
-    form.addEventListener('submit', async function (e) {
-        e.preventDefault();
+        form.addEventListener('submit', async function (e) {
+            e.preventDefault();
 
-        const email_address = document.getElementById('email').value;
+            const email_address = document.getElementById('email').value;
 
-        const res = await fetch('/api/subscribe', {
-          method: 'PUT',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email_address })
+            const res = await fetch('/api/subscribe', {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email_address })
+            });
+
+            const data = await res.json();
+
+            if (res.status == 200 || res.status == 201) {
+                form.hidden = true;
+            }
+            message.textContent = data.message;
+            message.hidden = false;
         });
-
-        const data = await res.json();
-
-        if(res.status == 200 || res.status == 201) {
-          form.hidden = true;
-        }
-        message.textContent = data.message;
-        message.hidden = false;
-    });
+    })();
 </script>
