@@ -27,17 +27,17 @@
 	<body class="stack">
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
-		{% include "header.njk" %}
+		{% include "partials/header.njk" %}
 
 		<main id="main" tabindex="-1" style="--stack-space: 0">
 			{{ content | safe }}
 		</main>
 
 		{% if showNewsletter %}
-		{% include "newsletter.njk" %}
+		{% include "partials/newsletter.njk" %}
 		{% endif %}
 
-		{% include "footer.njk" %}
+		{% include "partials/footer.njk" %}
 
 		{#- Navigation JavaScript #}
 		{% js %}{% include "js/hamburger.js" %}{% endjs %}

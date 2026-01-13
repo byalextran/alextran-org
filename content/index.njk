@@ -30,7 +30,7 @@ layout: layouts/base.njk
         {% set postcards = collections.featured %}
         {% set postcards_style = "featured" %}
         {% set postcards_limit = 5 %}
-        {% include "post-cards.njk" %}
+        {% include "partials/post-cards.njk" %}
     </section>
 
     {# Recent Posts #}
@@ -39,7 +39,7 @@ layout: layouts/base.njk
         {% set postcards = collections.posts %}
         {% set postcards_style = "default" %}
         {% set postcards_limit = 10 %}
-        {% include "post-cards.njk" %}
+        {% include "partials/post-cards.njk" %}
         <a href="/blog/" class="width-fit">See all posts</a>
     </section>
 </div>

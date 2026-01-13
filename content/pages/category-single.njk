@@ -23,6 +23,6 @@ const eleventyComputed = {
 		{% set postcards = (postcards.push(post), postcards) %}
 	{% endif %}
 {% endfor %}
-{% include "post-cards.njk" %}
+{% include "partials/post-cards.njk" %}
 
 <p><a href="/categories/">See all categories</a></p>

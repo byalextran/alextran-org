@@ -1,8 +1,0 @@
-<ul class="stack gap-md" style="list-style: none; padding: 0;">
-{%- for post in postslist | reverse %}
-    <li class="stack gap-xs{% if post.url == url %} font-bold{% endif %}">
-        <a href="{{ post.url }}" class="text-lg font-medium">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-        <time class="text-sm color-muted font-mono" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
-    </li>
-{%- endfor %}
-</ul>
