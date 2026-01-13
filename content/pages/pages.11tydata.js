@@ -1,4 +1,13 @@
 export default {
 	layout: "layouts/page.njk",
-	permalink: "/{{ page.fileSlug }}/"
+	eleventyComputed: {
+		permalink: (data) => {
+			// If permalink already set in frontmatter, use it
+			if (data.permalink) {
+				return data.permalink;
+			}
+			// Otherwise compute from path, removing first segment: "/pages/foo/bar" → "/foo/bar/"
+			return data.page.filePathStem.replace(/^\/[^\/]+/, '') + '/' || '/';
+		}
+	}
 };
