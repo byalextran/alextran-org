@@ -20,7 +20,7 @@ const eleventyComputed = {
 };
 ---
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+{% set postcards = collections[ tag ] %}
+{% include "post-cards.njk" %}
 
-<p>See <a href="tags.njk">all tags</a>.</p>
+<p><a href="/tags/">See all tags</a></p>

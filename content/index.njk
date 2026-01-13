@@ -29,19 +29,16 @@ layout: layouts/base.njk
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="medium">Featured</h2>
         {% set postcards = collections.featured %}
         {% set postcards_style = "featured" %}
-        {% set postcards_reverse = false %}
+        {% set postcards_limit = 5 %}
         {% include "post-cards.njk" %}
     </section>
 
     {# Recent Posts #}
-    {%- set remainingPosts = collections.posts | reverse | length - 3 %}
-    {%- if remainingPosts > 0 %}
     <section class="stack gap-md">
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="thin">Latest</h2>
         {% set postcards = collections.posts %}
-        {% set postcards_style = "default" %}
+        {% set postcards_limit = 10 %}
         {% include "post-cards.njk" %}
-        <a href="/blog/" class="color-primary width-fit">See all posts</a>
+        <a href="/blog/" class="width-fit">See all posts</a>
     </section>
-    {%- endif %}
 </div>

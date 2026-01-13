@@ -4,13 +4,11 @@
   Context variables:
   - postcards: Collection to iterate (required)
   - postcards_style: "featured" | "default" (optional, default: "default")
-  - postcards_show_date: boolean (optional, default: false)
   - postcards_reverse: boolean (optional, default: true)
   - postcards_limit: number (optional, default: no limit)
 -#}
 
 {%- set style = postcards_style if postcards_style else "default" -%}
-{%- set showDate = postcards_show_date if postcards_show_date else false -%}
 {%- set shouldReverse = postcards_reverse if postcards_reverse is defined else true -%}
 {%- set items = postcards | reverse if shouldReverse else postcards -%}
 {%- if postcards_limit -%}
@@ -31,9 +29,6 @@
     <div class="{{ titleClasses }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</div>
     {%- if post.data.description %}
     <div class="{{ descClasses }}">{{ post.data.description }}</div>
-    {%- endif %}
-    {%- if showDate %}
-    <time class="text-sm color-muted font-mono" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
     {%- endif %}
   </a>
   {%- endfor %}

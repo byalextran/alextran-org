@@ -222,7 +222,7 @@
 }
 
 /* Content link styling */
-.article-content a,
+.article-content a:not(.post-link),
 .homepage-content a:not(.post-link) {
     color: var(--color-primary);
     text-decoration: none;
@@ -231,7 +231,7 @@
 }
 
 /* Base gray underline - always visible */
-.article-content a::before,
+.article-content a:not(.post-link)::before,
 .homepage-content a:not(.post-link)::before {
     content: '';
     position: absolute;
@@ -243,7 +243,7 @@
 }
 
 /* Accent underline overlay - grows from center on hover */
-.article-content a::after,
+.article-content a:not(.post-link)::after,
 .homepage-content a:not(.post-link)::after {
     content: '';
     position: absolute;
@@ -257,23 +257,23 @@
     transition: transform 0.25s ease;
 }
 
-.article-content a:hover,
+.article-content a:not(.post-link):hover,
 .homepage-content a:not(.post-link):hover {
     color: var(--color-primary-hover);
 }
 
-.article-content a:hover::before,
+.article-content a:not(.post-link):hover::before,
 .homepage-content a:not(.post-link):hover::before {
     height: 3px;
 }
 
-.article-content a:hover::after,
+.article-content a:not(.post-link):hover::after,
 .homepage-content a:not(.post-link):hover::after {
     height: 3px;
     transform: scaleX(1);
 }
 
-.article-content a:focus-visible,
+.article-content a:not(.post-link):focus-visible,
 .homepage-content a:not(.post-link):focus-visible {
     border-radius: 2px;
 }
