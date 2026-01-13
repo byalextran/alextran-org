@@ -21,7 +21,6 @@
 
 .site-header .logo {
     font-weight: 700;
-    font-size: var(--s1);
     text-decoration: none;
     color: inherit;
     white-space: nowrap;
