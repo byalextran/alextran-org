@@ -1,23 +1,22 @@
 <footer class="site-footer">
     <div class="container">
-        <nav class="footer-nav stack" style="--stack-space: var(--s0)">
-            <div class="switcher" style="--switcher-threshold: 35rem; --switcher-space: var(--s0)">
-                <div class="cluster" style="--cluster-space: var(--s-3)">
+        <nav class="footer-nav switcher" style="--switcher-threshold: 35rem; --switcher-space: var(--s2);">
+            <div class="stack" style="--stack-space: var(--s-2);">
+                <span class="footer-label">{{ metadata.name }}</span>
+                <div class="cluster" style="--cluster-space: var(--s-3);">
                     <a href="https://instagram.com/byalextran" target="_blank">Instagram</a>
-                    <span class="footer-sep">&middot;</span>
                     <a href="https://github.com/byalextran" target="_blank">GitHub</a>
-                    <span class="footer-sep">&middot;</span>
                     <a href="/contact/">Contact</a>
-                </div>
-                <div class="cluster site-links" style="--cluster-space: var(--s-3)">
-                    <a href="/affiliate-disclaimer/">Affiliate Disclaimer</a>
-                    <span class="footer-sep">&middot;</span>
-                    <a href="/privacy-policy/">Privacy Policy</a>
-                    <span class="footer-sep">&middot;</span>
                     <a href="/colophon/">Colophon</a>
                 </div>
             </div>
-            <a href="/" class="footer-logo">{{ metadata.name }}</a>
+            <div class="stack footer-legal" style="--stack-space: var(--s-2);">
+                <span class="footer-label">Legal</span>
+                <div class="cluster" style="--cluster-space: var(--s-3);">
+                    <a href="/affiliate-disclaimer/">Affiliate Disclaimer</a>
+                    <a href="/privacy-policy/">Privacy Policy</a>
+                </div>
+            </div>
         </nav>
     </div>
 </footer>
