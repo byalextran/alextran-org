@@ -1,0 +1,10 @@
+---
+title: All Categories
+---
+
+<ul>
+{% for category in collections.categories | sortAlphabetically %}
+	{% set categoryUrl %}/category/{{ category | slugify }}/{% endset %}
+	<li><a href="{{ categoryUrl }}">{{ category }}</a></li>
+{% endfor %}
+</ul>

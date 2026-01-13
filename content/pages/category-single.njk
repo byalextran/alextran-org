@@ -1,0 +1,28 @@
+---js
+// <script>
+const pagination = {
+	data: "collections.categories",
+	size: 1,
+	alias: "category",
+};
+
+const eleventyExcludeFromCollections = true;
+
+const eleventyComputed = {
+	title: "Category: {{ category }}",
+	permalink: function(data) {
+		return `/category/${this.slugify(data.category)}/`;
+	}
+};
+---
+
+{# Filter posts by category #}
+{% set postcards = [] %}
+{% for post in collections.posts %}
+	{% if post.data.category == category %}
+		{% set postcards = (postcards.push(post), postcards) %}
+	{% endif %}
+{% endfor %}
+{% include "post-cards.njk" %}
+
+<p><a href="/categories/">See all categories</a></p>
