@@ -42,7 +42,7 @@ layout: layouts/base.njk
     <section class="stack gap-md">
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="thin">Latest</h2>
         {% set postcards = collections.posts %}
-        {% set postcards_limit = 10 %}
+        {% set postcards_limit = 5 %}
         {% include "post-cards.njk" %}
         <a href="/blog/" class="width-fit">See all posts</a>
     </section>
