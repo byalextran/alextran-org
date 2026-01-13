@@ -1,6 +1,7 @@
 ---
 title: Contact
 description: Use my contact form to get in touch with me.
+showNewsletter: false
 ---
 
 Holler at me if you have any questions or comments. I try to reply to everyone who reaches out. Unless you come across spammy. 🐷

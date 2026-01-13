@@ -10,6 +10,7 @@ const eleventyExcludeFromCollections = true;
 
 const eleventyComputed = {
 	title: "Category: {{ category }}",
+	showNewsletter: false,
 	permalink: function(data) {
 		return `/category/${this.slugify(data.category)}/`;
 	}

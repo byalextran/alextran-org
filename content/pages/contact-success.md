@@ -1,5 +1,6 @@
 ---
 title: Yee-haw! 🤠
+showNewsletter: false
 eleventyExcludeFromCollections: true
 ---
 

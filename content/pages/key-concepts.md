@@ -1,5 +1,6 @@
 ---
 title: "Key Concepts"
+showNewsletter: false
 ---
 
 I'm slowly working on adding more to this page. In the meantime, this page is brought to you by the letter C, D, F, R, and S. ?
