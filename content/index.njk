@@ -27,12 +27,7 @@ layout: layouts/base.njk
     {# Featured Posts #}
     <section class="stack gap-md">
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="medium">Featured</h2>
-        {% set postcards = [] %}
-        {% for post in collections.posts %}
-            {% if post.data.category == "featured" %}
-                {% set postcards = (postcards.push(post), postcards) %}
-            {% endif %}
-        {% endfor %}
+        {% set postcards = collections.featured %}
         {% set postcards_style = "featured" %}
         {% set postcards_limit = 5 %}
         {% include "post-cards.njk" %}
@@ -42,7 +37,7 @@ layout: layouts/base.njk
     <section class="stack gap-md">
         <h2 class="text-base uppercase font-medium section-heading font-base" data-weight="thin">Latest</h2>
         {% set postcards = collections.posts %}
-        {% set postcards_limit = 5 %}
+        {% set postcards_limit = 10 %}
         {% include "post-cards.njk" %}
         <a href="/blog/" class="width-fit">See all posts</a>
     </section>
