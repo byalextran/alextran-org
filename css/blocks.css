@@ -341,6 +341,7 @@
     padding-block: var(--s3);
     background-color: var(--color-bg-alt);
     margin-block-start: auto;
+    border-top: 1px solid var(--color-border);
 }
 
 .footer-label {
