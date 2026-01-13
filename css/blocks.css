@@ -564,7 +564,7 @@ textarea {
     display: inline-block;
     border-bottom: 3px solid var(--color-border);
     padding-bottom: var(--s-2);
-    margin-bottom: var(--s-1);
+    margin-bottom: var(--s-3);
 }
 
 .section-heading[data-weight='medium'] {

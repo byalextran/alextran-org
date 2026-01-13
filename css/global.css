@@ -197,7 +197,6 @@ pre code {
 blockquote {
     border-inline-start: var(--border-medium) solid var(--color-primary);
     padding-inline-start: var(--s1);
-    font-style: italic;
     color: var(--color-muted);
 }
 
