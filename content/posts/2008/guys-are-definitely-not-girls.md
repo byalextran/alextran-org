@@ -1,5 +1,5 @@
 ---
-title: Guys are <em>definitely</em> not girls
+title: Guys are definitely not girls
 date: 2008-12-01T10:07:39.000Z
 ---
 Let’s talk about relationships . . . of the dating variety.
