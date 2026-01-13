@@ -18,6 +18,8 @@ export default async function(eleventyConfig) {
 		}
 	});
 
+	// NOTE: when adding new collections, exclude it from content/pages/tag-single.njk so it doesn't show up in the tags list
+
 	// Get all unique categories
 	eleventyConfig.addCollection("categories", (collectionApi) => {
 		const posts = collectionApi.getFilteredByTag("posts");
