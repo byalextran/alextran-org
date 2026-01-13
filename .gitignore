@@ -1,4 +1,6 @@
 _site/
+dist/
+src/
 node_modules/
 .cache
 .DS_Store
