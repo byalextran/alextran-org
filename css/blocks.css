@@ -368,6 +368,12 @@
     opacity: 0.8;
 }
 
+/* Container query context for footer alignment */
+.footer-nav {
+    container-type: inline-size;
+    --switcher-threshold: 35rem;
+}
+
 /* Right-align the Legal section on wide screens */
 .footer-legal {
     text-align: right;
@@ -375,9 +381,15 @@
 
 .footer-legal .cluster {
     --cluster-justify: flex-end;
+    flex-wrap: nowrap;
 }
 
-@media (max-width: 40rem) {
+.footer-legal a {
+    white-space: nowrap;
+}
+
+/* Container query must match --switcher-threshold above (CSS vars not supported in @container) */
+@container (max-width: 35rem) {
     .footer-legal {
         text-align: left;
     }
