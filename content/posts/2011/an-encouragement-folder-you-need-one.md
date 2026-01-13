@@ -1,7 +1,6 @@
 ---
 title: 'An Encouragement Folder: You Need One'
 date: 2011-11-07 14:09:07+00:00
-permalink: /an-encouragement-folder-you-need-one/
 description: Remind yourself what you're doing right, the lives you're touching and what God's done in your life with an encouragement folder.
 ---
 > **1 Samuel 30:6 (ESV)**

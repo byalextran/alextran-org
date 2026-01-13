@@ -1,7 +1,6 @@
 ---
 title: A testimony to God’s provision
 date: 2007-05-12 14:37:42+00:00
-permalink: /a-testimony-to-gods-provision/
 ---
 For a lot of incoming interns, money is going to be a source of stress. Never fear, God to the rescue. Hopefully I can spark some hope in you with my story.
 

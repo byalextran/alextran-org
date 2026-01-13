@@ -1,7 +1,6 @@
 ---
 title: Unreturned Favors From God
 date: 2014-03-15 03:01:11+00:00
-permalink: /unreturned-favors-god/
 description: Has God ever not returned a favor after you did something for him? Here's what I learned after I gave God $500 and he took back $5400.
 ---
 ![calculator](images/calculator-300x185-e8iXws6WEYJS.jpg)

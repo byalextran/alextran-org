@@ -1,7 +1,6 @@
 ---
 title: 6 Uber-Practical Steps to a Spiritually Significant Fast
 date: 2014-12-29 14:37:42+00:00
-permalink: /uber-fast/
 redirectFrom: [/6-uber-practical-steps-spiritually-significant-fast/]
 tags: featured
 description: Fasting should be a spiritual activity, not a dieting exercise. Here are six extremely practical tips for maximizing the spiritual impact of your next fast.

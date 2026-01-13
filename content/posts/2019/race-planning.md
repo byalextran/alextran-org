@@ -1,7 +1,6 @@
 ---
 title: Race Planning Using the SuperPower Calculator
 date: 2019-11-13 22:49:05+00:00
-permalink: /race-planning/
 description: Plan the perfect racing strategy with a little math wizardry. Say goodbye to going out too hard and blowing up or finishing knowing you had more in you.
 ---
 It all comes down to this: race day.
@@ -26,9 +25,9 @@ So, let's start planning your race strategy!
 
 ## Step 1: Calculate Your Current Critical Power (CP)
 
-The key to accurate race planning is knowing your current [critical power](/key-concepts/critical-power/) (i.e. your current fitness). That's why it's so important to do a [critical power test](/key-concepts/critical-power-test/) 10-21 days before your target race. That timeframe is far enough out to let your body fully recover before race day yet close enough that it'll be an accurate measure of race-day fitness. 
+The key to accurate race planning is knowing your current [critical power](/key-concepts/critical-power/) (i.e. your current fitness). That's why it's so important to do a [critical power test](/key-concepts/critical-power-test/) 10-21 days before your target race. That timeframe is far enough out to let your body fully recover before race day yet close enough that it'll be an accurate measure of race-day fitness.
 
-After the test, calculate your CP using the [SuperPower Calculator](/superpower-calculator/) (SPC). Follow the instructions below depending on your test protocol (two-part test or race). 
+After the test, calculate your CP using the [SuperPower Calculator](/superpower-calculator/) (SPC). Follow the instructions below depending on your test protocol (two-part test or race).
 
 ### Calculate CP From a Two-Part Test
 
@@ -36,21 +35,21 @@ This could be any max effort test with two different durations (between 2 and 20
 
 #### Step 1a
 
-In the `MAIN` sheet, choose `Calculate FTP/CP and AWC from 2 or more maximal effort Activities` from the calculation dropdown. 
+In the `MAIN` sheet, choose `Calculate FTP/CP and AWC from 2 or more maximal effort Activities` from the calculation dropdown.
 
 ![Calculate FTP/CP and AWC from 2 or more maximal effort Activities - SuperPower Calculator](images/spc-calculate-ftp-two-part-1NOV01UgNG3j.png)
 
 #### Step 1b
 
-Go to the `Activities` sheet. 
+Go to the `Activities` sheet.
 
-Under the `Power` and `Time` columns, enter the appropriate power and duration values for each segment. Make sure you also select the correct power and time units in the dropdown menus. 
+Under the `Power` and `Time` columns, enter the appropriate power and duration values for each segment. Make sure you also select the correct power and time units in the dropdown menus.
 
 ![Power and Time on the Activities Sheet - SuperPower Calculator](images/spc-power-time-qilF2oDVPIf3.png)
 
 #### Step 1c
 
-Go back to the `MAIN` sheet and look take note of your `FTP/Critical Power` under the `Results` section. 
+Go back to the `MAIN` sheet and look take note of your `FTP/Critical Power` under the `Results` section.
 
 ![FTP/CP Results - SuperPower Calculator](images/spc-results-ftp-BzeM1ogZTH5Y.png)
 
@@ -60,7 +59,7 @@ This could be any race from a 5k up to a half marathon.
 
 #### Step 1a
 
-Make sure you're on the `MAIN` sheet, and choose `Calculate FTP/CP (and AWC if possible) from a Prior Race Power/Time and Riegel Exponent` from the calculation dropdown. 
+Make sure you're on the `MAIN` sheet, and choose `Calculate FTP/CP (and AWC if possible) from a Prior Race Power/Time and Riegel Exponent` from the calculation dropdown.
 
 ![Calculate FTP/CP (and AWC if possible) from a Prior Race Power/Time and Riegel Exponent - SuperPower Calculator](images/spc-calculate-cp-race-dZ5lZ0GZFc9X.png)
 
@@ -82,7 +81,7 @@ You can also use the dropdown to select a standard race distance (e.g. 5k, 10k, 
 
 #### Step 1d
 
-Make note of the `FTP/Critical Power` number under the `Results` section. 
+Make note of the `FTP/Critical Power` number under the `Results` section.
 
 ![FTP/CP Results - SuperPower Calculator](images/spc-calculated-cp-N888kvHj6spc.png)
 

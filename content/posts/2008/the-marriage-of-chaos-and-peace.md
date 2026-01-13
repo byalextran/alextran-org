@@ -1,7 +1,6 @@
 ---
 title: The marriage of chaos and peace
 date: 2008-11-24T08:08:46.000Z
-permalink: /the-marriage-of-chaos-and-peace/
 ---
 I dropped the F-bomb last week. While spending time with God no less.
 

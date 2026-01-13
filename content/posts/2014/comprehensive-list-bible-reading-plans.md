@@ -1,7 +1,6 @@
 ---
 title: The Most Comprehensive List of Bible Reading Plans
 date: 2014-01-01 15:07:56+00:00
-permalink: /comprehensive-list-bible-reading-plans/
 description: With over 600 Bible reading plans to choose from, the YouVersion Bible App has you covered! Year-long, devotionals, books of the Bible, topical and more!
 ---
 ![Reading Plan Screenshot](images/the-gospels-300x198-wwJnhlf0WLYt.png)

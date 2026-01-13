@@ -2,7 +2,6 @@
 title: Why I'm 30 and Still Single
 description: 'Over the course of time, my “spouse filter” has slowly dwindled to just two, bare essential requirements. This post is really about #1 and why it’s so mission critical to me.'
 date: 2011-01-08T13:52:07.000Z
-permalink: /why-im-30-and-still-single/
 ---
 So, in March I’m turning 30.
 

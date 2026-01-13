@@ -1,13 +1,12 @@
 ---
 title: Suffer Well My Friends, Suffer Well
 date: 2010-04-25T09:13:42.000Z
-permalink: /suffer-well-my-friends-suffer-well/
 ---
 I write this for those that find them in a tough season of life. Particular my friends from Church Online who are going through various trials in life; having to (or learning to) suffer well.
 
 > _suffer_: to undergo, be subjected to, or endure anything unpleasant.
 
-> **1 Peter 4:13 (NIV)**  
+> **1 Peter 4:13 (NIV)**
 > 13 But rejoice that you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.
 
 Suffering sucks.
@@ -46,14 +45,14 @@ There’s no telling what glory God wants to reveal on the other end of your suf
 
 Look forward to it!
 
-> **1 Peter 4:29 (NIV)**  
+> **1 Peter 4:29 (NIV)**
 > 19 So then, those who suffer according to God’s will should commit themselves to their faithful Creator and continue to do good.
 
 Commit your situation to God. Believe He is faithful. Continue to suffer well.
 
 God has your back. He sees you. And he is for you every step of the way.
 
-With much love,  
+With much love,
 \-Alex
 
 _Photo courtesy of [Cia de Foto](http://www.flickr.com/photos/ciadefoto/3223954930/)._

@@ -1,7 +1,6 @@
 ---
 title: Christine Caine’s “Must Haves” to Sustain Your Success in Ministry (Part 3)
 date: 2009-12-15T04:46:20.000Z
-permalink: /christine-caines-must-haves-to-sustain-your-success-in-ministry-part-3/
 ---
 Here’s the final part to Christine Caine’s talk to the staff at Celebration Church. Read Part 1 and 2 [here](/christine-caines-must-haves-to-sustain-your-success-in-ministry-part-1/) and [here](/christine-caines-must-haves-to-sustain-your-success-in-ministry-part-2/).
 

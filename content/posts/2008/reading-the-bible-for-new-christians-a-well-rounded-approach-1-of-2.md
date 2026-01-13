@@ -1,7 +1,6 @@
 ---
 title: 'Reading the Bible for New Christians: A Well-Rounded Approach (1 of 2)'
 date: 2008-03-04T12:02:42.000Z
-permalink: /reading-the-bible-for-new-christians-a-well-rounded-approach-1-of-2/
 ---
 > I’m looking for a little guidance in getting closer to God with respect to reading the Bible.
 

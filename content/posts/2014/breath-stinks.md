@@ -1,7 +1,6 @@
 ---
 title: Your Breath Stinks
 date: 2014-09-07 03:20:02+00:00
-permalink: /breath-stinks/
 description: A friend wanted to share three things with me. One and two were no biggie. But then three comes along.
 ---
 ![Bad Breath Isn't Sexy](images/bad-breath-300x81-tS7wX0vOejMw.jpg)

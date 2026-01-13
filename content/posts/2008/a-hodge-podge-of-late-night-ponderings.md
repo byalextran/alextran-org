@@ -1,7 +1,6 @@
 ---
 title: A hodge-podge of late night ponderings
 date: 2008-04-30T09:58:20.000Z
-permalink: /a-hodge-podge-of-late-night-ponderings/
 ---
 You ever have one of those nights where you can’t sleep because you feel like God is on the prowl?
 
@@ -27,7 +26,7 @@ The rest of the way requires some supernatural intervention. It requires God to 
 
 Please don’t ever forget this chapter …
 
-> **1 Corinthians 13 (NIV)**  
+> **1 Corinthians 13 (NIV)**
 > 1 If I speak in the tongues of men and of angels, but have not love, I am only a resounding gong or a clanging cymbal. 2 If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but have not love, I am nothing. 3 If I give all I possess to the poor and surrender my body to the flames, but have not love, I gain nothing.
 
 > \*4 Love is patient, love is kind.\* It does not envy, it does not boast, it is not proud. 5 It is not rude, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. 6 Love does not delight in evil but rejoices with the truth. \*7 It always protects, always trusts, always hopes, always perseveres.\*

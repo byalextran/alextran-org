@@ -1,7 +1,6 @@
 ---
 title: A Story About Minimal Mannie
 date: 2011-01-14T12:25:26.000Z
-permalink: /a-story-about-minimal-mannie/
 ---
 It’s story time! We’re going to talk about Minimal Mannie today. ;)
 

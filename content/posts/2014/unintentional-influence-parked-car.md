@@ -1,7 +1,6 @@
 ---
 title: The Unintentional Influence of a Parked Car
 date: 2014-09-27 13:09:17+00:00
-permalink: /unintentional-influence-parked-car/
 description: Often the small decisions and behaviors we think only affect us, unintentional influence others. As it turns out, where you park your car matters a lot.
 ---
 ![Parked Cars](images/parked-cars-300x116-oONNLX8MOCZ4.jpg)

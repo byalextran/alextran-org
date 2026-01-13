@@ -1,7 +1,6 @@
 ---
 title: 5 Lessons from 15 Years as a Christian
 date: 2015-10-18 10:00:54+00:00
-permalink: /fifteen-years/
 description: Reflecting back on what 15 years as a Christian and 10 years in full-time ministry has taught me.
 ---
 Today (October 18, 2015) is a significant milestone in my faith journey.

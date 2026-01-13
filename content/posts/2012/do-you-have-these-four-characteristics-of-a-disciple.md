@@ -1,7 +1,6 @@
 ---
 title: Do You Have These Four Characteristics of a Disciple?
 date: 2012-08-17 10:23:56+00:00
-permalink: /do-you-have-these-four-characteristics-of-a-disciple/
 description: What exactly does it mean to be a disciple of Jesus Christ? Here's four Biblical characteristics along with some questions to think about.
 ---
 Have you ever wondered what it means to be a disciple of Christ?

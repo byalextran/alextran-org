@@ -1,7 +1,6 @@
 ---
 title: Laughing in the Face of Science
 date: 2008-11-07T18:50:46.000Z
-permalink: /laughing-in-the-face-of-science/
 ---
 > **Job 9:5-9 (NIV)**
 > 5 He moves mountains without their knowing it

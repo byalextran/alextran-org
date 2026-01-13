@@ -1,7 +1,6 @@
 ---
 title: Fasting References in the Bible
 date: 2007-01-12 14:37:42+00:00
-permalink: /fasting-references-in-the-bible/
 ---
 I want to post the “facts” here and then make some conclusions, observations in another post. Consider it my attempt to separate church and state. ;)
 

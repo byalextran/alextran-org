@@ -1,7 +1,6 @@
 ---
 title: 6 Sources for Weekly Bible Memory Verses
 date: 2011-05-02 07:53:48+00:00
-permalink: /6-sources-for-weekly-bible-memory-verses/
 description: A collection of the most popular Bible verses suitable for weekly Scripture memory.
 ---
 One of the road blocks I've hit when it comes to memorizing Bible verses is coming up with which verses to memorize. Sure, I usually have a couple verses at any given time that are meaningful to me, so those are a great starting point. But after that, I usually draw a blank and then quit. ;)

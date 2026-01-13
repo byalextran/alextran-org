@@ -1,7 +1,6 @@
 ---
 title: Pushing or Pulling from God?
 date: 2009-02-26T10:14:29.000Z
-permalink: /pushing-or-pulling-from-god/
 ---
 I find myself praying a lot lately. Praying on the beach, in small group. Over the phone with friends and in my own quiet times with Jesus.
 

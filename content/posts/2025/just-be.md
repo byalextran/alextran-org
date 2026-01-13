@@ -1,7 +1,6 @@
 ---
 title: A Sabbatical Origin Story
 description: How God used a song to wreck me and lead me into a sabbatical season after 20 years in full-time church ministry.
-permalink: /just-be/
 date: 2025-06-03
 image: ./src/posts/2025/images/ken-cheung-KonWFWUaAuk-unsplash.jpg
 credit: Photo by <a href="https://unsplash.com/@kencheungphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ken Cheung</a> on <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

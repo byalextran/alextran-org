@@ -2,7 +2,6 @@
 title: Don't Be Afraid to Ask
 description: Don't be afraid to ask God for things. Doesn't matter if you deserve it or not. What rookie mistake you made last week. Or how close to God you feel.
 date: 2011-01-10T18:47:42.000Z
-permalink: /dont-be-afraid-to-ask/
 ---
 My church kicks off [Awakening](http://www.awake21.org/): 21 Days of Prayer, Fasting and Personal Devotion today. Miraculously, I rolled myself out of bed at 6 AM to catch the first session of the Virtual Conference.
 

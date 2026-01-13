@@ -1,7 +1,6 @@
 ---
 title: Are You Heading into Eternity Leaving Behind an Eternity?
 date: 2009-04-13T03:26:17.000Z
-permalink: /are-you-heading-into-eternity-leaving-behind-an-eternity/
 ---
 If you haven’t read the essay in [my previous post](/since-i-have-my-life-before-me/), I would encourage you to do that first.
 

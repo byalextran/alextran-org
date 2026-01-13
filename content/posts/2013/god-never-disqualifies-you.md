@@ -1,7 +1,6 @@
 ---
 title: God Never Disqualifies You
 date: 2013-06-22 01:22:20+00:00
-permalink: /god-never-disqualifies-you/
 description: "Even though we may be nobody's in our own eyes, if we embrace our weaknesses and imperfections, God's transforming power can come alive in us. God works through broken people."
 ---
 > Your past actions never disqualify you from being used by God. ([click to tweet this](http://clicktotweet.com/fO79f).)

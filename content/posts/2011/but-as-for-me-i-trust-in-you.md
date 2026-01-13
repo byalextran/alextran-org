@@ -1,7 +1,6 @@
 ---
 title: But as for me, I trust in you
 date: 2011-06-28 04:52:06+00:00
-permalink: /but-as-for-me-i-trust-in-you/
 description: I love the Psalms for their transparency. They are a realistic portrayal of what it’s like to live as a Christian desiring after God’s heart.
 ---
 As I’ve been reading through the Psalms lately, there’s been a major theme I’ve noticed.

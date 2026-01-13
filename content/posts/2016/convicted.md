@@ -1,7 +1,6 @@
 ---
 title: I got convicted
 date: 2016-10-15 08:49:00+00:00
-permalink: /convicted/
 description: Conviction come's in the weirdest ways sometimes. One day you're saving money while enjoying a hobby. The next day, you're like oi vey.
 ---
 ![Frog Stealing Money](images/stealing-frog-xZA8as6eMcoz.png)Conviction come's in the weirdest ways sometimes.

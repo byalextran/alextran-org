@@ -1,7 +1,6 @@
 ---
 title: Holy Crap, What Just Happened?
 date: 2011-12-15 12:41:55+00:00
-permalink: /holy-crap-what-just-happened/
 description: I don't lead very well navigating unknown environments. I get panicky. Anxious. I can sense physiological changes in my body.
 ---
 I would not describe myself as a visionary. One of those people able to rally people around a greater purpose or goal.

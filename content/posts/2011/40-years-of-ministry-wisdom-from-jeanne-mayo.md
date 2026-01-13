@@ -1,7 +1,6 @@
 ---
 title: 4 Lessons from 40 Years of Ministry Experience
 date: 2011-10-02 06:32:53+00:00
-permalink: /40-years-of-ministry-wisdom-from-jeanne-mayo/
 description: Four lessons from Jeanne Mayo's four decades of ministry experience.
 ---
 I had never heard of [Jeanne Mayo](http://jeannemayo.com/) until I heard her speak recently.
@@ -50,10 +49,10 @@ Malcolm Gladwell (in his book _Outliers_) says success in an area boils down to 
 
 Harriett Tubman echoed the same idea to the slaves she helped escape during the Civil War.
 
-> If you hear the dogs, keep going.  
-> If you see the torches in the woods, keep going.  
-> If there’s shouting after you, keep going.  
-> Don’t ever stop. Keep going.  
+> If you hear the dogs, keep going.
+> If you see the torches in the woods, keep going.
+> If there’s shouting after you, keep going.
+> Don’t ever stop. Keep going.
 > If you want a taste of freedom, keep going.
 
 Any of these four points hit home with you?

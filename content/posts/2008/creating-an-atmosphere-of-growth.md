@@ -1,7 +1,6 @@
 ---
 title: Creating an atmosphere of growth
 date: 2008-04-15T01:20:01.000Z
-permalink: /creating-an-atmosphere-of-growth/
 ---
 Last Tuesday, Pastor Paul Scanlon of Abundant Life Ministries came and spoke to the staff at Celebration Church.
 

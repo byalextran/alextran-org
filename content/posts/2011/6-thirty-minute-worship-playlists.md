@@ -1,7 +1,6 @@
 ---
 title: 6 Thirty Minute Worship Playlists
 date: 2011-11-21 04:24:16+00:00
-permalink: /6-thirty-minute-worship-playlists/
 description: 'A collection of six 30 minute worship playlists featuring artists like Hillsong, Bethel Live, Phil Wickham, Gungor and Kari Jobe. '
 ---
 So despite my inability to sing well, I love times of worship. Particularly times of personal worship during the week when it can be just me and Jesus.

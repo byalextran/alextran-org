@@ -1,7 +1,6 @@
 ---
 title: God's wrath and judgment are our fault
 date: 2008-11-08T18:43:18.000Z
-permalink: /gods-wrath-and-judgment-are-our-fault/
 ---
 > **Ezekiel 24:13-14 (NIV)**
 > 13 \[…\] I tried to cleanse you but you would not be cleansed from your impurity, \[…\].

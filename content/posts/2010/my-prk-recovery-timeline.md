@@ -2,7 +2,6 @@
 title: My PRK Recovery Timeline
 description: My personal experience healing from PRK that offers hope and a realistic timeline for recovery.
 date: 2010-10-07T11:12:43.000Z
-permalink: /my-prk-recovery-timeline/
 ---
 ![prk-surgery](images/prk-surgery1-300x147-xNxhRr9RJpKx.jpg)One major consequence of PRK over LASIK is the longer and much more variable healing/recovery time. It's nerve-racking having blurry vision weeks and even months after surgery.
 

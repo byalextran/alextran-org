@@ -1,7 +1,6 @@
 ---
 title: Afraid to Pray
 date: 2011-08-22 01:14:36+00:00
-permalink: /afraid-to-pray/
 description: How often do we fail to pray because of fear? Afraid what God may say. Afraid where he may lead us. Afraid of the sacrifice.
 ---
 Delayed obedience is disobedience. Partial obedience is disobedience.

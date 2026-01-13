@@ -1,7 +1,6 @@
 ---
 title: How I'm Saving Money By Driving Smarter
 date: 2011-05-29 09:59:52+00:00
-permalink: /how-im-saving-money-by-driving-smarter/
 description: Making some minor tweaks to my driving habits the past month has increased my MPG by 17%. I went from averaging 35 MPG to 41 MPG. Here's how ...
 ---
 Today, I’m talking about [hypermiling](http://en.wikipedia.org/wiki/Hypermiling); the art of changing the way you drive to increase miles per gallon and save money.

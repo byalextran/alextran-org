@@ -1,7 +1,6 @@
 ---
 title: The Terrible Opportunity
 date: 2010-09-21T09:56:36.000Z
-permalink: /a-terrible-opportunity/
 ---
 ![dusty-london](images/dusty-london-300x200-C1WjoWUMgl2x.jpg)With permission, I am re-posting a blog post written by a friend.
 
@@ -57,7 +56,7 @@ Hey, at least I'm honest…
 
 I hope you can appreciate that I'm being somewhat facetious, but is it really that far from the truth of daily life? No, at least not for me. Even if my life doesn't look exactly like that, I certainly have those thoughts and tendencies. What did Paul say?
 
-> **Romans 7:19 (NLT)**  
+> **Romans 7:19 (NLT)**
 > 19 I want to do what is good, but I don't. I don't want to do what is wrong, but I do it anyway.
 
 To even consider giving up the comforts of our life—to entertain the interruption of our long-term plan—to face the fact that none of us are guaranteed a long life—to endure the separation of Dusty and London—it would be…
@@ -76,7 +75,7 @@ And so we have come to be thankful for this Terrible Opportunity. Soon enough, t
 
 We are thankful for how good our God is. We are thankful that when we are weak, He is strong. We are thankful that He allowed us to be pushed into the deep end of eternal significance. And we pray that He continues pushing us in—for the rest of our lives…
 
-> **Luke 21:12-13 (NLT)**  
+> **Luke 21:12-13 (NLT)**
 > 12 "…there will be a time of great persecution…13 But this will be your opportunity to tell them about me.
 
 Jeff, Dusty, & London

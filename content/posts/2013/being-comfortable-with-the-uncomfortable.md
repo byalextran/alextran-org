@@ -1,7 +1,6 @@
 ---
 title: Being Comfortable with the Uncomfortable
 date: 2013-02-14 13:42:38+00:00
-permalink: /being-comfortable-with-the-uncomfortable/
 description: 'Learning to be comfortable with the uncomfortable. Relying on God when our current situation has us scrambling for breathe. '
 ---
 ![Girl Suffocating](images/suffocating-300x122-vT5yvj4lSVgH.jpg)

@@ -1,7 +1,6 @@
 ---
 title: Too Much Cheese Makes You Selfish
 date: 2013-11-10 03:42:02+00:00
-permalink: /too-much-cheese-makes-you-selfish/
 description: Just a few weeks ago a random, flamboyantly gay guy comes crashing a dinner party with some friends of mine. Did I mention he was high and drunk too?
 ---
 ![Cheese Wedges](images/5383384526_19ae18883b_b-e13840-zgBsZwojJDhw.jpg)

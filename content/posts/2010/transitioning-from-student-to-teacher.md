@@ -1,7 +1,6 @@
 ---
 title: Transitioning from student to teacher?
 date: 2010-04-18T08:25:32.000Z
-permalink: /transitioning-from-student-to-teacher/
 ---
 This is going to be an uncharacteristic blog post. Meaning it hasn’t been super thought out and taken me two hours to write. I’m going to go against the norm and pound this thought out in 15 minutes.
 

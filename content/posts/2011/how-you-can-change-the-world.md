@@ -1,7 +1,6 @@
 ---
 title: How You Can Change the World
 date: 2011-09-18 02:07:35+00:00
-permalink: /how-you-can-change-the-world/
 description: 'How the story of Bezalel in Exodus 31 gives us a model to change the world for God. '
 ---
 Do you truly believe you can change the world? What is your definition of changing the world?

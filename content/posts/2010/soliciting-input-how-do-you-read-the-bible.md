@@ -1,7 +1,6 @@
 ---
 title: Soliciting input. How do you read the Bible?
 date: 2010-01-02T12:20:47.000Z
-permalink: /soliciting-input-how-do-you-read-the-bible/
 ---
 I’m curious to know how you approach reading your Bible? Particularly, how do you ensure you’re maximizing what you read?
 
@@ -15,7 +14,7 @@ We had no clue what 2 Corinthians 5:20 said.
 
 Needless to say I immediately went and memorized that verse.
 
-> **2 Corinthians 5:20 (NIV)**  
+> **2 Corinthians 5:20 (NIV)**
 > We are therefore Christ’s ambassadors, as though God were making his appeal through us. We implore you on Christ’s behalf: Be reconciled to God.
 
 My motivation for wanted to regularly read through the _entire_ Bible is similar. It doesn’t make a whole lot of sense to profess and stand for something you are unfamiliar with.

@@ -1,7 +1,6 @@
 ---
 title: 88% of Jesus' Standard?
 date: 2010-08-30T10:13:01.000Z
-permalink: /88-of-jesus-standard/
 ---
 ![88-percent](images/88-percent-300x214-tL7u0AtjTaIl.jpg)I've been marinating on this verse the past week or so:
 

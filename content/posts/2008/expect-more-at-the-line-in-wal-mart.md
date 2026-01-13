@@ -1,7 +1,6 @@
 ---
 title: Expect more at the line in Wal-Mart
 date: 2008-04-13T07:17:03.000Z
-permalink: /expect-more-at-the-line-in-wal-mart/
 ---
 When you’re on the mission field, you expect God to move. All the time and in every little situation. You are more inclined to “go with God” and be open for the tasks and challenges placed before you.
 

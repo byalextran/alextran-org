@@ -1,7 +1,6 @@
 ---
 title: I'm a Guy Who Wants to Smell Like Perfume
 date: 2011-07-12 10:36:56+00:00
-permalink: /im-a-guy-who-wants-to-smell-like-perfume/
 description: Obeying a commandment such as feeding the poor may not glorify God as much as you’d think.
 ---
 > **John 12:3-8 (NIV)**

@@ -1,7 +1,6 @@
 ---
 title: Mature Christians Don't Exist
 date: 2011-07-31 10:53:28+00:00
-permalink: /mature-christians-dont-exist/
 description: It's easy to deceive ourselves into  thinking we are mature Christians when we compare ourselves to the lives of other Christians.
 ---
 I often hear myself comparing the behavior of Christians with that of “mature” Christians.

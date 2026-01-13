@@ -1,7 +1,6 @@
 ---
 title: Tidbits of Wisdom from Pastor Steven Furtick
 date: 2010-10-09T09:04:19.000Z
-permalink: /tidbits-of-wisdom-from-pastor-steven-furtick/
 ---
 ![furtick-family](images/furtick-family1-300x132-aSZHOVtpArm7.jpg)My church had the privilege of having [Pastor Steven Furtick](http://www.stevenfurtick.com) of [Elevation Church](http://www.elevationchurch.org) speak at one of our leadership events this past week. As an added bonus, he spoke to just the staff.
 

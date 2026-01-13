@@ -1,12 +1,11 @@
 ---
 title: Love your neighbor.  Start with a name.
 date: 2008-03-27T09:06:39.000Z
-permalink: /love-your-neighbor-start-with-a-name/
 ---
 One evening, Duke Hammond (the president of 6:8), shared a little Bible nugget to the group. In part of his talk, he touched on the Greatest Commandment.
 
 > **Mark 12:30-31 (NIV)**
-> 
+>
 > 30 Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ 31 The second is this: ‘**Love your neighbor as yourself**.’ There is no commandment greater than these.”
 
 Love God. **Love your neighbor**.

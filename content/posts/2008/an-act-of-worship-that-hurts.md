@@ -1,7 +1,6 @@
 ---
 title: An act of worship that hurts
 date: 2008-02-19T08:46:08.000Z
-permalink: /an-act-of-worship-that-hurts/
 ---
 I received some advice once. It was “give it back to God.”
 

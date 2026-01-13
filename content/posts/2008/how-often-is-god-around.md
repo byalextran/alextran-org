@@ -1,7 +1,6 @@
 ---
 title: How often is God around?
 date: 2008-11-07T18:54:39.000Z
-permalink: /how-often-is-god-around/
 ---
 > **Job 9:11 (NIV)**
 > 11 When he passes me, I cannot see him;

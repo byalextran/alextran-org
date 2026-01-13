@@ -1,7 +1,6 @@
 ---
 title: Be Wise. Maximize.
 date: 2009-03-02T21:42:58.000Z
-permalink: /be-wise-maximize/
 ---
 ## One Verse
 

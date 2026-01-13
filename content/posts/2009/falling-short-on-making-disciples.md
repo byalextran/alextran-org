@@ -1,9 +1,8 @@
 ---
 title: Falling Short on Making Disciples
 date: 2009-03-10T08:27:51.000Z
-permalink: /falling-short-on-making-disciples/
 ---
-> **Matthew 28:19-20 (NIV)**  
+> **Matthew 28:19-20 (NIV)**
 > 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. \[…\]
 
 You know this verse if you’ve been a Christian for any period of time. Along with Matthew 22:36-40 ,this is probably one of the most significant commands Jesus ever gave us.

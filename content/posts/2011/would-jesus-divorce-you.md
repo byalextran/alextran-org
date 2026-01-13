@@ -1,7 +1,6 @@
 ---
 title: Would Jesus Divorce You?
 date: 2011-07-23 08:42:49+00:00
-permalink: /would-jesus-divorce-you/
 description: If you took an honest look at your relationship with Jesus, would it be considered healthy or would Jesus want to divorce you?
 ---
 I’ve been irked at myself lately.

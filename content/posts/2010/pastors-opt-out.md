@@ -2,7 +2,6 @@
 title: Should Ordained Pastors Opt Out of Social Security?
 description: A closer look at IRS Form 4361 and why the most common arguments for opting out of self-employment taxes are invalid. Links provided for further research.
 date: 2010-03-26T09:33:29.000Z
-permalink: /pastors-opt-out/
 ---
 Should ordained pastors/ministers opt out of self employment taxes (i.e. Social Security and Medicare taxes)?
 

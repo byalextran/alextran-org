@@ -1,7 +1,6 @@
 ---
 title: The Cost of Christian Ambition
 date: 2010-08-16T11:07:03.000Z
-permalink: /the-cost-of-christian-ambition/
 ---
 I read an article a few weeks ago. It asks the question: [Can you be a “great man” or “great woman” without being a butt-hole?](http://www.scottberkun.com/blog/2010/can-you-be-a-great-man/) Or is being a jerk a necessary quality to achieve greatness?
 
@@ -19,8 +18,8 @@ Is it worth it?
 
 Is it worth being stressed all the time? Is it worth not being there for your spouse/family? Is it worth being depressed and having no energy?
 
-> **Ecclesiastes 4:6 (NIV)**  
-> 6 Better one handful with tranquility  
+> **Ecclesiastes 4:6 (NIV)**
+> 6 Better one handful with tranquility
 > than two handfuls with toil…
 
 The focus of our ambition and desire should not be on our influence or accomplishment but on having a deep, meaningful relationship with Jesus Christ.

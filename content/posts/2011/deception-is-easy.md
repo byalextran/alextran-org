@@ -1,7 +1,6 @@
 ---
 title: Deception is Easy
 date: 2011-10-23 07:50:02+00:00
-permalink: /deception-is-easy/
 description: 'I believe I have reached a lethal level of understanding of the Christian faith. One that would let me fake Christian maturity. '
 ---
 This past week (on the 18th), I celebrated my 11 year spiritual birthday.
