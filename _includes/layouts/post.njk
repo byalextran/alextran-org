@@ -17,7 +17,7 @@ showNewsletter: true
         <h1 class="article-title" style="--stack-space: var(--s-3);">{{ title }}</h1>
 
         {# Metadata row #}
-        <div class="metadata cluster gap-sm">
+        <!--<div class="metadata cluster gap-sm">
             <span class="metadata-item color-muted">
                 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
             </span>
@@ -27,7 +27,7 @@ showNewsletter: true
                 {{ content | readingTime }}
             </span>
             {% endif %}
-        </div>
+        </div>-->
 
         {# Tags cluster #}
         {% set filteredTags = tags | filterTagList %}
