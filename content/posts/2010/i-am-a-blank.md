@@ -1,5 +1,5 @@
 ---
-title: I am a &lt;blank&gt;
+title: I am a <blank>
 date: 2010-03-08T10:18:56.000Z
 ---
 > For two years I have met for hundreds of hours on committees. I have never written a poem about it. It is deadening to my soul. I am a thinker. A writer. A preacher. A poet and songwriter. At least these are the avenues of love and service where my heart flourishes. . . .
