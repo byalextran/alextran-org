@@ -345,12 +345,10 @@
 
 .footer-label {
     font-weight: 700;
-    color: var(--color-text);
 }
 
 .footer-nav a {
     text-decoration: none;
-    color: var(--color-text);
     transition: color 0.15s ease;
 }
 
