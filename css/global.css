@@ -32,7 +32,7 @@
     --leading-extra-tight: 1.30;
 
     /* Layout */
-    --measure: 70ch;
+    --measure: 62ch;
     --measure-wide: calc(var(--measure) + 15ch);
     --max-width: 80rem;
     --gutter: var(--s1);
