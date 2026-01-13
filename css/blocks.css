@@ -354,10 +354,17 @@
 
 .footer-nav a:hover {
     color: var(--color-primary-hover);
+    opacity: 1;
 }
 
 .footer-nav a:focus-visible {
     color: var(--color-primary-hover);
+}
+
+/* Align icon centers with text x-height (optical adjustment for descenders) */
+.footer-nav svg {
+    transform: translateY(0.125em);
+    opacity: 0.8;
 }
 
 /* Right-align the Legal section on wide screens */
