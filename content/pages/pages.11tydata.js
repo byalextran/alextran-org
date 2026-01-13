@@ -7,7 +7,8 @@ export default {
 				return data.permalink;
 			}
 			// Otherwise compute from path, removing first segment: "/pages/foo/bar" → "/foo/bar/"
-			return data.page.filePathStem.replace(/^\/[^\/]+/, '') + '/' || '/';
+			// Also strip "/index" suffix so index files resolve to their directory path
+			return data.page.filePathStem.replace(/^\/[^\/]+/, '').replace(/\/index$/, '') + '/' || '/';
 		}
 	}
 };
