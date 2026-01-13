@@ -45,27 +45,3 @@ showNewsletter: true
         {{ content | safe }}
     </div>
 </article>
-
-{# Previous/Next Navigation #}
-{% if collections.posts %}
-{% set previousPost = collections.posts | getPreviousCollectionItem %}
-{% set nextPost = collections.posts | getNextCollectionItem %}
-{% if nextPost or previousPost %}
-<nav class="center" aria-label="Post navigation">
-    <div class="cluster gap-lg" style="--cluster-justify: space-between; padding-block: var(--s2); border-block-start: var(--border-thin) solid var(--color-border);">
-        {% if previousPost %}
-        <a href="{{ previousPost.url }}" class="stack gap-xs" style="text-decoration: none;">
-            <span class="color-muted text-sm">Previous</span>
-            <span class="color-primary">{{ previousPost.data.title }}</span>
-        </a>
-        {% endif %}
-        {% if nextPost %}
-        <a href="{{ nextPost.url }}" class="stack gap-xs" style="text-decoration: none; text-align: right; margin-inline-start: auto;">
-            <span class="color-muted text-sm">Next</span>
-            <span class="color-primary">{{ nextPost.data.title }}</span>
-        </a>
-        {% endif %}
-    </div>
-</nav>
-{% endif %}
-{% endif %}
