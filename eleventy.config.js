@@ -18,11 +18,16 @@ export default async function(eleventyConfig) {
 		}
 	});
 
-	// Featured posts collection
-	eleventyConfig.addCollection("featured", (collectionApi) => {
-		return collectionApi.getFilteredByTag("posts").filter((post) => {
-			return post.data.category === "featured";
+	// Get all unique categories
+	eleventyConfig.addCollection("categories", (collectionApi) => {
+		const posts = collectionApi.getFilteredByTag("posts");
+		const categories = new Set();
+		posts.forEach(post => {
+			if (post.data.category) {
+				categories.add(post.data.category);
+			}
 		});
+		return [...categories];
 	});
 
 	// Copy the contents of the `public` folder to the output folder
