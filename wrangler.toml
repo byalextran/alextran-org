@@ -5,6 +5,6 @@ compatibility_date = "2026-01-12"
 [vars]
 NEWSLETTER_LIST_ID = "9ffd577a-4310-11f0-9f1e-85b299aba0e2"
 NEWSLETTER_API_KEY = "eo_26ef50bbe1d66d0a1e1d9c2090846b206ce71bdce471ce4b321b239bb536bd79"
-SUBSCRIPTION_SUCCESS_MESSAGE = "Yee-haw, one more thing. Check your email and confirm you're not a robot spammer and you actually want to hear from me!"
+SUBSCRIPTION_SUCCESS_MESSAGE = "Yee-haw, one more thing. Click the link I just sent to your email. I’ll be in touch whenever I have new thoughts and discoveries!"
 SUBSCRIPTION_FAILED_MESSAGE = "An unexpected error happened subscribing. Try again and if it continues, could you do me a favor and reach out via my contact page? Thanks!"
 URL = "https://www.alextran.org"
