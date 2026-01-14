@@ -1,6 +1,7 @@
 ---
 title: The Secret Sauce to Spiritual Growth
 date: 2015-03-01 05:11:57+00:00
+permalink: /secret-sauce/
 redirectFrom: [/the-secret-sauce-to-spiritual-growth/]
 tags: featured
 description: How do we have spiritual “what the hell” moments? Times we look back and wonder how in the world did our faith get so strong?

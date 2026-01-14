@@ -1,7 +1,7 @@
 ---
 title: "SuperPower Calculator for Sheets (SPCs)"
 date: 2019-11-06
-coverImage: "numbers-on-a-track.jpg"
+image: /images/numbers-on-a-track.jpg
 permalink: /spc/
 redirectFrom: [/superpower-calculator/]
 ---
