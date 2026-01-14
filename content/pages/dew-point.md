@@ -1,7 +1,7 @@
 ---
 title: "Why the Dew Point is Way Better Than Humidity for Runners"
 description: You’re probably reading the weather wrong. Learn why dew point is the secret to actually understanding comfort levels.
-coverImage: "condensation-water-bottles-scaled.jpg"
+image: /images/condensation-water-bottles-scaled.jpg
 tags: featured
 ---
 
