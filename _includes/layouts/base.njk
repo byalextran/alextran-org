@@ -15,6 +15,9 @@
 		{% set pageTitle = title if overrideBaseTitle else title + " – " + metadata.name %}
 		<title>{{ pageTitle }}</title>
 
+		{# to work around facebook debugger not liking homepage urls with a trailing slash #}
+		{% set absolutePageUrl = metadata.url + (page.url if page.url != '/' else '') %}
+
 		{% include "partials/meta-tags.njk" %}
 		{% include "partials/link-tags.njk" %}
 		{% include "partials/style-tags.njk" %}
