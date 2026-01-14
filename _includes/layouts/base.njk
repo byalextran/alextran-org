@@ -12,7 +12,8 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>{% if overrideBaseTitle %}{{ title }}{% else %}{{ title }} – {{ metadata.name }}{% endif %}</title>
+		{% set pageTitle = title if overrideBaseTitle else title + " – " + metadata.name %}
+		<title>{{ pageTitle }}</title>
 
 		{% include "partials/meta-tags.njk" %}
 		{% include "partials/link-tags.njk" %}

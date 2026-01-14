@@ -1,7 +1,7 @@
 <meta name="description" content="{{ description or metadata.description }}">
 
 {# Open Graph Tags #}
-<meta property="og:title" content="{% if overrideBaseTitle %}{{ title }}{% else %}{{ title }} – {{ metadata.name }}{% endif %}">
+<meta property="og:title" content="{{ pageTitle }}">
 <meta property="og:description" content="{{ description or metadata.description }}">
 <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ metadata.name }}">
@@ -18,4 +18,4 @@
 {# og:image - use frontmatter image if provided, otherwise default #}
 {% set ogImage = image or metadata.image %}
 <meta property="og:image" content="{{ metadata.url }}{{ ogImage }}">
-<meta property="og:image:alt" content="{{ title }} – {{ metadata.name }}">
+<meta property="og:image:alt" content="{{ pageTitle }}">
