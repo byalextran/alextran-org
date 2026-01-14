@@ -1,42 +1,28 @@
 <!doctype html>
 <html lang="{{ metadata.language }}">
 	<head>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PPK8QXTB');</script>
-<!-- End Google Tag Manager -->
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PPK8QXTB');</script>
+		<!-- End Google Tag Manager -->
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 		<title>{% if overrideBaseTitle %}{{ title }}{% else %}{{ title }} – {{ metadata.name }}{% endif %}</title>
-		<meta name="description" content="{{ description }}">
-		<link rel="alternate" href="/feeds/atom.xml" type="application/atom+xml" title="Atom Feed – {{ metadata.name }}">
-		<link rel="alternate" href="/feeds/rss.xml" type="application/rss+xml" title="RSS Feed – {{ metadata.name }}">
 
-		{#- Web Fonts: Google Fonts + FontShare (Variable Fonts) #}
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link rel="preconnect" href="https://api.fontshare.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100..700;1,100..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-		<link href="https://api.fontshare.com/v2/css?f[]=general-sans@1&display=swap" rel="stylesheet">
-
-		{#- CUBE CSS: Global, Compositions, Utilities, Blocks #}
-		<style>{% include "css/global.css" %}</style>
-		<style>{% include "css/compositions.css" %}</style>
-		<style>{% include "css/utilities.css" %}</style>
-		<style>{% include "css/blocks.css" %}</style>
-
-		{#- Per-page CSS bundle #}
-		<style>{% getBundle "css" %}</style>
+		{% include "partials/meta-tags.njk" %}
+		{% include "partials/link-tags.njk" %}
+		{% include "partials/style-tags.njk" %}
 	</head>
 	<body class="stack">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPK8QXTB"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPK8QXTB"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 
 		{% include "partials/header.njk" %}
 
@@ -45,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</main>
 
 		{% if showNewsletter %}
-		{% include "partials/subscribe-section.njk" %}
+			{% include "partials/subscribe-section.njk" %}
 		{% endif %}
 
 		{% include "partials/footer.njk" %}
@@ -54,6 +40,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		{% js %}{% include "js/hamburger.js" %}{% endjs %}
 
 		<script type="module">{% getBundle "js" %}</script>
+
 		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
 	</body>
 </html>

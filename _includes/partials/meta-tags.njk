@@ -1,0 +1,21 @@
+<meta name="description" content="{{ description or metadata.description }}">
+
+{# Open Graph Tags #}
+<meta property="og:title" content="{{ title }} – {{ metadata.name }}">
+<meta property="og:description" content="{{ description or metadata.description }}">
+<meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ metadata.name }}">
+<meta property="og:locale" content="en_US">
+
+{# og:type - article for posts, website for everything else #}
+{% if layout == "layouts/post.njk" %}
+	<meta property="og:type" content="article">
+	<meta property="article:published_time" content="{{ page.date | htmlDateString }}">
+{% else %}
+	<meta property="og:type" content="website">
+{% endif %}
+
+{# og:image - use frontmatter image if provided, otherwise default #}
+{% set ogImage = image or metadata.image %}
+<meta property="og:image" content="{{ metadata.url }}{{ ogImage }}">
+<meta property="og:image:alt" content="{{ title }} – {{ metadata.name }}">
