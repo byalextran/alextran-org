@@ -1,6 +1,5 @@
 ---
 title: Contact
-description: Use my contact form to get in touch with me.
 showNewsletter: false
 ---
 
