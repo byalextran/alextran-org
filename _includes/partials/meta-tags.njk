@@ -1,7 +1,7 @@
 <meta name="description" content="{{ description or metadata.description }}">
 
 {# Open Graph Tags #}
-<meta property="og:title" content="{{ title }} – {{ metadata.name }}">
+<meta property="og:title" content="{% if overrideBaseTitle %}{{ title }}{% else %}{{ title }} – {{ metadata.name }}{% endif %}">
 <meta property="og:description" content="{{ description or metadata.description }}">
 <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ metadata.name }}">
