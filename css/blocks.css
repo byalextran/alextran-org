@@ -626,7 +626,7 @@ textarea {
 }
 
 .intro-box li {
-    margin-block: var(--s-1);
+    margin-block: var(--s-3);
 }
 
 .section-heading {
