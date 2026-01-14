@@ -13,7 +13,7 @@ I am
 
 I surrendered my life to Jesus Christ in my dorm room, at my computer, and with the door wide open. I was a sophomore in college.
 
-> **Luke 14:28, 33 (NIV)** 28 “Suppose one of you wants to build a tower. Will he not first sit down and estimate the cost to see if he has enough money to complete it? \[...\] 33 In the same way, any of you who does not give up everything he has cannot be my disciple.
+> “Suppose one of you wants to build a tower. Will he not first sit down and estimate the cost to see if he has enough money to complete it? ... In the same way, any of you who does not give up everything he has cannot be my disciple. **Luke 14:28, 33 (NIV)**
 
 But it wasn't until early 2005 that I took the time to "estimate the cost" of my commitment to Jesus. From there on out, I wasn't content with giving just my free time, but my entire life.
 

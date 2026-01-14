@@ -2,6 +2,6 @@ export default {
 	name: "Alex Tran",
 	language: "en",
 	url: "https://www.alextran.org",
-	description: "A field guide for the thoughtful practitioner. Actionable spirituality and lifestyle optimization that make both deeply satisfying.",
+	description: "Exploring the intersection of practical faith, useful life hacks, and the occasional rabbit hole. On a quest to make life and faith feel deeply satisfying.",
 	image: "/images/abstract-jellyfish.png"
 }
