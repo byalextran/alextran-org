@@ -4,7 +4,7 @@ description: Why pigment ink-based pens are the best for writing, taking notes, 
 date: 2020-08-09T08:05:00.000Z
 permalink: /bible-pens/
 redirectFrom: [/the-best-pen-for-writing-notes-and-underlining-in-your-bible/]
-tags: featured
+tags:
 ---
 ![pigma-micron](images/pigma-micron-300x185-DoNj5xYNATlN.jpg)
 
