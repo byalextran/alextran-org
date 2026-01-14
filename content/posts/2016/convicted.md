@@ -3,7 +3,9 @@ title: I got convicted
 date: 2016-10-15 08:49:00+00:00
 description: Conviction come's in the weirdest ways sometimes. One day you're saving money while enjoying a hobby. The next day, you're like oi vey.
 ---
-![Frog Stealing Money](images/stealing-frog-xZA8as6eMcoz.png)Conviction come's in the weirdest ways sometimes.
+![Frog Stealing Money](images/stealing-frog-xZA8as6eMcoz.png)
+
+Conviction come's in the weirdest ways sometimes.
 
 Over the past year, I've gotten more serious about running. Initially, I chose running because it was cheap way to stay fit. Hah, what a lie. Running hasn't been cheap. But that's a post for another time.
 
