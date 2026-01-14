@@ -189,6 +189,10 @@
     justify-content: flex-start;
 }
 
+.nav-wrapper[data-collapsed="true"] .nav-menu a::after {
+    display: none;
+}
+
 .nav-wrapper[data-collapsed="true"] .nav-menu a:hover {
     color: var(--color-primary-hover);
     background-color: var(--color-bg-alt);
