@@ -2,47 +2,28 @@
 title: What I’m Up to Now
 ---
 
-Last updated Wednesday, January 14, 2026.
+_Last updated Tuesday, February 24, 2026._
 
 ## Early Retirement
 
-Over the last couple months, I've been feeling myself trending in this direction. Was hoping to get confirmation from God when I took a silent retreat to [Abbey of Gethsemani](https://monks.org/) in Kentucky back in December. Alas, I didn't get any clarity so moving forward nonetheless with an open hand.
+As of the start of this year, I officially transitioned from being in a [sabbatical season](/just-be/) to being retired early. I'm getting a bit more confident telling people, but it's still a bit awkward.
 
-It could be a temporary thing. It could be long term.
+## Pro Pickleball
 
-Regardless, it's been awkward telling people.
+I got sponsored by [Selkirk](https://www.selkirk.com/) to their Emerging Pro Team in January. 💪🏻
 
-Mostly because of my own personal insecurities and feelings of weirdness around it. I'm slowly working through it and hope it'll be easier over time. I'll make a dedicated post about it at some point.
+With that came a lot more tournaments. I have one every weekend in February along with one in March (Pennsylvania) and May (New Jersey). I did well to start February, winning three out of the three events I played in along with $2100 in prize money. (By far the bigggest haul of my "career.")
 
-## Deep Work
+This past weekend, I played in the first weekend of the inaugural [USLPL 35+ Pro League](https://uslegendspickleball.com/35-teams), representing the [Chattanooga Iron Paddles](https://www.instagram.com/chattanoogaironpaddles/). It was a blast and reminded me how much I love the team format.
 
-With more margin now, this year's focus is on "playing." Building, creating, experimenting, and engaging with things that spark joy. _And_ without the burden that they have to lead to anything meaningful or productive.
+I lost more than I won, but that's good motivation. Will spend time experimenting with [PB Vision](https://pb.vision/?rf=GHWIS136) and AI before the March event to surface actionable insights.
 
-In my [sabbatical season](/just-be/), I've re-discovered my passion for building useful tools like:
+## LifeGroup Study
 
-- [Just the Points](https://justthepoints.alextran.org/): Facilitate watching pickleball matches without the dead time between points.
-- [YouTube Chapter Player](https://yt-chapter-player.alextran.org/?v=RSIsxSVsYug): Easily share game footage processed by Just the Points using YouTube.
-- [Mahjong Scorekeeper](https://mahjong.alextran.org/): Replaces a complicated spreadsheet my uncle was using.
-- [VerseTagger](https://github.com/byalextran/versetagger/): Experimenting with the YouVersion API.
+I've also been spending time each week reading [Emotionally Healthy Spirituality](https://amzn.to/4qTRbqO) (both the book and workbook) and distilling it into something my LifeGroup (Bible study) can talk through. God shifted my mindset/perspective on quite a few things during my sabbatical. In hindsight, a lot of it was getting a healthier perspective on my identity, breaking down false assumptions, and pulling back the layers on the why behind certain actions (which appeared healthy but on deeper reflection masked insecurities).
 
-I plan on open-sourcing (releasing for free) a short-term rental web app I've developed (and have been using) over the last few months to automate my smart lock and thermostat whenever it detects new reservations.
+The themes of the book seem similarly geared toward helping people discover their true selves and avoiding the traps of presenting a false self. So praying the book could lead to some inward reflection and insightful revelations for those in my group.
 
-It's about 80% ready to release.
+### Archive
 
-I'm also working through a backlog of things I want to write about from my sabbatical.
-
-## 35+ Pro Pickleball
-
-I recently got sponsored by [Selkirk](https://www.selkirk.com/) to their Emerging Pro Team. 💪🏻
-
-It comes at a good time since I'm competing in my first pro event at a combine (January 17-18) for a new league targeting 35-year-old players and older.
-
-If I play well and the team owner(s) like what they see, I'll get drafted to one of the inaugural teams and will compete in tournaments in Virgina, Pennsylvania, and New Jersey between February and May.
-
-## Website Overhaul
-
-I migrated the design of my site from [Eleventy Excellent](https://eleventy-excellent.netlify.app/) to a bespoke design I built with Claude Code.
-
-I'm **SOOOO** happy with it. I think I'm in love. 😍
-
-While the big buckets are done, I like digging into the details and am a recovering over polisher. Which means there's a lot more fine tuning I'd like to do.
+- [January 14, 2026])(https://github.com/byalextran/alextran-org/blob/d3c655fe558ce84c7ed5eef40cdc605d4515220a/content/pages/now.md)
