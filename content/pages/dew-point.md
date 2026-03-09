@@ -81,6 +81,21 @@ All you need is this table (which is easily memorized) …
 
 ## Comfort Levels at Various Dew Points
 
+{% css %}
+#dew-point-gradient th { background-color: var(--color-text); color: #fff; border-block-end-color: var(--color-text); }
+#dew-point-gradient td {border-block-end: none; }
+#dew-point-gradient tbody td { background-color: #a8c8e8; color: var(--color-text); }
+
+/* Warm rows: muted pastel gradient */
+#dew-point-gradient tbody tr:nth-child(1) td { background-color: #f0b0a8; }
+#dew-point-gradient tbody tr:nth-child(2) td { background-color: #f2bca4; }
+#dew-point-gradient tbody tr:nth-child(3) td { background-color: #f4c8a0; }
+#dew-point-gradient tbody tr:nth-child(4) td { background-color: #f5d5a0; }
+
+/* Last row: light blue instead of white */
+#dew-point-gradient tbody tr:last-child td { background-color: #d8e8f4; }
+{% endcss %}
+
 <figure id="dew-point-gradient" class="table-wrapper">
 
 | Dew Point (°F) | Dew Point (°C) | How It Feels |

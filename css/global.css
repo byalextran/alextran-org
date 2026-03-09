@@ -239,6 +239,9 @@ table {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.95em;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 th,
@@ -246,6 +249,7 @@ td {
     padding: var(--s-1) var(--s0);
     text-align: left;
     border-block-end: var(--border-thin) solid var(--color-border);
+    white-space: nowrap;
 }
 
 th {
