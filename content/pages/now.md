@@ -4,16 +4,18 @@ title: What I’m Up to Now
 
 Updated April 1, 2026 from a really cold coffee shop in Franklin, TN while enjoying a slice of a lemon loaf. 🥶
 
-## Indefinite Sabbatical
+## Open-Ended Sabbatical
 
-I've continued wrestling with sharing I'm retired early with people. In the vast majority of conversations, it's unfortunately been a conversation killer. I'm going to start saying I'm in an indefinite sabbatical focusing on pickleball, web apps, and writing. Hopefully that lands better and offers more conversational fodder.
+I've continued wrestling with sharing I'm retired early with people. In the vast majority of conversations, it's unfortunately been a conversation killer. I'm going to start saying I'm in an open-ended sabbatical focusing on pickleball, web apps, and writing. Hopefully that lands better and offers more conversational fodder.
 
 ## Budding Triathlete (Pickleball, Skiing, Running) 😆
 
 **Pickleball**
+
 I wrapped up the second weekend of the inaugural [USLPL 35+ Pro League](https://uslegendspickleball.com/35-teams) in Hatboro, PA with my team, the [Chattanooga Iron Paddles](https://www.instagram.com/chattanoogaironpaddles/). Unfortunately, we went 0-4 on the weekend and sit 5th out of six teams. We've got one more showcase to go before championship weekend, so time to dial things in and make a championship run!
 
 **Skiing**
+
 The consolation prize was my older sister and I drove up to [Burke Mountain](https://skiburke.com/) afterward and spent two days skiing there. Only the third time I've skiied and first time I've experienced a ski in/ski out setup (the backyard is right next to the lifts). Let me tell you, that's the way to go!
 
 It was great quality time with the sister and had so much fun. Felt comfortable on the greens and then thought I was going to die on the first blue I tried. Went back to the greens to build confidence and then tackled a handful more blues.
@@ -23,6 +25,7 @@ I can totally understand why people hurt themselves skiing. The trails felt scar
 Biggest win of the weekend was coming out with 2 out of 2 ACLs and all ligaments and tendons intact.
 
 **Running**
+
 A friend from LifeGroup wants to get back into running and do a 5k. That was enough motivation for me to try and come out of running retirement. So I've run once a week the last four weeks and this week will ramp it up to twice a week.
 
 I also signed up for a 5k in early August. So have a long runway to prepare.
