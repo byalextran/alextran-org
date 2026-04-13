@@ -4,10 +4,6 @@ title: What I’m Up to Now
 
 Updated April 1, 2026 from a really cold coffee shop in Franklin, TN while enjoying a slice of a lemon loaf. 🥶
 
-## Open-Ended Sabbatical
-
-I've continued wrestling with sharing I'm retired early with people. In the vast majority of conversations, it's unfortunately been a conversation killer. I'm going to start saying I'm in an open-ended sabbatical focusing on pickleball, web apps, and writing. Hopefully that lands better and offers more conversational fodder.
-
 ## Budding Triathlete (Pickleball, Skiing, Running) 😆
 
 **Pickleball**
