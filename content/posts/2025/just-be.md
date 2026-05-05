@@ -40,8 +40,8 @@ So I asked.
 
 As soon as I did, the Holy Spirit had me instantly lock into this line of the song that was playing in the background:
 
-> When you just be who you were meant to be
-> His heart is moved
+> When you just be who you were meant to be <br>
+> His heart is moved <br>
 
 It was the first time I had heard the song, and I knew there was more there.
 
@@ -51,13 +51,13 @@ And I was wrecked.
 
 The first part of the song says:
 
-> All my ambitions
-> My hopes, my dreams
-> And here's my life, Lord
-> A sacrifice
-> Oh, just to bless You
-> And I just wanna move Your heart
-> It's all I wanna do
+> All my ambitions <br>
+> My hopes, my dreams <br>
+> And here's my life, Lord <br>
+> A sacrifice <br>
+> Oh, just to bless You <br>
+> And I just wanna move Your heart <br>
+> It's all I wanna do <br>
 
 Prior to starting in full-time church ministry, I worked at a software startup with the goal of learning as much as I could so I could eventually start my own and make a lot of money.
 
@@ -69,12 +69,12 @@ Which at the time meant quitting my job and doing a full-time, unpaid internship
 
 The song then transitions into:
 
-> Is it a fragrance?
-> Then I'll pour my oil out
-> Is it a life laid down?
-> Then here I give my vows
-> Is it a song I sing?
-> Then here's every melody
+> Is it a fragrance? <br>
+> Then I'll pour my oil out <br>
+> Is it a life laid down? <br>
+> Then here I give my vows <br>
+> Is it a song I sing? <br>
+> Then here's every melody <br>
 
 Which I interpreted as if you want me to do this God, I will. If you want me to do that God, I will.
 
@@ -88,11 +88,11 @@ My internal dialogue lately was, “God, I just want to feel your pleasure. I kn
 
 Much the heart cry of the song as it continued.
 
-> Tell me what moves You (I wanna know, I wanna know)
-> …
-> Tell me what moves You (I gotta know, I gotta know)
-> …
-> Tell me what moves You
+> Tell me what moves You (I wanna know, I wanna know) <br>
+> … <br>
+> Tell me what moves You (I gotta know, I gotta know) <br>
+> … <br>
+> Tell me what moves You <br>
 
 But then the part of the song that truly wrecked me.
 
@@ -102,17 +102,17 @@ For the last 20 years, I was striving to figure out what job or role I could do 
 
 But that’s not what God was wanting.
 
-> I hear the Lord say, "It's you, it's you, that moves Me
-> You without the talent
-> You without the performance
-> …
-> You really move Me
-> …
-> You blow Me away
-> …
-> When you just be who you were meant to be
-> His heart is moved
-> His heart is moved by you
+> I hear the Lord say, "It's you, it's you, that moves Me <br>
+> You without the talent <br>
+> You without the performance <br>
+> … <br>
+> You really move Me <br>
+> … <br>
+> You blow Me away <br>
+> … <br>
+> When you just be who you were meant to be <br>
+> His heart is moved <br>
+> His heart is moved by you <br>
 
 Me. Just me.
 
@@ -140,4 +140,4 @@ It’ll be all about creating space for God. Just being. Listening. And seeing w
 
 Speaking of listening, check out the song if you haven't before.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hz2iqxOpZoM?si=7U_UkhCi5yX2QmcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hz2iqxOpZoM?si=7U_UkhCi5yX2QmcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
