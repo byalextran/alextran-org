@@ -140,4 +140,4 @@ It’ll be all about creating space for God. Just being. Listening. And seeing w
 
 Speaking of listening, check out the song if you haven't before.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/hz2iqxOpZoM?si=7U_UkhCi5yX2QmcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hz2iqxOpZoM?si=7U_UkhCi5yX2QmcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
