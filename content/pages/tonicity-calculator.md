@@ -15,7 +15,7 @@ Outside the United States? If Amazon in your country doesn't have the same produ
 
 For the best experience, view the calculator on a computer and not a mobile device.
 
-<iframe style="display: block; margin: 0 auto;" width="100%" height="480" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=6D52A7E9EED8BDD%21116&amp;authkey=%21AAowdrvqwCJPrp4&amp;em=2&amp;wdAllowInteractivity=False&amp;AllowTyping=True&amp;ActiveCell='Calculator'!B2&amp;wdHideHeaders=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True"></iframe>
+<iframe width="100%" height="480" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/06d52a7e9eed8bdd/UQTdi-2efirVIIAGdAAAAAAAAAowdrvqwCJPrp4?wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Calculator'!B2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edaebf=rslc0"></iframe>
 
 ### Step 1: Figure Out Your Desired Nutrition Per Hour
 
