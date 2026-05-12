@@ -1,0 +1,16 @@
+---
+title: What I’m Up to Now
+---
+
+{% set entries = collections.now | reverse %}
+{% set latest = entries | first %}
+
+{% if latest %}
+{{ latest.templateContent | safe }}
+
+<hr>
+
+<p><a href="/now/archive/">View previous now entries</a></p>
+{% else %}
+<p>No now entries yet.</p>
+{% endif %}

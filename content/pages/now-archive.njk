@@ -1,0 +1,18 @@
+---
+title: Now Archive
+permalink: /now/archive/
+---
+
+{% set entries = collections.now | reverse %}
+
+{% if entries.length %}
+<ul>
+	{% for entry in entries %}
+	<li>
+		<a href="{{ entry.url }}">{{ entry.date | readableDate }}</a>
+	</li>
+	{% endfor %}
+</ul>
+{% else %}
+<p>No now entries yet.</p>
+{% endif %}
