@@ -2,6 +2,6 @@ export default {
 	tags: [
 		"now"
 	],
-	layout: "layouts/page.njk",
+	layout: "layouts/now.njk",
 	permalink: "/now/{{ page.fileSlug }}/"
 };

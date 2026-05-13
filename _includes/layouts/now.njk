@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+showNewsletter: true
+---
+{% set entries = collections.now | reverse %}
+{% set latest = entries | first %}
+{% set updatedDate = latest.date if showLatestUpdated else page.date %}
+
+<article class="article center stack">
+	<header class="article-header stack">
+		<h1 class="article-title">What I'm Up to Now</h1>
+		{% if updatedDate %}
+		<p>Last updated on {{ updatedDate | readableDate("cccc, LLLL d, yyyy") }}</p>
+		{% endif %}
+	</header>
+
+	<div class="article-content stack">
+		{{ content | safe }}
+	</div>
+</article>

@@ -1,5 +1,7 @@
 ---
-title: What I’m Up to Now
+title: What I'm Up to Now
+layout: layouts/now.njk
+showLatestUpdated: true
 ---
 
 {% set entries = collections.now | reverse %}
@@ -8,9 +10,7 @@ title: What I’m Up to Now
 {% if latest %}
 {{ latest.templateContent | safe }}
 
-<hr>
-
-<p><a href="/now/archive/">View previous now entries</a></p>
+<p><a href="/now/archive/">View Now archive</a></p>
 {% else %}
-<p>No now entries yet.</p>
+<p>No entries yet.</p>
 {% endif %}
