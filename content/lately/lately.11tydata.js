@@ -1,9 +1,9 @@
 export default {
 	tags: [
-		"now"
+		"lately"
 	],
-	layout: "layouts/now.njk",
-	permalink: "/now/{{ page.fileSlug }}/",
+	layout: "layouts/lately.njk",
+	permalink: "/lately/{{ page.fileSlug }}/",
 	eleventyComputed: {
 		title: data => {
 			const entryDate = new Intl.DateTimeFormat("en-US", {
@@ -13,7 +13,7 @@ export default {
 				timeZone: "UTC",
 			}).format(data.page.date);
 
-			return `Now Entry for ${entryDate}`;
+			return `Lately Entry for ${entryDate}`;
 		}
 	}
 };

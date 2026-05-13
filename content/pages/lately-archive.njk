@@ -1,9 +1,9 @@
 ---
-title: Now Archive
-permalink: /now/archive/
+title: Lately Archive
+permalink: /lately/archive/
 ---
 
-{% set entries = collections.now | reverse %}
+{% set entries = collections.lately | reverse %}
 
 {% if entries.length %}
 <ul>
@@ -11,8 +11,8 @@ permalink: /now/archive/
 	<li>
 		<a href="{{ entry.url }}">{{ entry.date | readableDate("LLLL d, yyyy") }}</a>
 	</li>
-	{% endfor %}
+{% endfor %}
 </ul>
 {% else %}
-<p>No now entries yet.</p>
+<p>No Lately entries yet.</p>
 {% endif %}

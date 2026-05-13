@@ -1,0 +1,18 @@
+---
+title: What I've Been Up to Lately
+layout: layouts/lately.njk
+showLatestUpdated: true
+redirectFrom:
+  - /now/
+---
+
+{% set entries = collections.lately | reverse %}
+{% set latest = entries | first %}
+
+{% if latest %}
+{{ latest.templateContent | safe }}
+
+<p><a href="/lately/archive/">View previous entries</a></p>
+{% else %}
+<p>No entries yet.</p>
+{% endif %}
