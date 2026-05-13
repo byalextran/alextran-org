@@ -9,7 +9,7 @@ permalink: /now/archive/
 <ul>
 	{% for entry in entries %}
 	<li>
-		<a href="{{ entry.url }}">{{ entry.date | readableDate }}</a>
+		<a href="{{ entry.url }}">{{ entry.date | readableDate("LLLL d, yyyy") }}</a>
 	</li>
 	{% endfor %}
 </ul>
