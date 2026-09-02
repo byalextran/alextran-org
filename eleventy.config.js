@@ -2,8 +2,38 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync } from "node:fs";
+import { basename, dirname, join } from "node:path";
 
 import pluginFilters from "./_config/filters.js";
+
+function getPostAssetCopies() {
+	const copies = [];
+	const years = readdirSync("content/posts", { withFileTypes: true })
+		.filter(entry => entry.isDirectory())
+		.map(entry => join("content/posts", entry.name));
+
+	for (const yearDir of years) {
+		for (const entry of readdirSync(yearDir, { withFileTypes: true })) {
+			if (!entry.isFile() || !entry.name.endsWith(".md")) {
+				continue;
+			}
+
+			const inputPath = join(yearDir, entry.name);
+			const content = readFileSync(inputPath, "utf8");
+			const assetsPath = join(dirname(inputPath), "assets");
+
+			if (content.includes("(assets/") && existsSync(assetsPath)) {
+				copies.push({
+					input: assetsPath,
+					output: `${basename(entry.name, ".md")}/assets`
+				});
+			}
+		}
+	}
+
+	return copies;
+}
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -39,6 +69,14 @@ export default async function(eleventyConfig) {
 			"./public/": "/"
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
+
+	eleventyConfig.on("eleventy.after", ({ dir }) => {
+		for (const copy of getPostAssetCopies()) {
+			const outputPath = join(dir.output, copy.output);
+			mkdirSync(dirname(outputPath), { recursive: true });
+			cpSync(copy.input, outputPath, { recursive: true });
+		}
+	});
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
